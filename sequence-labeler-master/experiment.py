@@ -15,6 +15,7 @@ except:
 from labeler import SequenceLabeler
 from evaluator import SequenceLabelingEvaluator
 
+
 def read_input_files(file_paths, max_sentence_length=-1):
     """
     Reads input files in whitespace-separated format.
@@ -29,7 +30,10 @@ def read_input_files(file_paths, max_sentence_length=-1):
             for line in f:
                 line = line.strip()
                 if len(line) > 0:
+
                     line_parts = line.split()
+                    if line_parts[0][0] == '#':
+                        continue
                     assert(len(line_parts) >= 2)
                     assert(len(line_parts) == line_length or line_length == None)
                     line_length = len(line_parts)
@@ -42,7 +46,6 @@ def read_input_files(file_paths, max_sentence_length=-1):
                 if max_sentence_length <= 0 or len(sentence) <= max_sentence_length:
                     sentences.append(sentence)
     return sentences
-
 
 
 def parse_config(config_section, config_path):
@@ -103,7 +106,8 @@ def create_batches_of_sentence_ids(sentences, batch_equal_size, max_batch_size):
                 batch_size = int((-1.0 * max_batch_size) / sentence_length)
 
             for i in range(0, len(sentence_ids_by_length[sentence_length]), batch_size):
-                batches_of_sentence_ids.append(sentence_ids_by_length[sentence_length][i:i + batch_size])
+                batches_of_sentence_ids.append(
+                    sentence_ids_by_length[sentence_length][i:i + batch_size])
     else:
         current_batch = []
         max_sentence_length = 0
@@ -112,7 +116,7 @@ def create_batches_of_sentence_ids(sentences, batch_equal_size, max_batch_size):
             if len(sentences[i]) > max_sentence_length:
                 max_sentence_length = len(sentences[i])
             if (max_batch_size > 0 and len(current_batch) >= max_batch_size) \
-              or (max_batch_size <= 0 and len(current_batch)*max_sentence_length >= (-1 * max_batch_size)):
+                    or (max_batch_size <= 0 and len(current_batch)*max_sentence_length >= (-1 * max_batch_size)):
                 batches_of_sentence_ids.append(current_batch)
                 current_batch = []
                 max_sentence_length = 0
@@ -121,19 +125,21 @@ def create_batches_of_sentence_ids(sentences, batch_equal_size, max_batch_size):
     return batches_of_sentence_ids
 
 
-
 def process_sentences(data, labeler, is_training, learningrate, config, name):
     """
     Process all the sentences with the labeler, return evaluation metrics.
     """
-    evaluator = SequenceLabelingEvaluator(config["main_label"], labeler.label2id, config["conll_eval"])
-    batches_of_sentence_ids = create_batches_of_sentence_ids(data, config["batch_equal_size"], config["max_batch_size"])
+    evaluator = SequenceLabelingEvaluator(
+        config["main_label"], labeler.label2id, config["conll_eval"])
+    batches_of_sentence_ids = create_batches_of_sentence_ids(
+        data, config["batch_equal_size"], config["max_batch_size"])
     if is_training == True:
         random.shuffle(batches_of_sentence_ids)
 
     for sentence_ids_in_batch in batches_of_sentence_ids:
         batch = [data[i] for i in sentence_ids_in_batch]
-        cost, predicted_labels, predicted_probs = labeler.process_batch(batch, is_training, learningrate)
+        cost, predicted_labels, predicted_probs = labeler.process_batch(
+            batch, is_training, learningrate)
 
         evaluator.append_data(cost, batch, predicted_labels)
 
@@ -148,7 +154,6 @@ def process_sentences(data, labeler, is_training, learningrate, config, name):
     return results
 
 
-
 def run_experiment(config_path):
     config = parse_config("config", config_path)
     temp_model_path = config_path + ".model"
@@ -161,7 +166,8 @@ def run_experiment(config_path):
 
     data_train, data_dev, data_test = None, None, None
     if config["path_train"] != None and len(config["path_train"]) > 0:
-        data_train = read_input_files(config["path_train"], config["max_train_sent_length"])
+        data_train = read_input_files(
+            config["path_train"], config["max_train_sent_length"])
     if config["path_dev"] != None and len(config["path_dev"]) > 0:
         data_dev = read_input_files(config["path_dev"])
     if config["path_test"] != None and len(config["path_test"]) > 0:
@@ -173,14 +179,16 @@ def run_experiment(config_path):
         labeler = SequenceLabeler.load(config["load"])
     else:
         labeler = SequenceLabeler(config)
-        labeler.build_vocabs(data_train, data_dev, data_test, config["preload_vectors"])
+        labeler.build_vocabs(data_train, data_dev,
+                             data_test, config["preload_vectors"])
         labeler.construct_network()
         labeler.initialize_session()
         if config["preload_vectors"] != None:
             labeler.preload_word_embeddings(config["preload_vectors"])
 
     print("parameter_count: " + str(labeler.get_parameter_count()))
-    print("parameter_count_without_word_embeddings: " + str(labeler.get_parameter_count_without_word_embeddings()))
+    print("parameter_count_without_word_embeddings: " +
+          str(labeler.get_parameter_count_without_word_embeddings()))
 
     if data_train != None:
         model_selector = config["model_selector"].split(":")[0]
@@ -193,20 +201,23 @@ def run_experiment(config_path):
             print("current_learningrate: " + str(learningrate))
             random.shuffle(data_train)
 
-            results_train = process_sentences(data_train, labeler, is_training=True, learningrate=learningrate, config=config, name="train")
+            results_train = process_sentences(
+                data_train, labeler, is_training=True, learningrate=learningrate, config=config, name="train")
 
             if data_dev != None:
-                results_dev = process_sentences(data_dev, labeler, is_training=False, learningrate=0.0, config=config, name="dev")
+                results_dev = process_sentences(
+                    data_dev, labeler, is_training=False, learningrate=0.0, config=config, name="dev")
 
                 if math.isnan(results_dev["dev_cost_sum"]) or math.isinf(results_dev["dev_cost_sum"]):
                     sys.stderr.write("ERROR: Cost is NaN or Inf. Exiting.\n")
                     break
 
-                if (epoch == 0 or (model_selector_type == "high" and results_dev[model_selector] > best_selector_value) 
-                               or (model_selector_type == "low" and results_dev[model_selector] < best_selector_value)):
+                if (epoch == 0 or (model_selector_type == "high" and results_dev[model_selector] > best_selector_value)
+                        or (model_selector_type == "low" and results_dev[model_selector] < best_selector_value)):
                     best_epoch = epoch
                     best_selector_value = results_dev[model_selector]
-                    labeler.saver.save(labeler.session, temp_model_path, latest_filename=os.path.basename(temp_model_path)+".checkpoint")
+                    labeler.saver.save(labeler.session, temp_model_path, latest_filename=os.path.basename(
+                        temp_model_path)+".checkpoint")
                 print("best_epoch: " + str(best_epoch))
 
                 if config["stop_if_no_improvement_for_epochs"] > 0 and (epoch - best_epoch) >= config["stop_if_no_improvement_for_epochs"]:
@@ -234,10 +245,10 @@ def run_experiment(config_path):
         i = 0
         for path_test in config["path_test"].strip().split(":"):
             data_test = read_input_files(path_test)
-            results_test = process_sentences(data_test, labeler, is_training=False, learningrate=0.0, config=config, name="test"+str(i))
+            results_test = process_sentences(
+                data_test, labeler, is_training=False, learningrate=0.0, config=config, name="test"+str(i))
             i += 1
 
 
 if __name__ == "__main__":
     run_experiment(sys.argv[1])
-
