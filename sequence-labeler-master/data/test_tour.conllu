@@ -1,0 +1,11339 @@
+1	बाहु_	N_NNP
+2	किले_	N_NN
+3	को_	PSP
+4	शहर_	N_NN
+5	का_	PSP
+6	सबसे_	RP_INTF
+7	पुराना_	JJ
+8	किला_	N_NN
+9	माना_	V_VM
+10	जाता_	V_VAUX
+11	है_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	बाहु_	N_NNP
+2	किले_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	राजा_	N_NN
+6	बाहुलोचन_	N_NNP
+7	(_	RD_PUNC
+8	राजा_	N_NN
+9	जंबूलोचन_	N_NNP
+10	का_	PSP
+11	भाई_	N_NN
+12	)_	RD_PUNC
+13	ने_	PSP
+14	3_	QT_QTC
+15	हजार_	QT_QTC
+16	साल_	N_NN
+17	पहले_	N_NST
+18	करवाया_	V_VM
+19	था_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	से_	PSP
+3	लगभग_	RP_RPD
+4	45_	QT_QTC
+5	किलोमीटर_	N_NN
+6	दूर_	N_NST
+7	स्थित_	JJ
+8	है_	V_VM
+9	मानसर_	N_NNP
+10	झील_	N_NN
+11	।_	RD_PUNC
+
+
+1	खूबसूरत_	JJ
+2	मानसर_	N_NNP
+3	झील_	N_NN
+4	आसपास_	N_NST
+5	स्थित_	JJ
+6	जंगलों_	N_NN
+7	से_	PSP
+8	घिरी_	V_VM
+9	हुई_	V_VAUX
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	खूबसूरत_	JJ
+2	मानसर_	N_NNP
+3	झील_	N_NN
+4	पर्यटन_	N_NN
+5	की_	PSP
+6	दृष्टि_	N_NN
+7	से_	PSP
+8	एक_	QT_QTC
+9	आदर्श_	JJ
+10	स्थान_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	झील_	N_NN
+2	में_	PSP
+3	नौकायन_	N_NN
+4	करते_	V_VM
+5	हुए_	V_VAUX
+6	इस_	PR_PRP
+7	के_	PSP
+8	किनारे_	N_NN
+9	पर_	PSP
+10	बने_	V_VM
+11	पुराने_	JJ
+12	महल_	N_NN
+13	के_	PSP
+14	खंडहर_	N_NN
+15	दिखते_	V_VM
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	सुरिनसर_	N_NNP
+2	झील_	N_NN
+3	जम्मू_	N_NNP
+4	से_	PSP
+5	42_	QT_QTC
+6	किलोमीटर_	N_NN
+7	दूर_	N_NST
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	सुरिनसर_	N_NNP
+2	झील_	N_NN
+3	की_	PSP
+4	लम्बाई_	N_NN
+5	NULL_	CC_CCD
+6	चौड़ाई_	N_NN
+7	मानसर_	N_NNP
+8	झील_	N_NN
+9	से_	PSP
+10	कम_	QT_QTF
+11	है_	V_VM
+12	लेकिन_	CC_CCD
+13	इस_	PR_PRP
+14	की_	PSP
+15	खूबसूरती_	N_NN
+16	पर्यटकों_	N_NN
+17	का_	PSP
+18	मन_	N_NN
+19	मोह_	V_VM
+20	लेती_	V_VAUX
+21	है_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	से_	PSP
+3	लगभग_	RP_RPD
+4	65_	QT_QTC
+5	किलोमीटर_	N_NN
+6	दूर_	N_NST
+7	जम्मू_	N_NNP
+8	-_	RD_PUNC
+9	कश्मीर_	N_NNP
+10	राज्य_	N_NN
+11	के_	PSP
+12	रियासी_	JJ
+13	कसबे_	N_NN
+14	में_	PSP
+15	शिवखोड़ी_	N_NNP
+16	की_	PSP
+17	गुफा_	N_NN
+18	कुदरत_	N_NN
+19	का_	PSP
+20	एक_	QT_QTC
+21	अजूबा_	N_NN
+22	जान_	V_VM
+23	पड़ती_	V_VAUX
+24	है_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	गुफा_	N_NN
+2	लगभग_	RP_RPD
+3	150_	QT_QTC
+4	किलोमीटर_	N_NN
+5	लंबी_	JJ
+6	है_	V_VM
+7	।_	RD_PUNC
+
+
+1	शिवखोड़ी_	N_NNP
+2	की_	PSP
+3	गुफा_	N_NN
+4	की_	PSP
+5	विशेषता_	N_NN
+6	है_	V_VM
+7	कि_	CC_CCS
+8	इसका_	PR_PRP
+9	दाहिना_	JJ
+10	हिस्सा_	N_NN
+11	बहुत_	QT_QTF
+12	सँकरा_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	दूर_	N_NST
+2	से_	PSP
+3	इस_	DM_DMD
+4	सँकरे_	N_NN
+5	को_	PSP
+6	देखने_	V_VM
+7	पर_	PSP
+8	लगता_	V_VM
+9	है_	V_VAUX
+10	कि_	CC_CCS
+11	इसके_	PR_PRP
+12	अंदर_	N_NST
+13	जाना_	V_VM
+14	असंभव_	JJ
+15	है_	V_VM
+16	लेकिन_	CC_CCD
+17	गुफा_	N_NN
+18	के_	PSP
+19	अंदर_	N_NST
+20	जाते_	V_VM
+21	ही_	RP_RPD
+22	एक_	QT_QTC
+23	चौड़ा_	JJ
+24	मैदान_	N_NN
+25	दिखाई_	V_VM
+26	देने_	V_VAUX
+27	लगता_	V_VAUX
+28	है_	V_VAUX
+29	।_	RD_PUNC
+
+
+1	यह_	DM_DMD
+2	मंदिर_	N_NN
+3	कालिका_	N_NNP
+4	माता_	N_NN
+5	मंदिर_	N_NN
+6	का_	PSP
+7	ही_	RP_RPD
+8	समकालीन_	N_NN
+9	है_	V_VM
+10	तथा_	CC_CCD
+11	इसकी_	PR_PRP
+12	वास्तु_	N_NN
+13	योजना_	N_NN
+14	तथा_	CC_CCD
+15	शैली_	N_NN
+16	भी_	RP_RPD
+17	इससे_	PR_PRP
+18	मिलती_	V_VM
+19	-_	RD_SYM
+20	जुलती_	RD_ECH
+21	है_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	तरफ_	N_NST
+3	जहाँ_	PR_PRL
+4	मंदिर_	N_NN
+5	की_	PSP
+6	वास्तु_	N_NN
+7	योजना_	N_NN
+8	,_	RD_PUNC
+9	उन्नत_	JJ
+10	एवं_	CC_CCD
+11	सादी_	JJ
+12	पीठ_	N_NN
+13	,_	RD_PUNC
+14	अलंकरण_	N_NN
+15	रहित_	JJ
+16	जंघा_	N_NN
+17	एवं_	CC_CCD
+18	प्रदक्षिणापथ_	N_NN
+19	,_	RD_PUNC
+20	गर्भगृह_	N_NN
+21	के_	PSP
+22	बाह्य_	JJ
+23	ताखों_	N_NN
+24	की_	PSP
+25	देव_	N_NN
+26	प्रतिमाएँ_	N_NN
+27	तथा_	CC_CCD
+28	अंतराल_	N_NN
+29	के_	PSP
+30	अर्द्धस्तंभों_	N_NN
+31	की_	PSP
+32	प्रतिमाएँ_	N_NN
+33	8वीं_	QT_QTO
+34	सदी_	N_NN
+35	की_	PSP
+36	रचना_	N_NN
+37	प्रतीत_	JJ
+38	होती_	V_VM
+39	है_	V_VAUX
+40	।_	RD_PUNC
+
+
+1	कुंभस्वामी_	N_NNP
+2	का_	PSP
+3	यह_	DM_DMR
+4	मंदिर_	N_NN
+5	विभिन्न_	JJ
+6	कालों_	N_NN
+7	में_	PSP
+8	निर्मित_	JJ
+9	होने_	V_VM
+10	के_	PSP
+11	कारण_	PSP
+12	,_	RD_PUNC
+13	कई_	QT_QTF
+14	वास्तु_	N_NN
+15	शैलियों_	N_NN
+16	एवं_	CC_CCD
+17	मूर्ति_	N_NN
+18	शिल्पों_	N_NN
+19	का_	PSP
+20	उदाहरण_	N_NN
+21	संजोये_	V_VM
+22	हुए_	V_VAUX
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	श्री_	N_NN
+2	ढाकी_	N_NNP
+3	के_	PSP
+4	अनुसार_	PSP
+5	राजा_	N_NN
+6	मानभंग_	N_NNP
+7	ने_	PSP
+8	ही_	RP_RPD
+9	इस_	DM_DMD
+10	मंदिर_	N_NN
+11	का_	PSP
+12	भी_	RP_RPD
+13	निर्माण_	N_NN
+14	किया_	V_VM
+15	।_	RD_PUNC
+
+
+1	राजा_	N_NN
+2	मानभंग_	N_NNP
+3	को_	PSP
+4	कालिका_	N_NNP
+5	माता_	N_NN
+6	सूर्य_	N__NN
+7	मंदिर_	N_NN
+8	,_	RD_PUNC
+9	निकटवर्ती_	JJ
+10	तड़ाग_	N_NN
+11	तथा_	CC_CCD
+12	त्रिपुरविजय_	N_NNP
+13	प्रासाद_	N_NN
+14	आदि_	RP_RPD
+15	के_	PSP
+16	निर्माण_	N_NN
+17	का_	PSP
+18	श्रेय_	N_NN
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	श्री_	N_NN
+2	ढाकी_	N_NNP
+3	के_	PSP
+4	अनुसार_	PSP
+5	कीर्तिस्तंभ_	N__NN
+6	प्रशस्ति_	N_NN
+7	का_	PSP
+8	कुंभस्वामिन_	N_NNP
+9	आलम_	N_NNP
+10	प्राचीन_	JJ
+11	त्रिपुर_	N_NNP
+12	विजय_	N_NN
+13	ही_	RP_RPD
+14	था_	V_VM
+15	।_	RD_PUNC
+
+
+1	कुंभस्वामिन_	N_NNP
+2	आलम_	N_NNP
+3	प्राचीन_	JJ
+4	त्रिपुर_	N_NNP
+5	विजय_	N_NN
+6	को_	PSP
+7	कुंभा_	N_NNP
+8	ने_	PSP
+9	फिर_	RB
+10	से_	PSP
+11	निर्मित_	JJ
+12	किया_	V_VM
+13	था_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	वर्त्तमान_	JJ
+2	कुंभश्याम_	N_NNP
+3	मंदिर_	N_NN
+4	का_	PSP
+5	सभामंडप_	N_NN
+6	फिर_	RB
+7	से_	PSP
+8	प्राचीन_	JJ
+9	अवशेषों_	N_NN
+10	और_	CC_CCD
+11	नवीन_	JJ
+12	पाषाणों_	N_NN
+13	द्वारा_	PSP
+14	बनाया_	V_VM
+15	गया_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	मूल_	JJ
+2	खंडित_	JJ
+3	शैव_	JJ
+4	मूर्तियों_	N_NN
+5	के_	PSP
+6	स्थान_	N_NN
+7	पर_	PSP
+8	नई_	JJ
+9	वैष्णव_	JJ
+10	मूर्तियाँ_	N_NN
+11	स्थापित_	JJ
+12	कर_	V_VM
+13	दी_	V_VM
+14	गई_	V_VAUX
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	सुरक्षित_	JJ
+2	शैव_	JJ
+3	मूर्तियों_	N_NN
+4	को_	PSP
+5	पूर्ववत्_	JJ
+6	ही_	RP_RPD
+7	रखा_	V_VM
+8	गया_	V_VAUX
+9	है_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	मंदिर_	N_NN
+2	की_	PSP
+3	पीठ_	N_NN
+4	पर_	PSP
+5	बना_	V_VM
+6	अश्वधर_	N_NN
+7	,_	RD_PUNC
+8	नरधर_	N_NN
+9	,_	RD_PUNC
+10	NULL_	CC_CCD
+11	ग्रास_	N_NN
+12	पट्टिका_	N_NN
+13	का_	PSP
+14	पूर्णतः_	RB
+15	अभाव_	N_NN
+16	इसे_	PR_PRP
+17	निश्चित_	JJ
+18	रूप_	N_NN
+19	से_	PSP
+20	८वीं_	QT_QTO
+21	शताब्दी_	N_NN
+22	का_	PSP
+23	निश्चित_	JJ
+24	करता_	V_VM
+25	है_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	कुंभश्याम_	N_NNP
+2	सांधान_	N_NNP
+3	प्रकार_	N_NN
+4	का_	PSP
+5	पूर्वाभिमुखी_	JJ
+6	प्रासाद_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	मंदिर_	N_NN
+2	का_	PSP
+3	गर्भगृह_	N_NN
+4	त्रयंग_	N_NN
+5	प्रकार_	N_NN
+6	का_	PSP
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	गर्भगृह_	N_NN
+2	का_	PSP
+3	प्रत्येक_	QT_QTF
+4	अंग_	N_NN
+5	एक_	QT_QTC
+6	सलिलांतर_	N_NN
+7	से_	PSP
+8	जुड़ा_	V_VM
+9	है_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	प्रत्येक_	QT_QTF
+2	कर्ण_	N_NN
+3	पर_	PSP
+4	दिग्पालों_	N_NN
+5	की_	PSP
+6	प्रतिमाएँ_	N_NN
+7	त्रिभंग_	N_NN
+8	में_	PSP
+9	खड़ी_	JJ
+10	हुई_	V_VM
+11	,_	RD_PUNC
+12	अत्यंत_	RP_INTF
+13	कमनीय_	JJ
+14	दिखाई_	V_VM
+15	पड़ती_	V_VAUX
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	भद्रा_	N_NNP
+2	की_	PSP
+3	रथिकाओं_	N_NN
+4	की_	PSP
+5	तीन_	QT_QTC
+6	शाखाएँ_	N_NN
+7	हैं_	V_VM
+8	-_	RD_PUNC
+9	पत्रवल्ली_	N_NNP
+10	,_	RD_PUNC
+11	नागपाश_	N_NNP
+12	और_	CC_CCD
+13	रूप_	N_NN
+14	शाखा_	N_NN
+15	।_	RD_PUNC
+
+
+1	चित्तौड़_	N_NNP
+2	दुर्ग_	N_NN
+3	में_	PSP
+4	समाधीश्वर_	N_NNP
+5	मंदिर_	N_NN
+6	का_	PSP
+7	स्थान_	N_NN
+8	महत्वपूर्ण_	JJ
+9	मंदिरों_	N_NN
+10	में_	PSP
+11	था_	V_VM
+12	।_	RD_PUNC
+
+
+1	शिव_	N_NNP
+2	समाधीश_	N_NNP
+3	का_	PSP
+4	चित्तौड़_	N_NNP
+5	के_	PSP
+6	जन_	N_NN
+7	-_	RD_SYM
+8	जीवन_	N_NN
+9	में_	PSP
+10	महत्वपूर्ण_	JJ
+11	स्थान_	N_NN
+12	था_	V_VM
+13	।_	RD_PUNC
+
+
+1	कुछ_	QT_QTF
+2	अभिलेखों_	N_NN
+3	के_	PSP
+4	अनुसार_	PSP
+5	समाधीश्वर_	N_NNP
+6	मंदिर_	N_NN
+7	को_	PSP
+8	'_	RD_PUNC
+9	समिधेश्वर_	N_NNP
+10	'_	RD_PUNC
+11	तथा_	CC_CCD
+12	अपभ्रंश_	N_NN
+13	रूप_	N_NN
+14	में_	PSP
+15	’_	RD_PUNC
+16	समिधेसुर_	N_NNP
+17	'_	RD_PUNC
+18	के_	PSP
+19	रूप_	PSP
+20	में_	PSP
+21	भी_	RP_RPD
+22	जाना_	V_VM
+23	जाता_	V_VAUX
+24	है_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	समाधीश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	के_	PSP
+4	निर्माण_	N_NN
+5	कर्त्ता_	N_NN
+6	,_	RD_PUNC
+7	अधिष्ठाता_	N_NN
+8	देव_	N_NN
+9	,_	RD_PUNC
+10	रचनाकाल_	N_NN
+11	तथा_	CC_CCD
+12	नाम_	N_NN
+13	को_	PSP
+14	लेकर_	V_VM
+15	इतिहासकारों_	N_NN
+16	में_	PSP
+17	मतभेद_	N_NN
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	सन्_	N_NN
+2	1428_	N_NNP
+3	ई._	N_NN
+4	की_	PSP
+5	एक_	QT_QTC
+6	प्रशस्ति_	N_NN
+7	के_	PSP
+8	अनुसार_	PSP
+9	महाराजा_	N_NN
+10	मोकल_	N_NNP
+11	ने_	PSP
+12	समाधीश्वर_	N_NNP
+13	मंदिर_	N_NN
+14	का_	PSP
+15	जीर्णोद्धार_	N_NN
+16	किया_	V_VM
+17	था_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	समाधीश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	को_	PSP
+4	'_	RD_PUNC
+5	मोकल_	N_NNP
+6	का_	PSP
+7	मंदिर_	N_NN
+8	'_	RD_PUNC
+9	के_	PSP
+10	रूप_	PSP
+11	में_	PSP
+12	भी_	RP_RPD
+13	जाना_	V_VM
+14	जाता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	कुछ_	QT_QTF
+2	विद्वानों_	N_NN
+3	,_	RD_PUNC
+4	जैसे_	RP_RPD
+5	श्री_	N_NN
+6	ढ़ाकी_	N_NNP
+7	के_	PSP
+8	अनुसार_	PSP
+9	,_	RD_PUNC
+10	समाधीश्वर_	N_NNP
+11	मंदिर_	N_NN
+12	चालुक्य_	N_NNP
+13	कुमारपाल_	N_NNP
+14	द्वारा_	PSP
+15	निर्मित_	JJ
+16	कुमार_	N_NNP
+17	विहार_	N_NN
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	वेदी_	N_NNP
+2	बंध_	N_NNP
+3	के_	PSP
+4	नरथर_	N_NNP
+5	एवं_	CC_CCD
+6	कुंभक_	N_NN
+7	तथा_	CC_CCD
+8	जंघा_	N_NN
+9	पर_	PSP
+10	जैन_	N_NNP
+11	शासन_	N_NN
+12	देवयों_	N_NN
+13	एवं_	CC_CCD
+14	यक्ष_	N_NN
+15	-_	RD_PUNC
+16	यक्षिणियों_	N_NN
+17	की_	PSP
+18	मूर्ति_	N_NN
+19	के_	PSP
+20	आधार_	PSP
+21	पर_	PSP
+22	तथा_	CC_CCD
+23	समाधीश्वर_	N_NNP
+24	मंदिर_	N_NN
+25	के_	PSP
+26	ही_	RP_RPD
+27	प्रांगण_	N_NN
+28	से_	PSP
+29	प्राप्त_	JJ
+30	कुमारपाल_	N_NNP
+31	की_	PSP
+32	1150_	N_NNP
+33	ई._	N_NN
+34	की_	PSP
+35	प्रशस्ति_	N_NN
+36	के_	PSP
+37	आधार_	PSP
+38	पर_	PSP
+39	इसे_	PR_PRP
+40	जैन_	N_NNP
+41	मंदिर_	N_NN
+42	माना_	V_VM
+43	है_	V_VAUX
+44	।_	RD_PUNC
+
+
+1	कुमारपाल_	N_NNP
+2	की_	PSP
+3	प्रशास्ति_	N_NN
+4	में_	PSP
+5	उसके_	PR_PRP
+6	शैव_	JJ
+7	उपासक_	N_NN
+8	होने_	V_VM
+9	का_	PSP
+10	ही_	RP_RPD
+11	प्रमाण_	N_NN
+12	मिलता_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	यद्यपि_	CC_CCD
+2	बाद_	N_NST
+3	में_	PSP
+4	यशपाल_	N_NNP
+5	के_	PSP
+6	मोहपराजय_	N_NNP
+7	नाटक_	N_NN
+8	के_	PSP
+9	अनुसार_	PSP
+10	सन्_	N_NN
+11	1159_	N_NNP
+12	ई._	N_NN
+13	(_	RD_SYM
+14	संवत्_	N_NN
+15	1216_	N_NNP
+16	)_	RD_SYM
+17	में_	PSP
+18	कुमारपाल_	N_NNP
+19	ने_	PSP
+20	जैन_	N_NNP
+21	धर्म_	N_NN
+22	स्वीकार_	N_NN
+23	कर_	V_VM
+24	लिया_	V_VAUX
+25	था_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	समाधीश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	में_	PSP
+4	उपलब्ध_	JJ
+5	दृश्यों_	N_NN
+6	का_	PSP
+7	अंकन_	N_NN
+8	सामान्य_	JJ
+9	रूप_	N_NN
+10	से_	PSP
+11	जैन_	N_NNP
+12	एवं_	CC_CCD
+13	हिंदू_	N_NNP
+14	सभी_	QT_QTF
+15	मंदिरों_	N_NN
+16	से_	PSP
+17	प्राप्त_	JJ
+18	होता_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	जैन_	N_NNP
+2	एवं_	CC_CCD
+3	हिंदू_	N_NNP
+4	धर्मों_	N_NN
+5	की_	PSP
+6	प्रासाद_	N_NN
+7	वस्तु_	N_NN
+8	एवं_	CC_CCD
+9	तक्षक_	N_NN
+10	एक_	QT_QTC
+11	ही_	RP_RPD
+12	हुआ_	V_VM
+13	करते_	V_VM
+14	थे_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	प्रकार_	N_NN
+3	समाधीश्वर_	N_NNP
+4	मंदिर_	N_NN
+5	'_	RD_PUNC
+6	कुमारपाल_	N_NNP
+7	का_	PSP
+8	विहार_	N_NN
+9	'_	RD_PUNC
+10	का_	PSP
+11	NULL_	N_NN
+12	न_	RP_NEG
+13	होकर_	V_VM
+14	आद्यंत_	RB
+15	शैव_	JJ
+16	प्रासाद_	N_NN
+17	प्रतीत_	JJ
+18	होता_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	समाधीश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	शिव_	N_NNP
+4	की_	PSP
+5	महेश_	N_NNP
+6	मूर्ति_	N_NN
+7	अर्थात_	RP_RPD
+8	वामदेव_	N_NNP
+9	,_	RD_PUNC
+10	सद्योजात_	JJ
+11	भैरव_	N_NNP
+12	का_	PSP
+13	रूप_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	महेश_	N_NNP
+2	मूर्ति_	N_NN
+3	की_	PSP
+4	विशालता_	N_NN
+5	एवं_	CC_CCD
+6	विस्पर्यात्पादकता_	N_NN
+7	अपूर्व_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	महेश_	N_NNP
+2	मूर्ति_	N_NN
+3	अर्थात_	RP_RPD
+4	वामदेव_	N_NNP
+5	,_	RD_PUNC
+6	शैली_	N_NN
+7	की_	PSP
+8	दृष्टि_	N_NN
+9	से_	PSP
+10	15वीं_	QT_QTO
+11	शताब्दी_	N_NN
+12	के_	PSP
+13	बाद_	N_NST
+14	की_	PSP
+15	NULL_	N_NN
+16	प्रतीत_	JJ
+17	होती_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	गर्भगृह_	N_NN
+2	का_	PSP
+3	धरातल_	N_NN
+4	गूढ़_	JJ
+5	मंडप_	N_NN
+6	से_	PSP
+7	नीचा_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	ऐसा_	PR_PRP
+2	प्रतीत_	JJ
+3	होता_	V_VM
+4	है_	V_VAUX
+5	कि_	CC_CCS
+6	जीर्णोद्धार_	N_NN
+7	के_	PSP
+8	समय_	PSP
+9	यह_	DM_DMD
+10	परिवर्त्तन_	N_NN
+11	किया_	V_VM
+12	गया_	V_VAUX
+13	हो_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	डॉ._	N_NN
+2	रामनाथ_	N_NNP
+3	तथा_	CC_CCD
+4	कई_	QT_QTF
+5	अन्य_	JJ
+6	विद्वानों_	N_NN
+7	ने_	PSP
+8	इस_	DM_DMD
+9	प्रासाद_	N_NN
+10	की_	PSP
+11	पहचान_	N_NN
+12	तथा_	CC_CCD
+13	निर्माण_	N_NN
+14	का_	PSP
+15	काल_	N_NN
+16	परमार_	N_NNP
+17	शासक_	N_NN
+18	भोज_	N_NNP
+19	द्वारा_	PSP
+20	निर्मित_	JJ
+21	त्रिभुवन_	N_NNP
+22	नारायण_	N_NNP
+23	से_	PSP
+24	करने_	V_VM
+25	का_	PSP
+26	प्रयास_	N_NN
+27	किया_	V_VM
+28	है_	V_VAUX
+29	।_	RD_PUNC
+
+
+1	इनके_	PR_PRP
+2	अनुसार_	PSP
+3	,_	RD_PUNC
+4	यह_	DM_DMD
+5	मंदिर_	N_NN
+6	1018_	N_NNP
+7	-_	RD_PUNC
+8	1054_	N_NNP
+9	ई._	N_NN
+10	में_	PSP
+11	भोज_	N_NNP
+12	राजा_	N_NN
+13	द्वारा_	PSP
+14	निर्मित_	JJ
+15	किया_	V_VM
+16	गया_	V_VAUX
+17	होगा_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	इसका_	PR_PRP
+2	उल्लेख_	N_NN
+3	चीरवा_	N_NN
+4	से_	PSP
+5	प्राप्त_	JJ
+6	अभिलेख_	N_NN
+7	में_	PSP
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	कल्याणपुर_	N_NNP
+2	उदयपुर_	N_NNP
+3	के_	PSP
+4	दक्षिण_	N_NNP
+5	में_	PSP
+6	77_	QT_QTC
+7	किलोमीटर_	N_NN
+8	दूर_	N_NST
+9	स्थित_	JJ
+10	है_	V_VM
+11	तथा_	CC_CCD
+12	शैवपीठ_	N_NNP
+13	के_	PSP
+14	रूप_	PSP
+15	में_	PSP
+16	लोकप्रिय_	JJ
+17	रहा_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	वर्त्तमान_	N_NN
+2	में_	PSP
+3	मंदिर_	N_NN
+4	अत्यंत_	RP_INTF
+5	जीर्ण_	JJ
+6	अवस्था_	N_NN
+7	में_	PSP
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	प्राप्त_	JJ
+2	अभिलेखों_	N_NN
+3	के_	PSP
+4	आधार_	PSP
+5	पर_	PSP
+6	इसे_	PR_PRP
+7	7वीं_	QT_QTO
+8	शताब्दी_	N_NN
+9	का_	PSP
+10	NULL_	N_NN
+11	निश्चित_	JJ
+12	किया_	V_VM
+13	गया_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	मंदिर_	N_NN
+2	की_	PSP
+3	मूर्तियाँ_	N_NN
+4	कुछ_	QT_QTF
+5	हरापन_	N_NN
+6	लिए_	V_VM
+7	हुए_	V_VAUX
+8	काले_	JJ
+9	परेवा_	N_NN
+10	पत्थर_	N_NN
+11	की_	PSP
+12	NULL_	N_NN
+13	बनी_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	मंदिर_	N_NN
+2	की_	PSP
+3	मूर्तियाँ_	N_NN
+4	वर्त्तमान_	N_NN
+5	में_	PSP
+6	प्रताप_	N_NNP
+7	संग्रहालय_	N_NN
+8	तथा_	CC_CCD
+9	एम.बी._	N_NNP
+10	कॉलेज_	N_NN
+11	,_	RD_PUNC
+12	उदयपुर_	N_NNP
+13	में_	PSP
+14	संरक्षित_	JJ
+15	हैं_	V_VM
+16	।_	RD_PUNC
+
+
+1	आहड़_	N_NNP
+2	मेवाड़_	N_NNP
+3	क्षेत्र_	N_NN
+4	का_	PSP
+5	मूर्तिकला_	N_NN
+6	की_	PSP
+7	दृष्टि_	N_NN
+8	से_	PSP
+9	एक_	QT_QTC
+10	महत्वपूर्ण_	JJ
+11	स्थान_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	आहड़_	N_NNP
+2	मेवाड़_	N_NNP
+3	क्षेत्र_	N_NN
+4	का_	PSP
+5	प्राचीन_	JJ
+6	नाम_	N_NN
+7	आघाटपुर_	N_NNP
+8	,_	RD_PUNC
+9	आटपुर_	N_NNP
+10	तथा_	CC_CCD
+11	गंगोद्भेद_	N_NNP
+12	तीर्थ_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	9वीं_	QT_QTO
+3	-_	RD_PUNC
+4	10वीं_	QT_QTO
+5	शताब्दी_	N_NN
+6	में_	PSP
+7	वैष्णव_	N_NNP
+8	संप्रदाय_	N_NN
+9	का_	PSP
+10	एक_	QT_QTC
+11	प्रमुख_	JJ
+12	केन्द्र_	N_NN
+13	था_	V_VM
+14	।_	RD_PUNC
+
+
+1	आहड़_	N_NNP
+2	से_	PSP
+3	प्राप्त_	JJ
+4	953_	N_NNP
+5	ई._	N_NN
+6	(_	RD_SYM
+7	संवत्_	N_NN
+8	1010_	N_NNP
+9	)_	RD_SYM
+10	के_	PSP
+11	एक_	QT_QTC
+12	अभिलेख_	N_NN
+13	से_	PSP
+14	एक_	QT_QTC
+15	विष्णु_	N_NNP
+16	के_	PSP
+17	मंदिर_	N_NN
+18	का_	PSP
+19	उल्लेख_	N_NN
+20	मिलता_	V_VM
+21	है_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	आहड़_	N_NNP
+2	में_	PSP
+3	एक_	QT_QTC
+4	वैष्णव_	JJ
+5	भक्त_	N_NN
+6	द्वारा_	PSP
+7	आदि_	JJ
+8	वराह_	N_NNP
+9	की_	PSP
+10	प्रतिमा_	N_NN
+11	स्थापित_	JJ
+12	करवाई_	V_VM
+13	गई_	V_VAUX
+14	थी_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	आहड़_	N_NNP
+2	में_	PSP
+3	एक_	QT_QTC
+4	सूर्य_	N_NN
+5	मंदिर_	N_NN
+6	भी_	RP_RPD
+7	था_	V_VM
+8	।_	RD_PUNC
+
+
+1	सूर्य_	N__NN
+2	मंदिर_	N_NN
+3	का_	PSP
+4	प्रमाण_	N_NN
+5	14_	QT_QTC
+6	द्रम्मों_	N_NN
+7	के_	PSP
+8	दान_	N_NN
+9	का_	PSP
+10	उल्लेख_	N_NN
+11	करने_	V_VM
+12	वाले_	PSP
+13	एक_	QT_QTC
+14	अन्य_	JJ
+15	अभिलेख_	N_NN
+16	से_	PSP
+17	मिलता_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	अन्य_	JJ
+3	मंदिर_	N_NN
+4	में_	PSP
+5	विष्णु_	N_NNP
+6	के_	PSP
+7	लक्ष्मीनारायण_	N_NNP
+8	रूप_	N_NN
+9	की_	PSP
+10	अर्चना_	N_NN
+11	होती_	V_VM
+12	थी_	V_VAUX
+13	,_	RD_PUNC
+14	जिसे_	PR_PRL
+15	अब_	PR_PRP
+16	मीराबाई_	N_NNP
+17	मंदिर_	N_NN
+18	के_	PSP
+19	नाम_	N_NN
+20	से_	PSP
+21	जाना_	V_VM
+22	जाता_	V_VM
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	गंगोत्री_	N_NNP
+2	समुद्र_	N_NN
+3	तल_	N_NN
+4	से_	PSP
+5	3200_	QT_QTC
+6	मीटर_	N_NN
+7	की_	PSP
+8	ऊँचाई_	N_NN
+9	पर_	PSP
+10	स्थित_	JJ
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	गंगोत्री_	N_NNP
+2	का_	PSP
+3	मौसम_	N_NN
+4	खासा_	RP_INTF
+5	ठंडा_	JJ
+6	रहता_	V_VM
+7	है_	V_VAUX
+8	।_	RD_PUNC
+
+
+1	गंगोत्री_	N_NNP
+2	मंदिर_	N_NN
+3	के_	PSP
+4	पट_	N_NN
+5	सवेरे_	N_NN
+6	6.15_	QT_QTC
+7	बजे_	N_NN
+8	से_	PSP
+9	दोपहर_	N_NN
+10	2_	QT_QTC
+11	बजे_	N_NN
+12	तक_	PSP
+13	और_	CC_CCD
+14	फिर_	RP_RPD
+15	दोपहर_	N_NN
+16	3_	QT_QTC
+17	बजे_	N_NN
+18	से_	PSP
+19	रात_	N_NN
+20	साढे_	QT_QTC
+21	नौ_	QT_QTC
+22	बजे_	N_NN
+23	तक_	PSP
+24	खुलते_	V_VM
+25	हैं_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	मंगलआरती_	N_NN
+2	सवेरे_	N_NN
+3	6_	QT_QTC
+4	बजे_	N_NN
+5	होती_	V_VM
+6	है_	V_VAUX
+7	लेकिन_	CC_CCD
+8	उस_	DM_DMD
+9	समय_	N_NN
+10	पट_	N_NN
+11	बंद_	JJ
+12	रहते_	V_VM
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	संध्याआरती_	N_NN
+2	शाम_	N_NN
+3	7.45_	QT_QTC
+4	बजे_	N_NN
+5	NULL_	V_VM
+6	और_	CC_CCD
+7	ठंड_	N_NN
+8	बढने_	V_VM
+9	पर_	PSP
+10	7_	QT_QTC
+11	बजे_	N_NN
+12	होती_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	गंगोत्री_	N_NNP
+2	जाने_	V_VM
+3	के_	PSP
+4	लिए_	PSP
+5	सबसे_	RP_INTF
+6	निकट_	N_NST
+7	का_	PSP
+8	हवाईअड्डा_	N_NN
+9	जौली_	N_NNP
+10	ग्रांट_	N_NNP
+11	(_	RD_SYM
+12	ऋषिकेश_	N_NNP
+13	से_	PSP
+14	26_	QT_QTC
+15	किलोमीटर_	N_NN
+16	दूर_	N_NST
+17	)_	RD_SYM
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	ऋषिकेश_	N_NNP
+2	(_	RD_SYM
+3	249_	QT_QTC
+4	किलोमीटर_	N_NN
+5	)_	RD_SYM
+6	ही_	RP_RPD
+7	आखिरी_	JJ
+8	रेल_	N_NN
+9	स्टेशन_	N_NN
+10	भी_	RP_RPD
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	उत्तरकाशी_	N_NNP
+2	,_	RD_PUNC
+3	टिहरी_	N_NNP
+4	गढवाल_	N_NNP
+5	और_	CC_CCD
+6	ऋषिकेश_	N_NNP
+7	से_	PSP
+8	गंगोत्री_	N_NNP
+9	के_	PSP
+10	लिए_	PSP
+11	आसानी_	N_NN
+12	से_	PSP
+13	बसें_	N_NN
+14	मिल_	V_VM
+15	जाती_	V_VAUX
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	ठहरने_	V_VM
+2	के_	PSP
+3	लिए_	PSP
+4	गंगोत्री_	N_NNP
+5	में_	PSP
+6	हर_	QT_QTF
+7	किस्म_	N_NN
+8	के_	PSP
+9	इंतजाम_	N_NN
+10	हैं_	V_VM
+11	।_	RD_PUNC
+
+
+1	लग्जरी_	JJ
+2	होटल_	N_NN
+3	,_	RD_PUNC
+4	बढ़िया_	JJ
+5	होटल_	N_NN
+6	,_	RD_PUNC
+7	सस्ते_	JJ
+8	होटल_	N_NN
+9	,_	RD_PUNC
+10	गेस्ट_	N_NN
+11	हाउस_	N_NN
+12	,_	RD_PUNC
+13	धर्मशालाएँ_	N_NN
+14	,_	RD_PUNC
+15	NULL_	V_VM
+16	आश्रम_	N_NN
+17	सब_	QT_QTF
+18	कुछ_	PR_PRP
+19	NULL_	V_VM
+20	।_	RD_PUNC
+
+
+1	लेकिन_	CC_CCD
+2	यात्रा_	N_NN
+3	के_	PSP
+4	दिनों_	N_NN
+5	में_	PSP
+6	गंगोत्री_	N_NNP
+7	में_	PSP
+8	भीड़_	N_NN
+9	भी_	RP_RPD
+10	खासी_	JJ
+11	रहती_	V_VM
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	फूलों_	N_NN
+2	की_	PSP
+3	घाटी_	N_NN
+4	का_	PSP
+5	नाम_	N_NN
+6	तो_	RP_RPD
+7	आपने_	PR_PRP
+8	सुना_	V_VM
+9	ही_	RP_RPD
+10	होगा_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	जी_	RP_RPD
+2	हाँ_	RP_INJ
+3	चमोली_	N_NNP
+4	जनपद_	N_NN
+5	की_	PSP
+6	प्रसिद्ध_	JJ
+7	तीर्थ_	N_NN
+8	स्थली_	N_NN
+9	बद्रीनाथ_	N_NNP
+10	धाम_	N_NN
+11	के_	PSP
+12	पास_	N_NST
+13	गंधमादन_	N_NNP
+14	पर्वत_	N_NN
+15	पर_	PSP
+16	स्थित_	JJ
+17	फूलों_	N_NN
+18	की_	PSP
+19	घाटी_	N_NN
+20	या_	CC_CCD
+21	वैली_	N_NN
+22	ऑफ_	PSP
+23	फ्लावर्स_	N_NN
+24	।_	RD_PUNC
+
+
+1	इतनी_	QT_QTF
+2	ही_	RP_RPD
+3	सुंदर_	JJ
+4	पर_	CC_CCD
+5	अपेक्षाकृत_	RB
+6	कम_	QT_QTF
+7	प्रसिद्ध_	JJ
+8	फूलों_	N_NN
+9	की_	PSP
+10	एक_	QT_QTC
+11	और_	QT_QTF
+12	घाटी_	N_NN
+13	उत्तराखंड_	N_NNP
+14	राज्य_	N_NN
+15	में_	PSP
+16	उत्तरकाशी_	N_NNP
+17	जनपद_	N_NN
+18	के_	PSP
+19	मौरी_	N_NNP
+20	विकास_	N_NN
+21	खंड_	N_NN
+22	स्थित_	JJ
+23	टांस_	N_NNP
+24	घाटी_	N_NN
+25	में_	PSP
+26	है_	V_VM
+27	।_	RD_PUNC
+
+
+1	जो_	PR_PRL
+2	हर_	N_NNP
+3	की_	PSP
+4	दून_	N_NN
+5	के_	PSP
+6	नाम_	N_NN
+7	से_	PSP
+8	पर्यटकों_	N_NN
+9	के_	PSP
+10	बीच_	N_NST
+11	लोकप्रिय_	JJ
+12	होती_	V_VM
+13	जा_	V_VAUX
+14	रही_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	हर_	N_NNP
+2	की_	PSP
+3	दून_	N_NN
+4	जाने_	V_VM
+5	के_	PSP
+6	दो_	QT_QTC
+7	मार्ग_	N_NN
+8	हैं_	V_VM
+9	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	मार्ग_	N_NN
+3	हरिद्वार_	N_NNP
+4	से_	PSP
+5	ऋषिकेश_	N_NNP
+6	,_	RD_PUNC
+7	नरेन्द्र_	N_NNP
+8	नगर_	N_NN
+9	,_	RD_PUNC
+10	चंबा_	N_NNP
+11	,_	RD_PUNC
+12	धरासू_	N_NNP
+13	,_	RD_PUNC
+14	बडकोट_	N_NNP
+15	,_	RD_PUNC
+16	NULL_	CC_CCD
+17	नैनबाग_	N_NNP
+18	से_	PSP
+19	पुरौला_	N_NNP
+20	तक_	PSP
+21	NULL_	V_VM
+22	।_	RD_PUNC
+
+
+1	और_	CC_CCD
+2	दूसरा_	QT_QTO
+3	देहरादून_	N_NNP
+4	से_	PSP
+5	मसूरी_	N_NNP
+6	,_	RD_PUNC
+7	कैंप्टी_	N_NNP
+8	फॉल_	N_NNP
+9	,_	RD_PUNC
+10	नौगाँव_	N_NNP
+11	,_	RD_PUNC
+12	NULL_	CC_CCD
+13	नैनबाग_	N_NNP
+14	से_	PSP
+15	पुरौला_	N_NNP
+16	तक_	PSP
+17	जाता_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	पुरौला_	N_NNP
+2	सुंदर_	JJ
+3	पहाड़ी_	JJ
+4	कस्बा_	N_NN
+5	है_	V_VM
+6	और_	CC_CCD
+7	चारों_	QT_QTC
+8	ओर_	N_NST
+9	पहाड़ों_	N_NN
+10	से_	PSP
+11	घिरा_	V_VM
+12	बड़ा_	JJ
+13	कटोरा_	N_NN
+14	जैसा_	PSP
+15	लगता_	V_VM
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	बस्ती_	N_NN
+2	के_	PSP
+3	चारों_	QT_QTC
+4	ओर_	N_NST
+5	धान_	N_NN
+6	के_	PSP
+7	खेत_	N_NN
+8	,_	RD_PUNC
+9	फिर_	RB
+10	चीड़_	N_NN
+11	के_	PSP
+12	वृक्ष_	N_NN
+13	और_	CC_CCD
+14	उनके_	PR_PRP
+15	ऊपर_	N_NST
+16	से_	PSP
+17	झाँकती_	V_VM
+18	पर्वत_	N_NN
+19	श्रृखलाएँ_	N_NN
+20	।_	RD_PUNC
+
+
+1	पुरौला_	N_NNP
+2	से_	PSP
+3	आगे_	N_NST
+4	है_	V_VM
+5	सांखरी_	N_NNP
+6	जो_	PR_PRL
+7	हर_	N_NNP
+8	की_	PSP
+9	दून_	N_NN
+10	का_	PSP
+11	बेस_	N_NN
+12	कैंप_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	सांखरी_	N_NNP
+2	तक_	PSP
+3	बसें_	N_NN
+4	और_	CC_CCD
+5	टैक्सियाँ_	N_NN
+6	आती_	V_VM
+7	हैं_	V_VAUX
+8	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	बाद_	N_NST
+3	शुरू_	N_NN
+4	होती_	V_VM
+5	है_	V_VAUX
+6	लगभग_	RP_RPD
+7	35_	QT_QTC
+8	किमी._	N_NN
+9	की_	PSP
+10	ट्रैकिंग_	N_NN
+11	यानी_	RP_RPD
+12	पद_	N_NN
+13	यात्रा_	N_NN
+14	।_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	खांई_	N_NNP
+3	बद्यान_	N_NNP
+4	क्षेत्र_	N_NN
+5	कहलाता_	V_VM
+6	है_	V_VAUX
+7	।_	RD_PUNC
+
+
+1	खांई_	N_NNP
+2	बद्यान_	N_NNP
+3	क्षेत्र_	N_NN
+4	के_	PSP
+5	सीधे_	JJ
+6	-_	RD_PUNC
+7	सादे_	JJ
+8	निवासी_	N_NN
+9	अब_	PR_PRP
+10	भी_	RP_RPD
+11	आधुनिक_	JJ
+12	सुख_	N_NN
+13	-_	RD_PUNC
+14	सुविधाओं_	N_NN
+15	से_	PSP
+16	वंचित_	JJ
+17	हैं_	V_VM
+18	।_	RD_PUNC
+
+
+1	सांखरी_	N_NNP
+2	में_	PSP
+3	आपको_	PR_PRP
+4	पोर्टर_	N_NN
+5	और_	CC_CCD
+6	गाइड_	N_NN
+7	मिल_	V_VM
+8	जाएँगे_	V_VAUX
+9	।_	RD_PUNC
+
+
+1	रात्रि_	N_NN
+2	विश्राम_	N_NN
+3	के_	PSP
+4	बाद_	N_NST
+5	सुबह_	N_NN
+6	अपनी_	PR_PRF
+7	रोमांचक_	JJ
+8	यात्रा_	N_NN
+9	शुरू_	N_NN
+10	कर_	V_VM
+11	सकते_	V_VAUX
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	सांखरी_	N_NNP
+2	समुद्रतल_	N_NN
+3	से_	PSP
+4	1700_	QT_QTC
+5	मीटर_	N_NN
+6	की_	PSP
+7	ऊँचाई_	N_NN
+8	पर_	PSP
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	सांखरी_	N_NNP
+2	से_	PSP
+3	प्रारंभ_	N_NN
+4	होता_	V_VM
+5	है_	V_VAUX
+6	गोविंद_	N_NNP
+7	पशु_	N_NN
+8	विहार_	N_NN
+9	का_	PSP
+10	क्षेत्र_	N_NN
+11	।_	RD_PUNC
+
+
+1	गोविंद_	N_NNP
+2	पशु_	N_NN
+3	विहार_	N_NN
+4	के_	PSP
+5	क्षेत्र_	N_NN
+6	में_	PSP
+7	प्रवेश_	N_NN
+8	करने_	V_VM
+9	के_	PSP
+10	लिए_	PSP
+11	वन_	N_NN
+12	विभाग_	N_NN
+13	की_	PSP
+14	अनुमति_	N_NN
+15	लेनी_	V_VM
+16	पड़ती_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	सूपिन_	N_NNP
+2	नदी_	N_NN
+3	को_	PSP
+4	पार_	N_NN
+5	करते_	V_VM
+6	ही_	RP_RPD
+7	आप_	PR_PRP
+8	स्वप्न_	N_NN
+9	लोक_	N_NN
+10	में_	PSP
+11	पहुँच_	V_VM
+12	जाते_	V_VAUX
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	पूरे_	JJ
+2	विश्व_	N_NN
+3	के_	PSP
+4	पर्यटकों_	N_NN
+5	के_	PSP
+6	लिये_	PSP
+7	अनेक_	QT_QTF
+8	मौसम_	N_NN
+9	भारत_	N_NNP
+10	में_	PSP
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	उद्योग_	N_NN
+3	को_	PSP
+4	नया_	JJ
+5	आयाम_	N_NN
+6	देने_	V_VM
+7	तथा_	CC_CCS
+8	अत्यन्त_	RP_INTF
+9	तीव्र_	JJ
+10	गति_	N_NN
+11	से_	PSP
+12	इसका_	PR_PRP
+13	विकास_	N_NN
+14	करने_	V_VM
+15	के_	PSP
+16	उद्देश्य_	N_NN
+17	से_	PSP
+18	सरकार_	N_NN
+19	ने_	PSP
+20	पर्यटन_	N_NN
+21	उद्योग_	N_NN
+22	को_	PSP
+23	निर्यात_	N_NN
+24	हाउस_	N_NN
+25	(_	RD_SYM
+26	एक्सपोर्ट_	N_NN
+27	हाउस_	N_NN
+28	)_	RD_SYM
+29	का_	PSP
+30	दर्जा_	N_NN
+31	देने_	V_VM
+32	की_	PSP
+33	घोषणा_	N_NN
+34	की_	V_VM
+35	है_	V_VAUX
+36	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	एक_	QT_QTC
+3	ऐसी_	DM_DMD
+4	यात्रा_	N_NN
+5	है_	V_VM
+6	,_	RD_PUNC
+7	जो_	PR_PRL
+8	मनोरजंन_	N_NN
+9	या_	CC_CCD
+10	फुरसत_	N_NN
+11	के_	PSP
+12	उद्देश्य_	N_NN
+13	का_	PSP
+14	आनंद_	N_NN
+15	उठाने_	V_VM
+16	के_	PSP
+17	लिए_	PSP
+18	की_	V_VM
+19	जाती_	V_VAUX
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	गैर_	JJ
+3	निवासियों_	N_NN
+4	की_	PSP
+5	यात्रा_	N_NN
+6	और_	CC_CCD
+7	उनके_	PR_PRP
+8	ठहरने_	V_VM
+9	से_	PSP
+10	उत्पन्न_	JJ
+11	सम्बन्ध_	N_NN
+12	और_	CC_CCD
+13	प्रक्रियाओं_	N_NN
+14	का_	PSP
+15	योग_	N_NN
+16	है_	V_VM
+17	।_	RD_PUNC
+
+
+1	आज_	N_NN
+2	पर्यटन_	N_NN
+3	विश्व_	N_NN
+4	का_	PSP
+5	तेजी_	N_NN
+6	से_	PSP
+7	आगे_	N_NST
+8	बढ़_	V_VM
+9	रहा_	V_VAUX
+10	उद्योग_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	500_	QT_QTC
+2	करोड़_	QT_QTC
+3	से_	PSP
+4	अधिक_	QT_QTF
+5	पर्यटकों_	N_NN
+6	से_	PSP
+7	संपूर्ण_	JJ
+8	विश्व_	N_NN
+9	को_	PSP
+10	होने_	V_VM
+11	वाली_	PSP
+12	आय_	N_NN
+13	3.5_	QT_QTC
+14	खरब_	QT_QTC
+15	अमेरिकी_	JJ
+16	डॉलर_	N_NN
+17	की_	PSP
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	भारत_	N_NNP
+3	का_	PSP
+4	विदेशी_	JJ
+5	मुद्रा_	N_NN
+6	की_	PSP
+7	आय_	N_NN
+8	कराने_	V_VM
+9	वाला_	PSP
+10	तीसरा_	QT_QTO
+11	उद्योग_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	भारतीय_	JJ
+2	पर्यटन_	N_NN
+3	विकास_	N_NN
+4	एक_	QT_QTC
+5	ही_	RP_RPD
+6	छत_	N_NN
+7	के_	PSP
+8	नीचे_	N_NST
+9	पर्यटन_	N_NN
+10	सेवाएँ_	N_NN
+11	और_	CC_CCD
+12	सुविधाएँ_	N_NN
+13	उपलब्ध_	JJ
+14	कराने_	V_VM
+15	वाला_	PSP
+16	एक_	QT_QTC
+17	अग्रणी_	JJ
+18	पर्यटन_	N_NN
+19	संगठन_	N_NN
+20	है_	V_VM
+21	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	रोजगार_	N_NN
+3	के_	PSP
+4	अवसर_	N_NN
+5	पैदा_	JJ
+6	करने_	V_VM
+7	,_	RD_PUNC
+8	गरीबी_	N_NN
+9	दूर_	N_NST
+10	करने_	V_VM
+11	और_	CC_CCD
+12	मानव_	N_NN
+13	विकास_	N_NN
+14	के_	PSP
+15	एक_	QT_QTC
+16	महत्वपूर्ण_	JJ
+17	साधन_	N_NN
+18	के_	PSP
+19	रूप_	PSP
+20	में_	PSP
+21	उभरा_	V_VM
+22	है_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	इंडिया_	N_NNP
+2	गेट_	N_NN
+3	,_	RD_PUNC
+4	दिल्ली_	N_NNP
+5	-_	RD_PUNC
+6	प्रथम_	QT_QTO
+7	विश्वयुद्ध_	N_NN
+8	में_	PSP
+9	9000_	QT_QTC
+10	से_	PSP
+11	अधिक_	QT_QTF
+12	शहीद_	JJ
+13	भारतीय_	JJ
+14	सिपाहियों_	N_NN
+15	की_	PSP
+16	याद_	N_NN
+17	में_	PSP
+18	निर्मित_	JJ
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	13,516_	QT_QTC
+2	सिपाहियों_	N_NN
+3	के_	PSP
+4	नाम_	N_NN
+5	इंडिया_	N_NNP
+6	गेट_	N_NN
+7	पर_	PSP
+8	खुदे_	V_VM
+9	हुए_	V_VAUX
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	42_	QT_QTC
+2	मीटर_	N_NN
+3	ऊँचा_	JJ
+4	स्मारक_	N_NN
+5	चारों_	QT_QTC
+6	ओर_	N_NST
+7	से_	PSP
+8	पत्थर_	N_NN
+9	से_	PSP
+10	घिरा_	V_VM
+11	है_	V_VAUX
+12	,_	RD_PUNC
+13	जहाँ_	PR_PRL
+14	अनजान_	JJ
+15	शहीदों_	N_NN
+16	की_	PSP
+17	स्मृति_	N_NN
+18	में_	PSP
+19	अमरज्योति_	N_NNP
+20	जल_	V_VM
+21	रही_	V_VAUX
+22	है_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	अमृतसर_	N_NNP
+2	का_	PSP
+3	स्वर्ण_	N_NN
+4	मन्दिर_	N_NN
+5	,_	RD_PUNC
+6	सिक्ख_	N_NN
+7	तीर्थस्थलों_	N_NN
+8	में_	PSP
+9	सर्वाधिक_	RP_INTF
+10	पवित्र_	JJ
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	कुतुब_	N_NNP
+2	मीनार_	N_NN
+3	,_	RD_PUNC
+4	दिल्ली_	N_NNP
+5	की_	PSP
+6	सबसे_	RP_INTF
+7	शानदार_	JJ
+8	यादगारों_	N_NN
+9	में_	PSP
+10	से_	PSP
+11	एक_	QT_QTC
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	कुतुब_	N_NNP
+2	मीनार_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	दास_	N_NNP
+6	वंश_	N_NN
+7	के_	PSP
+8	कुतुबुद्दीन_	N_NNP
+9	ऐबक_	N_NNP
+10	ने_	PSP
+11	विजय_	N_NNP
+12	स्तम्भ_	N_NN
+13	के_	PSP
+14	रूप_	PSP
+15	में_	PSP
+16	करवाया_	V_VM
+17	था_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	कुतुब_	N_NNP
+2	मीनार_	N_NN
+3	की_	PSP
+4	ऊँचाई_	N_NN
+5	72.6_	QT_QTC
+6	मीटर_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	लाल_	JJ
+2	पत्थर_	N_NN
+3	की_	PSP
+4	पाँच_	QT_QTC
+5	मंजिला_	JJ
+6	कुतुब_	N_NNP
+7	मीनार_	N_NN
+8	कुरान_	N_NNP
+9	की_	PSP
+10	आयतों_	N_NN
+11	से_	PSP
+12	अलंकृत_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	जंतर_	N_NNP
+2	-_	RD_PUNC
+3	मंतर_	N_NNP
+4	,_	RD_PUNC
+5	दिल्ली_	N_NNP
+6	की_	PSP
+7	सबसे_	RP_INTF
+8	प्राचीन_	JJ
+9	वेधशाला_	N_NN
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	जंतर_	N_NNP
+2	-_	RD_PUNC
+3	मंतर_	N_NNP
+4	का_	PSP
+5	निर्माण_	N_NN
+6	जयपुर_	N_NNP
+7	के_	PSP
+8	महाराजा_	N_NN
+9	जयसिंह_	N_NNP
+10	द्वितीय_	QT_QTC
+11	ने_	PSP
+12	सन्_	N_NN
+13	1725_	QT_QTC
+14	में_	PSP
+15	करवाया_	V_VM
+16	था_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	सीतामढ़ी_	N_NNP
+2	पटना_	N_NNP
+3	से_	PSP
+4	133_	QT_QTC
+5	किलोमीटर_	N_NN
+6	की_	PSP
+7	दूरी_	N_NN
+8	पर_	PSP
+9	स्थित_	JJ
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	देवघर_	N_NNP
+2	एवं_	CC_CCD
+3	दुमका_	N_NNP
+4	जिले_	N_NN
+5	के_	PSP
+6	पर्यटन_	N_NN
+7	स्थल_	N_NN
+8	-_	RD_PUNC
+
+
+1	देवघर_	N_NNP
+2	के_	PSP
+3	संथाल_	N_NNP
+4	परगना_	N_NN
+5	क्षेत्र_	N_NN
+6	में_	PSP
+7	अवस्थित_	JJ
+8	देवघर_	N_NNP
+9	शहर_	N_NN
+10	अपनी_	PR_PRF
+11	नैसर्गिक_	JJ
+12	सुंदरता_	N_NN
+13	और_	CC_CCD
+14	धार्मिक_	JJ
+15	स्थलों_	N_NN
+16	के_	PSP
+17	कारण_	PSP
+18	एक_	QT_QTC
+19	अलग_	JJ
+20	स्थान_	N_NN
+21	रखता_	V_VM
+22	है_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	शांति_	N_NN
+2	और_	CC_CCD
+3	भाईचारे_	N_NN
+4	का_	PSP
+5	प्रतीक_	N_NN
+6	यह_	DM_DMD
+7	शहर_	N_NN
+8	न_	RP_NEG
+9	सिर्फ_	RP_RPD
+10	धार्मिक_	JJ
+11	आस्था_	N_NN
+12	का_	PSP
+13	NULL_	N_NN
+14	NULL_	V_VM
+15	बल्कि_	CC_CCD
+16	सामाजिक_	JJ
+17	और_	CC_CCD
+18	सांस्कृतिक_	JJ
+19	गतिविधियों_	N_NN
+20	का_	PSP
+21	केन्द्र_	N_NN
+22	बिंदु_	N_NN
+23	भी_	RP_RPD
+24	है_	V_VM
+25	।_	RD_PUNC
+
+
+1	यही_	DM_DMD
+2	कारण_	N_NN
+3	है_	V_VM
+4	कि_	CC_CCS
+5	देवघर_	N_NNP
+6	को_	PSP
+7	झारखण्ड_	N_NNP
+8	की_	PSP
+9	सांस्कृतिक_	JJ
+10	राजधानी_	N_NN
+11	भी_	RP_RPD
+12	कहा_	V_VM
+13	जाता_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	बैद्यनाथ_	N_NNP
+2	धाम_	N_NN
+3	बारह_	QT_QTC
+4	ज्योतिर्लिंगों_	N_NN
+5	में_	PSP
+6	से_	PSP
+7	एक_	QT_QTC
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	शिवलिंग_	N_NNP
+3	को_	PSP
+4	सिद्धपीठ_	N_NNP
+5	की_	PSP
+6	मान्यता_	N_NN
+7	प्राप्त_	JJ
+8	है_	V_VM
+9	और_	CC_CCD
+10	कामना_	N_NN
+11	लिंग_	N_NN
+12	के_	PSP
+13	रूप_	PSP
+14	में_	PSP
+15	प्राचीन_	JJ
+16	काल_	N_NN
+17	से_	PSP
+18	प्रसिद्ध_	JJ
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	पूरे_	JJ
+2	पूर्वोत्तर_	N_NNP
+3	भारत_	N_NNP
+4	में_	PSP
+5	यह_	PR_PRP
+6	अकेला_	JJ
+7	व_	CC_CCD
+8	अनूठा_	JJ
+9	है_	V_VM
+10	जहाँ_	PR_PRL
+11	इतने_	QT_QTF
+12	तीर्थयात्री_	N_NN
+13	आते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	सावन_	N_NNP
+2	महीने_	N_NN
+3	में_	PSP
+4	बाबाबैद्यनाथ_	N_NNP
+5	धाम_	N_NN
+6	की_	PSP
+7	महत्ता_	N_NN
+8	और_	RP_INTF
+9	अधिक_	QT_QTF
+10	बढ़_	V_VM
+11	जाती_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	लाखों_	QT_QTC
+2	श्रद्धालु_	N_NN
+3	इस_	DM_DMD
+4	दौरान_	N_NST
+5	भगवान_	N_NN
+6	शिव_	N_NNP
+7	का_	PSP
+8	जलाभिषेक_	N_NN
+9	कर_	V_VM
+10	उनकी_	PR_PRP
+11	पूजा_	N_NN
+12	अर्चना_	N_NN
+13	करते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	लगातार_	RB
+2	एक_	QT_QTC
+3	महीने_	N_NN
+4	तक_	PSP
+5	चलने_	V_VM
+6	वाले_	PSP
+7	श्रावणी_	JJ
+8	मेले_	N_NN
+9	में_	PSP
+10	शामिल_	JJ
+11	होने_	V_VM
+12	के_	PSP
+13	लिए_	PSP
+14	श्रद्धालुओं_	N_NN
+15	की_	PSP
+16	संख्या_	N_NN
+17	दिन_	N_NN
+18	-_	RD_SYM
+19	प्रतिदिन_	N_NN
+20	बढ़ती_	V_VM
+21	जा_	V_VAUX
+22	रही_	V_VAUX
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	दौरान_	N_NST
+3	काँवरियों_	N_NN
+4	के_	PSP
+5	विभिन्न_	JJ
+6	दल_	N_NN
+7	सुल्तानगंज_	N_NNP
+8	से_	PSP
+9	गंगा_	N_NNP
+10	जल_	N_NN
+11	लेकर_	V_VM
+12	लगभग_	RP_RPD
+13	सौ_	QT_QTC
+14	किलोमीटर_	N_NN
+15	की_	PSP
+16	कठिन_	JJ
+17	यात्रा_	N_NN
+18	पैदल_	JJ
+19	तय_	JJ
+20	कर_	V_VM
+21	बैद्यनाथ_	N_NNP
+22	धाम_	N_NN
+23	के_	PSP
+24	मंदिर_	N_NN
+25	में_	PSP
+26	पहुँचते_	V_VM
+27	हैं_	V_VAUX
+28	और_	CC_CCD
+29	बाबा_	N_NN
+30	भोलेनाथ_	N_NNP
+31	को_	PSP
+32	जल_	N_NN
+33	अर्पित_	JJ
+34	करते_	V_VM
+35	हैं_	V_VAUX
+36	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	मेले_	N_NN
+3	के_	PSP
+4	दौरान_	N_NST
+5	सुल्तानगंज_	N_NNP
+6	से_	PSP
+7	देवघर_	N_NNP
+8	तक_	PSP
+9	की_	PSP
+10	छटा_	N_NN
+11	ही_	RP_RPD
+12	निराली_	JJ
+13	होती_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	ऐसा_	PR_PRP
+2	प्रतीत_	JJ
+3	होता_	V_VM
+4	है_	V_VAUX
+5	मानो_	RP_RPD
+6	गेरूआ_	JJ
+7	केसरियाधारी_	N_NNP
+8	,_	RD_PUNC
+9	बोलबम_	N_NNP
+10	और_	CC_CCD
+11	जय_	N_NN
+12	भोलेनाथ_	N_NNP
+13	के_	PSP
+14	उद्‌घोष_	N_NN
+15	से_	PSP
+16	गूँज_	V_VM
+17	उठता_	V_VAUX
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	मेले_	N_NN
+3	की_	PSP
+4	सबसे_	RP_INTF
+5	बड़ी_	JJ
+6	विशेषता_	N_NN
+7	अनेकता_	N_NN
+8	में_	PSP
+9	एकता_	N_NN
+10	का_	PSP
+11	संगम_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	काँवरियों_	N_NN
+2	के_	PSP
+3	दल_	N_NN
+4	के_	PSP
+5	बीच_	N_NST
+6	किसी_	DM_DMI
+7	तरह_	N_NN
+8	का_	PSP
+9	भेद_	N_NN
+10	-_	RD_SYM
+11	भाव_	N_NN
+12	नहीं_	RP_NEG
+13	होता_	V_VM
+14	।_	RD_PUNC
+
+
+1	विभिन्न_	JJ
+2	प्रांतों_	N_NN
+3	और_	CC_CCD
+4	समुदायों_	N_NN
+5	के_	PSP
+6	लोग_	N_NN
+7	जिस_	DM_DMR
+8	प्रकार_	N_NN
+9	एकसाथ_	RB
+10	इस_	DM_DMD
+11	धार्मिक_	JJ
+12	यात्रा_	N_NN
+13	की_	PSP
+14	दूरी_	N_NN
+15	तय_	JJ
+16	करते_	V_VM
+17	हैं_	V_VAUX
+18	,_	RD_PUNC
+19	वह_	PR_PRP
+20	भारतीय_	JJ
+21	संस्कृति_	N_NN
+22	के_	PSP
+23	सामाजिक_	JJ
+24	समरसता_	N_NN
+25	को_	PSP
+26	दर्शाता_	V_VM
+27	है_	V_VAUX
+28	।_	RD_PUNC
+
+
+1	गंगाधाम_	N_NNP
+2	से_	PSP
+3	बाबाधाम_	N_NNP
+4	तक_	PSP
+5	की_	PSP
+6	पवित्र_	JJ
+7	यात्रा_	N_NN
+8	ज्यादातर_	JJ
+9	श्रद्धालु_	N_NN
+10	पैदल_	JJ
+11	ही_	RP_RPD
+12	तय_	JJ
+13	करते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	त्रिकुटी_	N_NNP
+2	पहाड़ियाँ_	N_NN
+3	देवघर_	N_NNP
+4	शहर_	N_NN
+5	के_	PSP
+6	पश्चिम_	N_NNP
+7	में_	PSP
+8	24_	QT_QTC
+9	किलोमीटर_	N_NN
+10	की_	PSP
+11	दूरी_	N_NN
+12	में_	PSP
+13	अवस्थित_	JJ
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	ऐसी_	DM_DMD
+2	मान्यता_	N_NN
+3	है_	V_VM
+4	कि_	CC_CCS
+5	ऋषि_	N_NN
+6	-_	RD_SYM
+7	मुनियों_	N_NN
+8	ने_	PSP
+9	यहाँ_	PR_PRP
+10	मोक्ष_	N_NN
+11	प्राप्त_	JJ
+12	किया_	V_VM
+13	।_	RD_PUNC
+
+
+1	बड़े_	JJ
+2	-_	RD_SYM
+3	बड़े_	JJ
+4	पत्थरों_	N_NN
+5	से_	PSP
+6	भरे_	V_VM
+7	इस_	DM_DMD
+8	पहाड़ी_	N_NN
+9	की_	PSP
+10	दाहिनी_	JJ
+11	ओर_	N_NST
+12	देवी_	N_NN
+13	पार्वती_	N_NNP
+14	का_	PSP
+15	एक_	QT_QTC
+16	छोटा_	JJ
+17	मंदिर_	N_NN
+18	है_	V_VM
+19	और_	CC_CCD
+20	इस_	DM_DMD
+21	मंदिर_	N_NN
+22	में_	PSP
+23	एक_	QT_QTC
+24	शिवलिंग_	N_NNP
+25	भी_	RP_RPD
+26	अवस्थित_	JJ
+27	है_	V_VM
+28	।_	RD_PUNC
+
+
+1	श्रद्धालु_	N_NN
+2	यहाँ_	PR_PRP
+3	देवी_	N_NN
+4	पार्वती_	N_NNP
+5	और_	CC_CCD
+6	भगवान_	N_NN
+7	शिव_	N_NNP
+8	की_	PSP
+9	पूजा_	N_NN
+10	अर्चना_	N_NN
+11	करते_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	महाशिवरात्रि_	N_NNP
+2	के_	PSP
+3	अवसर_	N_NN
+4	पर_	PSP
+5	मंदिर_	N_NN
+6	में_	PSP
+7	दूर_	N_NST
+8	-_	RD_SYM
+9	दूर_	N_NST
+10	के_	PSP
+11	दर्शनार्थियों_	N_NN
+12	की_	PSP
+13	भीड़_	N_NN
+14	लगी_	V_VM
+15	रहती_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	देवघर_	N_NNP
+2	से_	PSP
+3	43_	QT_QTC
+4	कि.मी._	N_NN
+5	की_	PSP
+6	दूरी_	N_NN
+7	पर_	PSP
+8	अवस्थित_	JJ
+9	बाबा_	N_NN
+10	बासुकीनाथ_	N_NNP
+11	धाम_	N_NN
+12	में_	PSP
+13	भगवान_	N_NN
+14	शिव_	N_NNP
+15	का_	PSP
+16	मंदिर_	N_NN
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	देवघर_	N_NNP
+2	आनेवाले_	V_VM
+3	श्रद्धालु_	N_NN
+4	आस्था_	N_NN
+5	अनुरुप_	PSP
+6	बासुकीनाथ_	N_NNP
+7	में_	PSP
+8	अपनी_	PR_PRF
+9	यात्रा_	N_NN
+10	समाप्त_	JJ
+11	करते_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	रिखिया_	N_NNP
+2	धाम_	N_NN
+3	भी_	RP_RPD
+4	देवघर_	N_NNP
+5	का_	PSP
+6	दर्शनीय_	JJ
+7	स्थल_	N_NN
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	योग_	N_NN
+2	ग्राम_	N_NN
+3	जीवन_	N_NN
+4	का_	PSP
+5	अनूठा_	JJ
+6	संगम_	N_NN
+7	है_	V_VM
+8	रिखिया_	N_NNP
+9	धाम_	N_NN
+10	।_	RD_PUNC
+
+
+1	रिखिया_	N_NNP
+2	धाम_	N_NN
+3	देवघर_	N_NNP
+4	से_	PSP
+5	10_	QT_QTC
+6	कि.मी._	N_NN
+7	की_	PSP
+8	दूरी_	N_NN
+9	पर_	PSP
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	स्वामी_	N_NN
+3	सत्यानंद_	N_NNP
+4	सरस्वती_	N_NNP
+5	के_	PSP
+6	दर्शन_	N_NN
+7	होंगे_	V_VM
+8	।_	RD_PUNC
+
+
+1	गाँव_	N_NN
+2	के_	PSP
+3	बच्चों_	N_NN
+4	के_	PSP
+5	कंठ_	N_NN
+6	से_	PSP
+7	गायत्री_	N_NNP
+8	मंत्र_	N_NN
+9	व_	CC_CCD
+10	रामचरित_	N_NNP
+11	मानस_	N_NN
+12	का_	PSP
+13	पाठ_	N_NN
+14	सुनेंगे_	V_VM
+15	,_	RD_PUNC
+16	तो_	CC_CCS
+17	अभिभूत_	JJ
+18	हो_	V_VM
+19	जायेंगे_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	तारापीठ_	N_NNP
+2	एक_	QT_QTC
+3	शक्तिपीठ_	N_NN
+4	है_	V_VM
+5	।_	RD_PUNC
+
+
+1	माँ_	N_NN
+2	तारा_	N_NNP
+3	का_	PSP
+4	अलौकिक_	JJ
+5	रूप_	N_NN
+6	देखना_	V_VM
+7	हो_	V_VAUX
+8	,_	RD_PUNC
+9	तो_	CC_CCD
+10	तारापीठ_	N_NNP
+11	जायें_	V_VM
+12	और_	CC_CCD
+13	मन_	N_NN
+14	से_	PSP
+15	माँ_	N_NN
+16	की_	PSP
+17	पूजा_	N_NN
+18	करें_	V_VM
+19	।_	RD_PUNC
+
+
+1	दुमका_	N_NNP
+2	से_	PSP
+3	कई_	QT_QTF
+4	बसें_	N_NN
+5	यहाँ_	PR_PRP
+6	के_	PSP
+7	लिए_	PSP
+8	हैं_	V_VM
+9	।_	RD_PUNC
+
+
+1	तारापीठ_	N_NNP
+2	का_	PSP
+3	निकटतम_	JJ
+4	स्टेशन_	N_NN
+5	रामपुर_	N_NNP
+6	हाट_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	रामपुर_	N_NNP
+2	हाट_	N_NN
+3	झारखण्ड_	N_NNP
+4	में_	PSP
+5	पड़ता_	V_VM
+6	है_	V_VAUX
+7	।_	RD_PUNC
+
+
+1	तारापीठ_	N_NNP
+2	बंगाल_	N_NNP
+3	में_	PSP
+4	है_	V_VM
+5	।_	RD_PUNC
+
+
+1	नौलखा_	JJ
+2	मंदिर_	N_NN
+3	के_	PSP
+4	निर्माण_	N_NN
+5	में_	PSP
+6	नौ_	QT_QTC
+7	लाख_	QT_QTC
+8	रूपये_	N_NN
+9	खर्च_	N_NN
+10	हुए_	V_VM
+11	थे_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	नौलखा_	JJ
+2	मंदिर_	N_NN
+3	बहुत_	QT_QTF
+4	ही_	RP_RPD
+5	खूबसूरत_	JJ
+6	राधा_	N_NNP
+7	-_	RD_SYM
+8	कृष्ण_	N_NNP
+9	की_	PSP
+10	युगल_	N_NN
+11	मूर्तियों_	N_NN
+12	वाला_	PSP
+13	मंदिर_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	नौलखा_	JJ
+2	मंदिर_	N_NN
+3	में_	PSP
+4	एक_	QT_QTC
+5	सुंदर_	JJ
+6	बाग_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	समस्त_	QT_QTF
+3	खर्च_	N_NN
+4	का_	PSP
+5	वहन_	N_NN
+6	चारूशीला_	N_NNP
+7	देवी_	N_NN
+8	ने_	PSP
+9	किया_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	श्री_	N_NN
+2	अनुकूलचंद्र_	N_NNP
+3	ठाकुर_	N_NNP
+4	के_	PSP
+5	शिष्यों_	N_NN
+6	द्वारा_	PSP
+7	स्थापित_	JJ
+8	यह_	DM_DMD
+9	सत्संग_	N_NN
+10	भवन_	N_NN
+11	एक_	QT_QTC
+12	आध्यात्मिक_	JJ
+13	स्थल_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	उनके_	PR_PRP
+3	शिष्यों_	N_NN
+4	का_	PSP
+5	एवं_	CC_CCD
+6	अन्य_	JJ
+7	दर्शनार्थियों_	N_NN
+8	का_	PSP
+9	ताँता_	N_NN
+10	लगा_	V_VM
+11	रहता_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	सत्संग_	N_NN
+2	आश्रम_	N_NN
+3	की_	PSP
+4	स्थापना_	N_NN
+5	श्री_	N_NN
+6	ठाकुर_	N_NNP
+7	अनुकूल_	N_NNP
+8	चन्द्र_	N_NNP
+9	द्वारा_	PSP
+10	की_	V_VM
+11	गई_	V_VAUX
+12	थी_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	मसानजोरी_	N_NNP
+2	एक_	QT_QTC
+3	गाँव_	N_NN
+4	है_	V_VM
+5	जो_	PR_PRL
+6	मयूराक्षी_	N_NNP
+7	नदी_	N_NN
+8	पर_	PSP
+9	बने_	V_VM
+10	कनाडा_	N_NNP
+11	डैम_	N_NN
+12	के_	PSP
+13	कारण_	PSP
+14	प्रसिद्ध_	JJ
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	मसानजोरी_	N_NNP
+2	में_	PSP
+3	पर्यटक_	N_NN
+4	डैम_	N_NN
+5	की_	PSP
+6	अद्‌भुत_	JJ
+7	बनावट_	N_NN
+8	व_	CC_CCD
+9	खूबसूरती_	N_NN
+10	को_	PSP
+11	निहारने_	V_VM
+12	,_	RD_PUNC
+13	NULL_	CC_CCD
+14	जंगल_	N_NN
+15	व_	CC_CCD
+16	पहाड़ियों_	N_NN
+17	के_	PSP
+18	बीच_	N_NST
+19	यात्रा_	N_NN
+20	का_	PSP
+21	लुत्फ़_	N_NN
+22	उठाने_	V_VM
+23	आते_	V_VM
+24	हैं_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	तरफ_	N_NST
+3	मसानजोर_	N_NNP
+4	गाँव_	N_NN
+5	के_	PSP
+6	निवासियों_	N_NN
+7	का_	PSP
+8	बेहद_	RP_INTF
+9	साधारण_	JJ
+10	जीवनस्तर_	N_NN
+11	है_	V_VM
+12	,_	RD_PUNC
+13	तो_	CC_CCS
+14	दूसरी_	QT_QTO
+15	तरफ_	N_NST
+16	अत्याधुनिक_	JJ
+17	निर्माण_	N_NN
+18	की_	PSP
+19	बानगी_	N_NN
+20	पेश_	JJ
+21	करता_	V_VM
+22	कनाडा_	N_NNP
+23	डैम_	N_NN
+24	है_	V_VM
+25	।_	RD_PUNC
+
+
+1	त्रिकूटांचल_	N_NNP
+2	आश्रम_	N_NN
+3	त्रिकूट_	N_NNP
+4	पर्वत_	N_NN
+5	पर_	PSP
+6	,_	RD_PUNC
+7	देवघर_	N_NNP
+8	से_	PSP
+9	24_	QT_QTC
+10	कि.मी._	N_NN
+11	पूरब_	N_NNP
+12	में_	PSP
+13	,_	RD_PUNC
+14	गुफा_	N_NN
+15	के_	PSP
+16	भीतर_	N_NST
+17	अवस्थित_	JJ
+18	है_	V_VM
+19	जिसमें_	PR_PRL
+20	आचार्य_	N_NN
+21	रहते_	V_VM
+22	हैं_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	अरूणांचल_	N_NNP
+2	मिशन_	N_NN
+3	का_	PSP
+4	उद्देश्य_	N_NN
+5	है_	V_VM
+6	वैश्विक_	JJ
+7	आध्यात्मिक_	JJ
+8	पुनरूत्थान_	N_NN
+9	और_	CC_CCD
+10	विश्वशांति_	N_NN
+11	एवं_	CC_CCD
+12	भाईचारा_	N_NN
+13	की_	PSP
+14	स्थापना_	N_NN
+15	करना_	V_VM
+16	।_	RD_PUNC
+
+
+1	त्रिकूट_	N_NNP
+2	पर्वत_	N_NN
+3	तीन_	QT_QTC
+4	शिखरों_	N_NN
+5	के_	PSP
+6	कारण_	PSP
+7	जाना_	V_VM
+8	जाता_	V_VAUX
+9	है_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	पार्वती_	N_NNP
+3	का_	PSP
+4	मंदिर_	N_NN
+5	है_	V_VM
+6	जिसके_	PR_PRL
+7	पास_	N_NST
+8	ही_	RP_RPD
+9	शिवलिंग_	N_NNP
+10	भी_	RP_RPD
+11	स्थापित_	JJ
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	इस_	PR_PRP
+2	पर_	PSP
+3	बाह्य_	JJ
+4	अलंकरण_	N_NN
+5	के_	PSP
+6	रूप_	PSP
+7	में_	PSP
+8	धार्मिक_	JJ
+9	महत्व_	N_NN
+10	के_	PSP
+11	कमल_	N_NN
+12	प्रतीक_	N_NN
+13	और_	CC_CCD
+14	अन्य_	JJ
+15	मांगलिक_	JJ
+16	चिन्ह_	N_NN
+17	सुरुचिपूर्ण_	RB
+18	अंकित_	JJ
+19	किए_	V_VM
+20	गए_	V_VAUX
+21	हैं_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	आंतरिक_	JJ
+2	भाग_	N_NN
+3	का_	PSP
+4	मन्दिर_	N_NN
+5	गर्भ_	N_NN
+6	बिल्कुल_	RB
+7	सात्विक_	JJ
+8	है_	V_VM
+9	,_	RD_PUNC
+10	जिसकी_	PR_PRL
+11	अलंकार_	N_NN
+12	विहीन_	JJ
+13	मेहराबदार_	JJ
+14	दीवारें_	N_NN
+15	गहन_	JJ
+16	पवित्रता_	N_NN
+17	से_	PSP
+18	भरी_	V_VM
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	लक्ष्मीनारायण_	N_NNP
+2	मन्दिर_	N_NN
+3	तक_	PSP
+4	पहुँचने_	V_VM
+5	के_	PSP
+6	लिए_	PSP
+7	राम_	N_NNP
+8	राजा_	N_NN
+9	मन्दिर_	N_NN
+10	से_	PSP
+11	फर्शीदार_	JJ
+12	मार्ग_	N_NN
+13	जाता_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	लक्ष्मीनारायण_	N_NNP
+2	मन्दिर_	N_NN
+3	की_	PSP
+4	वास्तु_	N_NN
+5	-_	RD_SYM
+6	संकल्पना_	N_NN
+7	अत्यंत_	QT_QTF
+8	रोचक_	JJ
+9	है_	V_VM
+10	,_	RD_PUNC
+11	जिसमें_	PR_PRL
+12	मन्दिर_	N_NN
+13	और_	CC_CCD
+14	दुर्गा_	N_NNP
+15	शैली_	N_NN
+16	का_	PSP
+17	अद्‌भुत_	JJ
+18	समन्वय_	N_NN
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	लक्ष्मीनारायण_	N_NNP
+2	के_	PSP
+3	भीतरी_	JJ
+4	भागों_	N_NN
+5	में_	PSP
+6	ओरछा_	N_NNP
+7	के_	PSP
+8	भित्ति_	N_NN
+9	चित्रकला_	N_NN
+10	के_	PSP
+11	सबसे_	RP_INTF
+12	सुन्दर_	JJ
+13	नमूने_	N_NN
+14	देखने_	V_VM
+15	को_	PSP
+16	मिलते_	V_VM
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	दीवारों_	N_NN
+2	पर_	PSP
+3	और_	CC_CCD
+4	खासकर_	RB
+5	तीन_	QT_QTC
+6	बड़े_	JJ
+7	कमरों_	N_NN
+8	में_	PSP
+9	बने_	V_VM
+10	भित्ति_	N_NN
+11	चित्रों_	N_NN
+12	में_	PSP
+13	अभी_	PR_PRP
+14	भी_	RP_RPD
+15	जीवन_	N_NN
+16	स्पन्दित_	JJ
+17	प्रतीत_	JJ
+18	होता_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	इन_	DM_DMD
+2	चित्रों_	N_NN
+3	में_	PSP
+4	सर्वधर्म_	N_NN
+5	समभाव_	N_NN
+6	और_	CC_CCD
+7	आध्यात्मिक_	JJ
+8	अनुभूतियों_	N_NN
+9	को_	PSP
+10	अभिव्यक्तियाँ_	N_NN
+11	मिलती_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	उचित_	JJ
+2	संरक्षण_	N_NN
+3	के_	PSP
+4	कारण_	PSP
+5	इनके_	PR_PRP
+6	रंगों_	N_NN
+7	ने_	PSP
+8	अपनी_	PR_PRF
+9	कांति_	N_NN
+10	अभी_	PR_PRP
+11	तक_	PSP
+12	नहीं_	RP_NEG
+13	खोई_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	सुरम्य_	JJ
+3	बागीचे_	N_NN
+4	के_	PSP
+5	रूप_	PSP
+6	में_	PSP
+7	परिकल्पित_	JJ
+8	फूलबाग_	N_NNP
+9	उद्यान_	N_NN
+10	प्रांगण_	N_NN
+11	बुन्देला_	N_NNP
+12	राजाओं_	N_NN
+13	के_	PSP
+14	सौंदर्यबोध_	N_NN
+15	की_	PSP
+16	श्रेष्ठता_	N_NN
+17	को_	PSP
+18	प्रकट_	JJ
+19	करता_	V_VM
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	मध्य_	JJ
+3	भाग_	N_NN
+4	में_	PSP
+5	फव्वारों_	N_NN
+6	की_	PSP
+7	कतार_	N_NN
+8	है_	V_VM
+9	,_	RD_PUNC
+10	जो_	PR_PRL
+11	एक_	QT_QTC
+12	आठ_	QT_QTC
+13	खम्बों_	N_NN
+14	वाले_	PSP
+15	प्रासाद_	N_NN
+16	मंडप_	N_NN
+17	तक_	PSP
+18	जाती_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	इनके_	PR_PRP
+2	नीचे_	N_NST
+3	ओरछा_	N_NNP
+4	राजाओं_	N_NN
+5	का_	PSP
+6	ग्रीष्मकालीन_	JJ
+7	शीतल_	JJ
+8	विश्राम_	N_NN
+9	गृह_	N_NN
+10	था_	V_VM
+11	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	भूमिगत_	JJ
+3	प्रासाद_	N_NN
+4	में_	PSP
+5	अभिनव_	JJ
+6	कुशलता_	N_NN
+7	के_	PSP
+8	साथ_	N_NST
+9	चंदन_	N_NN
+10	कटोरा_	N_NN
+11	के_	PSP
+12	द्वारा_	PSP
+13	छत_	N_NN
+14	से_	PSP
+15	झरती_	V_VM
+16	हुई_	V_VAUX
+17	पानी_	N_NN
+18	की_	PSP
+19	बूँदें_	N_NN
+20	बरसात_	N_NN
+21	का_	PSP
+22	आभास_	N_NN
+23	देती_	V_VM
+24	थीं_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	दीवान_	N_NN
+2	हरदौल_	N_NNP
+3	महल_	N_NN
+4	स्थानीय_	JJ
+5	लोगों_	N_NN
+6	के_	PSP
+7	लिए_	PSP
+8	आस्था_	N_NN
+9	का_	PSP
+10	केन्द्र_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	हरदौल_	N_NNP
+2	,_	RD_PUNC
+3	वीर_	N_NNP
+4	सिंह_	N_NNP
+5	जू_	N_NNP
+6	देव_	N_NNP
+7	के_	PSP
+8	सुपुत्र_	N_NN
+9	थे_	V_VM
+10	जिन्होंने_	PR_PRL
+11	अपने_	PR_PRF
+12	बड़े_	JJ
+13	भाई_	N_NN
+14	जुझार_	N_NNP
+15	सिंह_	N_NNP
+16	द्वारा_	PSP
+17	संशय_	N_NN
+18	प्रकट_	JJ
+19	करने_	V_VM
+20	पर_	PSP
+21	भाभी_	N_NN
+22	के_	PSP
+23	प्रति_	PSP
+24	अपनी_	PR_PRF
+25	निश्छ्ल_	JJ
+26	प्रीति_	N_NN
+27	प्रकट_	JJ
+28	करने_	V_VM
+29	के_	PSP
+30	लिए_	PSP
+31	प्राण_	N_NN
+32	उत्सर्ग_	N_NN
+33	कर_	V_VM
+34	दिए_	V_VAUX
+35	थे_	V_VAUX
+36	।_	RD_PUNC
+
+
+1	संत_	N_NN
+2	स्वभाव_	N_NN
+3	वाले_	PSP
+4	हरदौल_	N_NNP
+5	के_	PSP
+6	इस_	DM_DMD
+7	महान_	JJ
+8	उत्सर्ग_	N_NN
+9	के_	PSP
+10	फलस्वरूप_	PSP
+11	उन्हें_	PR_PRP
+12	देवताओं_	N_NN
+13	के_	PSP
+14	समान_	PSP
+15	कीर्ति_	N_NN
+16	मिली_	V_VM
+17	।_	RD_PUNC
+
+
+1	बुन्देलखण्ड_	N_NNP
+2	के_	PSP
+3	ग्रामों_	N_NN
+4	में_	PSP
+5	आज_	N_NN
+6	भी_	RP_RPD
+7	उनकी_	PR_PRP
+8	स्मृति_	N_NN
+9	में_	PSP
+10	आशीर्वाद_	N_NN
+11	की_	PSP
+12	याचना_	N_NN
+13	करते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	छोटा_	JJ
+2	सा_	RP_RPD
+3	सुन्दर_	JJ
+4	महल_	N_NN
+5	आज_	N_NN
+6	भग्न_	JJ
+7	स्थिति_	N_NN
+8	में_	PSP
+9	है_	V_VM
+10	,_	RD_PUNC
+11	जिसे_	PR_PRL
+12	मुसलमान_	N_NN
+13	तीर्थ_	N_NN
+14	मानते_	V_VM
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	जुझार_	N_NNP
+2	सिंह_	N_NNP
+3	के_	PSP
+4	पुत्र_	N_NN
+5	धुर्जबान_	N_NNP
+6	ने_	PSP
+7	दिल्ली_	N_NNP
+8	में_	PSP
+9	मुसलमान_	JJ
+10	युवती_	N_NN
+11	से_	PSP
+12	विवाह_	N_NN
+13	कर_	V_VM
+14	मुस्लिम_	JJ
+15	धर्म_	N_NN
+16	अंगीकार_	N_NN
+17	कर_	V_VM
+18	लिया_	V_VAUX
+19	था_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	बाद_	N_NST
+2	में_	PSP
+3	उन्होंने_	PR_PRP
+4	अपना_	PR_PRF
+5	जीवन_	N_NN
+6	भजन_	N_NN
+7	-_	RD_SYM
+8	पूजन_	N_NN
+9	में_	PSP
+10	बिताया_	V_VM
+11	और_	CC_CCD
+12	फिर_	RB
+13	वह_	PR_PRP
+14	एक_	QT_QTC
+15	संत_	N_NN
+16	के_	PSP
+17	रूप_	PSP
+18	में_	PSP
+19	प्रतिष्ठित_	JJ
+20	हुए_	V_VM
+21	।_	RD_PUNC
+
+
+1	बेतवा_	N_NNP
+2	नदी_	N_NN
+3	के_	PSP
+4	किनारे_	N_NN
+5	कंचन_	N_NNP
+6	घाट_	N_NN
+7	पर_	PSP
+8	ओरछा_	N_NNP
+9	के_	PSP
+10	राजाओं_	N_NN
+11	की_	PSP
+12	स्मृति_	N_NN
+13	में_	PSP
+14	14_	QT_QTC
+15	भव्य_	JJ
+16	छत्रियाँ_	N_NN
+17	बनी_	V_VM
+18	हुई_	V_VAUX
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	महान_	JJ
+2	स्वतंत्रता_	N_NN
+3	संग्राम_	N_NN
+4	सेनानी_	N_NN
+5	चंद्रशेखर_	N_NNP
+6	आजाद_	N_NNP
+7	की_	PSP
+8	स्मृति_	N_NN
+9	में_	PSP
+10	मध्यप्रदेश_	N_NNP
+11	सरकार_	N_NN
+12	ने_	PSP
+13	शहीद_	N_NN
+14	स्मारक_	N_NN
+15	निर्मित_	JJ
+16	किया_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	भारत_	N_NNP
+2	के_	PSP
+3	स्वतंत्रता_	N_NN
+4	आन्दोलन_	N_NN
+5	के_	PSP
+6	समय_	PSP
+7	1926_	N_NNP
+8	-_	RD_SYM
+9	1927_	N_NNP
+10	में_	PSP
+11	आजाद_	N_NNP
+12	यहाँ_	PR_PRP
+13	अज्ञातवास_	N_NN
+14	में_	PSP
+15	छिपकर_	V_VM
+16	रहे_	V_VM
+17	।_	RD_PUNC
+
+
+1	शहीद_	N_NN
+2	स्मारक_	N_NN
+3	परिसर_	N_NN
+4	में_	PSP
+5	आजाद_	N_NNP
+6	की_	PSP
+7	प्रतिमा_	N_NN
+8	भी_	RP_RPD
+9	स्थापित_	JJ
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	ओरछा_	N_NNP
+2	के_	PSP
+3	अन्य_	JJ
+4	दर्शनीय_	JJ
+5	स्थलों_	N_NN
+6	में_	PSP
+7	सिद्धबाबा_	N_NNP
+8	का_	PSP
+9	स्थान_	N_NN
+10	,_	RD_SYM
+11	जुगलकिशोर_	N_NNP
+12	,_	RD_SYM
+13	जानकी_	N_NNP
+14	मन्दिर_	N_NN
+15	और_	CC_CCD
+16	ओहरेद्वार_	N_NNP
+17	का_	PSP
+18	हनुमान_	N_NNP
+19	मन्दिर_	N_NN
+20	महत्वपूर्ण_	JJ
+21	है_	V_VM
+22	।_	RD_PUNC
+
+
+1	ओरछा_	N_NNP
+2	कैसे_	PR_PRQ
+3	पहुँचा_	V_VM
+4	जाए_	V_VAUX
+5	।_	RD_PUNC
+
+
+1	वायु_	N_NN
+2	सेवा_	N_NN
+3	:_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	(_	RD_SYM
+3	119_	QT_QTC
+4	कि.मी._	N_NN
+5	)_	RD_SYM
+6	एवं_	CC_CCD
+7	खजुराहो_	N_NNP
+8	(_	RD_SYM
+9	170_	QT_QTC
+10	कि.मी._	N_NN
+11	)_	RD_SYM
+12	निकटवर्ती_	JJ
+13	हवाई_	JJ
+14	अड्डे_	N_NN
+15	हैं_	V_VM
+16	।_	RD_PUNC
+
+
+1	रेलवे_	N_NN
+2	सेवाएँ_	N_NN
+3	:_	RD_PUNC
+
+
+1	दिल्ली_	N_NNP
+2	-_	RD_SYM
+3	मुम्बई_	N_NNP
+4	और_	CC_CCD
+5	दिल्ली_	N_NNP
+6	-_	RD_SYM
+7	चेन्नई_	N_NNP
+8	मुख्य_	JJ
+9	मार्गों_	N_NN
+10	पर_	PSP
+11	निकटवर्ती_	JJ
+12	रेलवे_	N_NN
+13	स्टेशन_	N_NN
+14	झाँसी_	N_NNP
+15	(_	RD_SYM
+16	160_	QT_QTC
+17	कि.मी._	N_NN
+18	)_	RD_SYM
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	सभी_	QT_QTF
+2	प्रमुख_	JJ
+3	मेल_	N_NN
+4	और_	CC_CCD
+5	एक्सप्रेस_	N_NN
+6	गाड़ियाँ_	N_NN
+7	झाँसी_	N_NNP
+8	में_	PSP
+9	रुकती_	V_VM
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	ओरछा_	N_NNP
+2	झाँसी_	N_NNP
+3	-_	RD_SYM
+4	खजुराहो_	N_NNP
+5	मार्ग_	N_NN
+6	पर_	PSP
+7	स्थित_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	ओरछा_	N_NNP
+2	और_	CC_CCD
+3	झाँसी_	N_NNP
+4	के_	PSP
+5	बीच_	N_NST
+6	नियमित_	JJ
+7	बस_	N_NN
+8	सेवाएँ_	N_NN
+9	उपलब्ध_	JJ
+10	हैं_	V_VM
+11	।_	RD_PUNC
+
+
+1	अनुकूल_	JJ
+2	मौसम_	N_NN
+3	:_	RD_PUNC
+4	जुलाई_	N_NNP
+5	से_	PSP
+6	मार्च_	N_NNP
+
+
+1	ठहरने_	V_VM
+2	के_	PSP
+3	स्थान_	N_NN
+4	:_	RD_PUNC
+
+
+1	होटल_	N_NN
+2	शीश_	N_NNP
+3	महल_	N_NNP
+4	,_	RD_PUNC
+5	बेतवा_	N_NNP
+6	रिट्रीट_	N_NNP
+7	(_	RD_SYM
+8	मध्यप्रदेश_	N_NNP
+9	पर्यटन_	N_NN
+10	)_	RD_SYM
+11	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	राज्य_	N_NN
+3	की_	PSP
+4	पुरातन_	JJ
+5	राजधानी_	N_NN
+6	आज_	N_NN
+7	भी_	RP_RPD
+8	अपने_	PR_PRF
+9	प्राचीन_	JJ
+10	वैभव_	N_NN
+11	की_	PSP
+12	कहानी_	N_NN
+13	कह_	V_VM
+14	रही_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	में_	PSP
+3	अनेक_	QT_QTF
+4	राजवंशों_	N_NN
+5	ने_	PSP
+6	राज_	N_NN
+7	किया_	V_VM
+8	जिनमें_	PR_PRL
+9	प्रतिहारों_	N_NN
+10	के_	PSP
+11	महान_	JJ
+12	राजपूत_	N_NN
+13	कुल_	N_NN
+14	,_	RD_PUNC
+15	कुछवाहा_	N_NNP
+16	वंश_	N_NN
+17	के_	PSP
+18	सम्राट_	N_NN
+19	और_	CC_CCD
+20	स्मारकों_	N_NN
+21	के_	PSP
+22	इस_	DM_DMD
+23	नगर_	N_NN
+24	पर_	PSP
+25	अपने_	PR_PRF
+26	राज_	N_NN
+27	की_	PSP
+28	अमिट_	JJ
+29	छाप_	N_NN
+30	छोड़ी_	V_VM
+31	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	के_	PSP
+3	प्राचीन_	JJ
+4	इतिहास_	N_NN
+5	के_	PSP
+6	संबंध_	PSP
+7	में_	PSP
+8	किंवदंती_	N_NN
+9	कुछ_	QT_QTF
+10	इस_	DM_DMD
+11	प्रकार_	N_NN
+12	है_	V_VM
+13	:_	RD_PUNC
+
+
+1	आठवीं_	QT_QTO
+2	सदी_	N_NN
+3	में_	PSP
+4	सूरज_	N_NNP
+5	सेन_	N_NNP
+6	नामक_	JJ
+7	एक_	QT_QTC
+8	मुखिया_	N_NN
+9	भयावह_	JJ
+10	बीमारी_	N_NN
+11	से_	PSP
+12	ग्रस्त_	JJ
+13	हो_	V_VM
+14	गया_	V_VAUX
+15	था_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	वह_	PR_PRP
+2	ग्वालिपा_	N_NNP
+3	नामक_	JJ
+4	एक_	QT_QTC
+5	एकान्तवासी_	JJ
+6	साधु_	N_NN
+7	की_	PSP
+8	सहायता_	N_NN
+9	से_	PSP
+10	निरोग_	JJ
+11	हुआ_	V_VM
+12	और_	CC_CCD
+13	कृतज्ञता_	N_NN
+14	स्वरूप_	PSP
+15	उसने_	PR_PRP
+16	इस_	DM_DMD
+17	नगर_	N_NN
+18	की_	PSP
+19	स्थापना_	N_NN
+20	कर_	V_VM
+21	इसका_	PR_PRP
+22	नामकरण_	N_NN
+23	उसी_	DM_DMD
+24	संत_	N_NN
+25	के_	PSP
+26	नाम_	N_NN
+27	पर_	PSP
+28	किया_	V_VM
+29	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	शहर_	N_NN
+3	सदियों_	N_NN
+4	तक_	PSP
+5	अनेक_	QT_QTF
+6	राजवंशों_	N_NN
+7	का_	PSP
+8	आश्रयस्थल_	N_NN
+9	रहा_	V_VM
+10	और_	CC_CCD
+11	प्रत्येक_	N_NN
+12	के_	PSP
+13	राज्यकाल_	N_NN
+14	में_	PSP
+15	शहर_	N_NN
+16	में_	PSP
+17	नये_	JJ
+18	आयाम_	N_NN
+19	जुड़े_	V_VM
+20	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	के_	PSP
+3	योद्धा_	N_NN
+4	राजाओं_	N_NN
+5	,_	RD_PUNC
+6	कवियों_	N_NN
+7	,_	RD_PUNC
+8	संगीतकारों_	N_NN
+9	,_	RD_PUNC
+10	और_	CC_CCD
+11	साधु_	N_NN
+12	-_	RD_SYM
+13	संतों_	N_NN
+14	में_	PSP
+15	अपने_	PR_PRF
+16	योगदान_	N_NN
+17	से_	PSP
+18	इस_	DM_DMD
+19	नगर_	N_NN
+20	को_	PSP
+21	अधिकाधिक_	QT_QTF
+22	समृद्धि_	N_NN
+23	और_	CC_CCD
+24	संपन्नता_	N_NN
+25	दी_	V_VM
+26	और_	CC_CCD
+27	यह_	DM_DMD
+28	नगर_	N_NN
+29	सारे_	QT_QTF
+30	देश_	N_NN
+31	में_	PSP
+32	विख्यात_	JJ
+33	हुआ_	V_VM
+34	।_	RD_PUNC
+
+
+1	आज_	N_NN
+2	वह_	PR_PRP
+3	जीवन_	N_NN
+4	की_	PSP
+5	हलचल_	N_NN
+6	और_	CC_CCD
+7	स्पंदन_	N_NN
+8	से_	PSP
+9	ओतप्रोत_	JJ
+10	एक_	QT_QTC
+11	आधुनिक_	JJ
+12	भारतीय_	JJ
+13	नगर_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	के_	PSP
+3	दर्शनीय_	JJ
+4	स्थल_	N_NN
+5	-_	RD_PUNC
+
+
+1	बलुए_	JJ
+2	पत्थर_	N_NN
+3	की_	PSP
+4	सीधी_	JJ
+5	चट्टानों_	N_NN
+6	पर_	PSP
+7	खड़ा_	JJ
+8	हुआ_	V_VM
+9	ग्वालियर_	N_NNP
+10	दुर्ग_	N_NN
+11	समूचे_	JJ
+12	शहर_	N_NN
+13	की_	PSP
+14	दृष्टि_	N_NN
+15	से_	PSP
+16	ऊँचे_	JJ
+17	आसन_	N_NN
+18	पर_	PSP
+19	है_	V_VM
+20	और_	CC_CCD
+21	इसका_	PR_PRP
+22	सबसे_	RP_INTF
+23	शानदार_	JJ
+24	स्मारक_	N_NN
+25	है_	V_VM
+26	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	दुर्ग_	N_NN
+3	महान_	JJ
+4	घटनाओं_	N_NN
+5	,_	RD_PUNC
+6	कारागार_	N_NN
+7	-_	RD_PUNC
+8	सजाओं_	N_NN
+9	,_	RD_PUNC
+10	युद्धों_	N_NN
+11	और_	CC_CCD
+12	जौहरों_	N_NN
+13	का_	PSP
+14	मूक_	JJ
+15	साक्षी_	N_NN
+16	रहा_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	खड़ी_	JJ
+3	सड़क_	N_NN
+4	ऊपर_	N_NST
+5	की_	PSP
+6	ओर_	N_NST
+7	इस_	DM_DMD
+8	दुर्ग_	N_NN
+9	को_	PSP
+10	जाती_	V_VM
+11	है_	V_VAUX
+12	जिसके_	PR_PRL
+13	किनारों_	N_NN
+14	पर_	PSP
+15	चट्टानों_	N_NN
+16	में_	PSP
+17	से_	PSP
+18	काटकर_	V_VM
+19	तराशी_	V_VM
+20	गई_	V_VAUX
+21	जैन_	JJ
+22	तीर्थकारों_	N_NN
+23	की_	PSP
+24	मूर्तियाँ_	N_NN
+25	हैं_	V_VM
+26	।_	RD_PUNC
+
+
+1	किले_	N_NN
+2	की_	PSP
+3	वाह्य_	JJ
+4	प्राचीरें_	N_NN
+5	आज_	N_NN
+6	भी_	RP_RPD
+7	शानदार_	JJ
+8	ढंग_	N_NN
+9	से_	PSP
+10	खड़ी_	JJ
+11	हैं_	V_VM
+12	जिनकी_	PR_PRL
+13	लंबाई_	N_NN
+14	दो_	QT_QTC
+15	मील_	N_NN
+16	और_	CC_CCD
+17	ऊँचाई_	N_NN
+18	35_	QT_QTC
+19	फुट_	N_NN
+20	है_	V_VM
+21	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	दुर्ग_	N_NN
+3	की_	PSP
+4	कीर्ति_	N_NN
+5	भारतवर्ष_	N_NNP
+6	के_	PSP
+7	अपराजेय_	JJ
+8	दुर्ग_	N_NN
+9	की_	PSP
+10	NULL_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	ग्वालियर_	N_NNP
+2	दुर्ग_	N_NN
+3	के_	PSP
+4	निराले_	JJ
+5	शानदार_	JJ
+6	स्वरूप_	N_NN
+7	को_	PSP
+8	देखकर_	V_VM
+9	ही_	RP_RPD
+10	बाबर_	N_NNP
+11	ने_	PSP
+12	इसे_	PR_PRP
+13	भारत_	N_NNP
+14	के_	PSP
+15	दुर्गों_	N_NN
+16	का_	PSP
+17	मोती_	N_NN
+18	कहा_	V_VM
+19	था_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	किले_	N_NN
+2	के_	PSP
+3	भीतर_	N_NST
+4	मध्यकालीन_	JJ
+5	स्थापत्य_	N_NN
+6	कला_	N_NN
+7	के_	PSP
+8	कुछ_	QT_QTF
+9	नायाब_	JJ
+10	नमूने_	N_NN
+11	हैं_	V_VM
+12	।_	RD_PUNC
+
+
+1	पंद्रहवीं_	QT_QTO
+2	सदी_	N_NN
+3	का_	PSP
+4	गूजरी_	JJ
+5	महल_	N_NN
+6	राजा_	N_NN
+7	मानसिंह_	N_NNP
+8	तोमर_	N_NNP
+9	ने_	PSP
+10	बनवाया_	V_VM
+11	जो_	PR_PRL
+12	उसकी_	PR_PRP
+13	साहसी_	JJ
+14	गूजर_	N_NN
+15	रानी_	N_NN
+16	मृगनयनी_	N_NNP
+17	के_	PSP
+18	प्रेम_	N_NN
+19	का_	PSP
+20	स्मारक_	N_NN
+21	है_	V_VM
+22	।_	RD_PUNC
+
+
+1	गूजरी_	JJ
+2	महल_	N_NN
+3	का_	PSP
+4	बाहरी_	JJ
+5	रूप_	N_NN
+6	आज_	N_NN
+7	भी_	RP_RPD
+8	प्रायः_	RB
+9	पूरी_	JJ
+10	तरह_	N_NN
+11	से_	PSP
+12	सुरक्षित_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	किला_	N_NN
+3	केरल_	N_NNP
+4	का_	PSP
+5	सबसे_	RP_INTF
+6	अधिक_	QT_QTF
+7	प्रसिद्ध_	JJ
+8	किला_	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	किले_	N_NN
+3	से_	PSP
+4	समुद्र_	N_NN
+5	की_	PSP
+6	गहरी_	JJ
+7	नीलिमा_	N_NN
+8	को_	PSP
+9	देखने_	V_VM
+10	की_	PSP
+11	अनुभूति_	N_NN
+12	अविस्मरणीय_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	मलयालम_	N_NNP
+2	,_	RD_PUNC
+3	तमिल_	N_NNP
+4	,_	RD_PUNC
+5	NULL_	CC_CCD
+6	बॉलीवुड_	N_NNP
+7	सिनेमाओं_	N_NN
+8	की_	PSP
+9	शूटिंग_	N_NN
+10	की_	PSP
+11	प्रिय_	JJ
+12	लोकेशन_	N_NN
+13	है_	V_VM
+14	बेक्कल_	N_NNP
+15	किला_	N_NN
+16	।_	RD_PUNC
+
+
+1	केरल_	N_NNP
+2	सरकार_	N_NN
+3	ने_	PSP
+4	बेक्कल_	N_NNP
+5	किला_	N_NN
+6	,_	RD_PUNC
+7	समुद्रतट_	N_NN
+8	और_	CC_CCD
+9	सम्बद्ध_	JJ
+10	पर्यटन_	N_NN
+11	केन्द्रों_	N_NN
+12	के_	PSP
+13	विकास_	N_NN
+14	के_	PSP
+15	लिए_	PSP
+16	बेक्कल_	N_NNP
+17	रिसोर्ट_	N_NN
+18	,_	RD_PUNC
+19	डेवलेपमेंट_	N_NN
+20	कॉर्पोरेशन_	N_NN
+21	का_	PSP
+22	गठन_	N_NN
+23	किया_	V_VM
+24	है_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	साथ_	N_NST
+2	ही_	RP_RPD
+3	बेक्कल_	N_NNP
+4	समुद्रतट_	N_NN
+5	की_	PSP
+6	कमनीयता_	N_NN
+7	बढ़ाने_	V_VM
+8	के_	PSP
+9	लिए_	PSP
+10	अनेक_	QT_QTF
+11	योजनाओं_	N_NN
+12	को_	PSP
+13	शुरू_	N_NN
+14	किया_	V_VM
+15	गया_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	योजना_	N_NN
+3	के_	PSP
+4	अंतर्गत_	PSP
+5	तेय्यम_	N_NNP
+6	शिल्प_	N_NN
+7	,_	RD_PUNC
+8	भित्तिचित्र_	N_NN
+9	,_	RD_PUNC
+10	NULL_	CC_CCD
+11	शिल्पोद्यान_	N_NN
+12	आदि_	RP_RPD
+13	कलाओं_	N_NN
+14	का_	PSP
+15	विकास_	N_NN
+16	भी_	RP_RPD
+17	आता_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	पार्किंग_	N_NN
+2	-_	RD_SYM
+3	तट_	N_NN
+4	के_	PSP
+5	पास_	N_NST
+6	7000_	QT_QTC
+7	वर्ग_	N_NN
+8	मी._	N_NN
+9	विस्तार_	N_NN
+10	में_	PSP
+11	पार्किंग_	N_NN
+12	स्थान_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	विश्राम_	N_NN
+2	के_	PSP
+3	लिए_	PSP
+4	ट्री_	N_NN
+5	हाउस_	N_NN
+6	और_	CC_CCD
+7	डोरमिटरी_	N_NN
+8	सुविधा_	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	बच्चों_	N_NN
+2	का_	PSP
+3	पार्क_	N_NN
+4	-_	RD_PUNC
+
+
+1	14_	QT_QTC
+2	वर्ष_	N_NN
+3	से_	PSP
+4	कम_	QT_QTF
+5	आयुवाले_	N_NN
+6	बच्चों_	N_NN
+7	के_	PSP
+8	विनोद_	N_NN
+9	के_	PSP
+10	लिए_	PSP
+11	यह_	DM_DMD
+12	पार्क_	N_NN
+13	उपयुक्त_	JJ
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NN
+2	समुद्रतट_	N_NN
+3	पर_	PSP
+4	प्रवेश_	N_NN
+5	के_	PSP
+6	लिए_	PSP
+7	एक_	QT_QTC
+8	रुपया_	N_NN
+9	प्रति_	RP_RPD
+10	व्यक्ति_	N_NN
+11	की_	PSP
+12	दर_	N_NN
+13	से_	PSP
+14	टिकट_	N_NN
+15	लेना_	V_VM
+16	पड़ता_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	पार्किंग_	N_NN
+2	शुल्क_	N_NN
+3	भी_	RP_RPD
+4	देना_	V_VM
+5	है_	V_VAUX
+6	जो_	PR_PRL
+7	अधिक_	QT_QTF
+8	नहीं_	RP_NEG
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	की_	PSP
+3	11_	QT_QTC
+4	एकड़_	N_NN
+5	ज़मीन_	N_NN
+6	में_	PSP
+7	एक_	QT_QTC
+8	वाटर_	N_NN
+9	थीम_	N_NN
+10	पार्क_	N_NN
+11	बनवाने_	V_VM
+12	की_	PSP
+13	योजना_	N_NN
+14	भी_	RP_RPD
+15	आरडीसी_	N_NNP
+16	के_	PSP
+17	पास_	N_NST
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	किले_	N_NN
+3	का_	PSP
+4	निकटतम_	JJ
+5	रेलवे_	N_NN
+6	स्टेशन_	N_NN
+7	कासरगोड_	N_NNP
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	किले_	N_NN
+3	से_	PSP
+4	निकटतम_	JJ
+5	एयरपोर्ट_	N_NN
+6	-_	RD_PUNC
+7	मंगलूर_	N_NNP
+8	,_	RD_PUNC
+9	50_	QT_QTC
+10	कि.मी._	N_NN
+11	,_	RD_PUNC
+12	NULL_	V_VM
+13	NULL_	CC_CCD
+14	करिप्पूर_	N_NNP
+15	अन्तर्राष्ट्रीय_	JJ
+16	हवाई_	JJ
+17	अड्डा_	N_NN
+18	,_	RD_PUNC
+19	200_	QT_QTC
+20	कि.मी._	N_NN
+21	दूर_	N_NST
+22	है_	V_VM
+23	।_	RD_PUNC
+
+
+1	चन्द्रगिरिप्पुष़ा_	N_NNP
+2	(_	RD_SYM
+3	नदी_	N_NN
+4	)_	RD_SYM
+5	के_	PSP
+6	तट_	N_NN
+7	पर_	PSP
+8	17वीं_	QT_QTO
+9	सदी_	N_NN
+10	में_	PSP
+11	निर्मित_	JJ
+12	एक_	QT_QTC
+13	किला_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	उस_	DM_DMD
+2	किले_	N_NN
+3	से_	PSP
+4	अरब_	N_NNP
+5	सागर_	N_NN
+6	तथा_	CC_CCD
+7	चन्द्रगिरि_	N_NNP
+8	नदी_	N_NN
+9	के_	PSP
+10	अद्‌भुत_	JJ
+11	दृश्य_	N_NN
+12	का_	PSP
+13	आस्वादन_	N_NN
+14	किया_	V_VM
+15	जा_	V_VAUX
+16	सकता_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	नदी_	N_NN
+2	तट_	N_NN
+3	के_	PSP
+4	पास_	N_NST
+5	के_	PSP
+6	किष़ूर_	N_NNP
+7	मंदिर_	N_NN
+8	का_	PSP
+9	गीतोत्सव_	N_NN
+10	अति_	RP_INTF
+11	प्रसिद्ध_	JJ
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	रिसोर्ट_	N_NN
+3	डिवलेपमेंट_	N_NN
+4	कॉर्पोरेशन_	N_NN
+5	ने_	PSP
+6	चन्द्रगिरि_	N_NNP
+7	नदी_	N_NN
+8	में_	PSP
+9	बोटिंग_	N_NN
+10	की_	PSP
+11	सुविधा_	N_NN
+12	उपलब्ध_	JJ
+13	कराई_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	चन्द्रगिरि_	N_NNP
+2	कासरगोड_	N_NNP
+3	टाउन_	N_NN
+4	के_	PSP
+5	बहुत_	QT_QTF
+6	निकट_	N_NST
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	निकटतम_	JJ
+2	रेलवे_	N_NN
+3	स्टेशन_	N_NN
+4	-_	RD_PUNC
+5	कासरगोड_	N_NNP
+6	।_	RD_PUNC
+
+
+1	निकटतम_	JJ
+2	एयरपोर्ट_	N_NN
+3	-_	RD_PUNC
+4	मंगलूर_	N_NNP
+5	,_	RD_PUNC
+6	50_	QT_QTC
+7	कि.मी._	N_NN
+8	।_	RD_PUNC
+
+
+1	चित्तारि_	N_NNP
+2	हरियाली_	N_NN
+3	से_	PSP
+4	ढका_	V_VM
+5	एक_	QT_QTC
+6	छोटा_	JJ
+7	द्वीप_	N_NN
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	चित्तारि_	N_NNP
+2	का_	PSP
+3	तटीय_	JJ
+4	भाग_	N_NN
+5	विशाल_	JJ
+6	है_	V_VM
+7	।_	RD_PUNC
+
+
+1	चित्तारि_	N_NNP
+2	बेक्कल_	N_NNP
+3	पर्यटन_	N_NN
+4	परियोजना_	N_NN
+5	का_	PSP
+6	हिस्सा_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	पर्यटन_	N_NN
+2	के_	PSP
+3	शोर_	N_NN
+4	-_	RD_SYM
+5	शराबे_	N_NN
+6	ने_	PSP
+7	इस_	DM_DMD
+8	द्वीप_	N_NN
+9	को_	PSP
+10	स्पर्श_	N_NN
+11	तक_	RP_RPD
+12	नहीं_	RP_NEG
+13	किया_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	शांति_	N_NN
+2	से_	PSP
+3	समय_	N_NN
+4	बिताने_	V_VM
+5	के_	PSP
+6	लिए_	PSP
+7	चित्तारि_	N_NNP
+8	उपयुक्त_	JJ
+9	स्थान_	N_NN
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	चित्तारि_	N_NNP
+2	से_	PSP
+3	निकटतम_	JJ
+4	रेलवे_	N_NN
+5	स्टेशन_	N_NN
+6	-_	RD_PUNC
+7	काजंगाडु_	N_NNP
+8	,_	RD_PUNC
+9	5_	QT_QTC
+10	कि.मी._	N_NN
+11	की_	PSP
+12	दूरी_	N_NN
+13	पर_	PSP
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	बेक्कल_	N_NNP
+2	की_	PSP
+3	भीड़_	N_NN
+4	-_	RD_SYM
+5	भाड़_	N_NN
+6	भरी_	V_VM
+7	यात्रा_	N_NN
+8	के_	PSP
+9	बाद_	N_NST
+10	यदि_	CC_CCS
+11	शांत_	JJ
+12	वातावरण_	N_NN
+13	में_	PSP
+14	थोड़ा_	QT_QTF
+15	समय_	N_NN
+16	गुजारना_	V_VM
+17	चाहें_	V_VM
+18	तो_	CC_CCS
+19	काप्पिल_	N_NNP
+20	समुद्र_	N_NN
+21	तट_	N_NN
+22	उपयुक्त_	JJ
+23	जगह_	N_NN
+24	है_	V_VM
+25	।_	RD_PUNC
+
+
+1	काप्पिल_	N_NNP
+2	बेक्कल_	N_NNP
+3	से_	PSP
+4	छह_	QT_QTC
+5	कि.मी._	N_NN
+6	दूर_	N_NST
+7	स्थित_	JJ
+8	है_	V_VM
+9	,_	RD_PUNC
+10	तथा_	CC_CCD
+11	अत्यन्त_	RP_INTF
+12	शांत_	JJ
+13	स्थल_	N_NN
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	का_	PSP
+3	आकर्षण_	N_NN
+4	है_	V_VM
+5	धूप_	N_NN
+6	में_	PSP
+7	चमकता_	V_VM
+8	समुद्रतट_	N_NN
+9	और_	CC_CCD
+10	शान्त_	JJ
+11	वातावरण_	N_NN
+12	।_	RD_PUNC
+
+
+1	जो_	PR_PRL
+2	साहसी_	JJ
+3	हैं_	V_VM
+4	वे_	PR_PRP
+5	पास_	N_NST
+6	के_	PSP
+7	कोडिक्कुन्नु_	N_NNP
+8	पर_	PSP
+9	चढ़कर_	V_VM
+10	अरब_	N_NNP
+11	सागर_	N_NN
+12	के_	PSP
+13	फैलाव_	N_NN
+14	को_	PSP
+15	देख_	V_VM
+16	सकते_	V_VAUX
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	काप्पिल_	N_NNP
+2	बीच_	N_NN
+3	का_	PSP
+4	निकटतम_	JJ
+5	रेलवे_	N_NN
+6	स्टेशन_	N_NN
+7	कासरगोड_	N_NNP
+8	,_	RD_PUNC
+9	12_	QT_QTC
+10	कि.मी._	N_NN
+11	की_	PSP
+12	दूरी_	N_NN
+13	पर_	PSP
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	काप्पिल_	N_NNP
+2	बीच_	N_NN
+3	से_	PSP
+4	निकटतम_	JJ
+5	एयरपोर्ट_	N_NN
+6	मंगलूर_	N_NNP
+7	,_	RD_PUNC
+8	50_	QT_QTC
+9	कि.मी._	N_NN
+10	दूर_	N_NST
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	उत्तर_	N_NNP
+2	केरल_	N_NNP
+3	में_	PSP
+4	यदि_	CC_CCS
+5	आप_	PR_PRP
+6	आलप्पुष़ा_	N_NNP
+7	जैसा_	PSP
+8	वातावरण_	N_NN
+9	देखना_	V_VM
+10	चाहे_	V_VM
+11	तो_	CC_CCS
+12	पडन्ना_	N_NNP
+13	जाइए_	V_VM
+14	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	क्षेत्र_	N_NN
+3	को_	PSP
+4	लेक_	N_NN
+5	टूरिज़्म_	N_NN
+6	के_	PSP
+7	लिए_	PSP
+8	अनुकूल_	JJ
+9	बनाने_	V_VM
+10	वाले_	PSP
+11	घटक_	N_NN
+12	हैं_	V_VM
+13	-_	RD_PUNC
+14	वलियपरम्बु_	N_NNP
+15	झील_	N_NN
+16	,_	RD_PUNC
+17	हरियाली_	N_NN
+18	से_	PSP
+19	आच्छादित_	JJ
+20	द्वीप_	N_NN
+21	,_	RD_PUNC
+22	NULL_	CC_CCD
+23	नहरें_	N_NN
+24	आदि_	RP_RPD
+25	।_	RD_PUNC
+
+
+1	सीपी_	N_NNP
+2	की_	PSP
+3	कृषि_	N_NN
+4	ने_	PSP
+5	दुनिया_	N_NN
+6	का_	PSP
+7	ध्यान_	N_NN
+8	इस_	DM_DMD
+9	ओर_	N_NST
+10	आकृष्ट_	JJ
+11	किया_	V_VM
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	किसान_	N_NN
+3	गुल_	N_NNP
+4	मुहम्मद_	N_NNP
+5	हैं_	V_VM
+6	।_	RD_PUNC
+
+
+1	गुल_	N_NNP
+2	मुहम्मद_	N_NNP
+3	ने_	PSP
+4	सीपी_	N_NN
+5	कृषि_	N_NN
+6	को_	PSP
+7	पर्यटन_	N_NN
+8	अंग_	N_NN
+9	बनाकर_	V_VM
+10	अपनी_	PR_PRF
+11	कल्पना_	N_NN
+12	शक्ति_	N_NN
+13	का_	PSP
+14	परिचय_	N_NN
+15	ही_	RP_RPD
+16	नहीं_	RP_NEG
+17	दिया_	V_VM
+18	बल्कि_	CC_CCD
+19	पूरे_	JJ
+20	गाँव_	N_NN
+21	को_	PSP
+22	प्रगति_	N_NN
+23	पथ_	N_NN
+24	पर_	PSP
+25	अग्रसर_	JJ
+26	किया_	V_VM
+27	।_	RD_PUNC
+
+
+1	गुल_	N_NNP
+2	मुहम्मद_	N_NNP
+3	ने_	PSP
+4	अपने_	PR_PRF
+5	ग्रामीणों_	N_NN
+6	को_	PSP
+7	यह_	PR_PRP
+8	सिखाया_	V_VM
+9	कि_	CC_CCS
+10	वे_	PR_PRP
+11	जीवन_	N_NN
+12	-_	RD_SYM
+13	यापन_	N_NN
+14	के_	PSP
+15	परंपरागत_	JJ
+16	मार्ग_	N_NN
+17	की_	PSP
+18	उपेक्षा_	N_NN
+19	किए_	V_VM
+20	बिना_	RP_NEG
+21	कैसे_	RB
+22	पर्यटन_	N_NN
+23	उद्योग_	N_NN
+24	का_	PSP
+25	लाभ_	N_NN
+26	प्राप्त_	JJ
+27	कर_	V_VM
+28	सकते_	V_VAUX
+29	हैं_	V_VAUX
+30	।_	RD_PUNC
+
+
+1	ओयस्टर_	N_NNP
+2	ओपरा_	N_NNP
+3	नामक_	JJ
+4	अभियान_	N_NN
+5	को_	PSP
+6	चलाते_	V_VM
+7	हुए_	V_VAUX
+8	गुल_	N_NNP
+9	मुहम्मद_	N_NNP
+10	ने_	PSP
+11	अपना_	PR_PRF
+12	पर्यटन_	N_NN
+13	सिद्धांत_	N_NN
+14	प्रस्तुत_	JJ
+15	किया_	V_VM
+16	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	आने_	V_VM
+3	पर_	PSP
+4	कृषकों_	N_NN
+5	के_	PSP
+6	जीवन_	N_NN
+7	को_	PSP
+8	निकट_	N_NST
+9	से_	PSP
+10	देखा_	V_VM
+11	-_	RD_SYM
+12	समझा_	V_VM
+13	जा_	V_VAUX
+14	सकता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	ओयस्टर_	N_NNP
+2	ओपरा_	N_NNP
+3	में_	PSP
+4	साफ_	JJ
+5	सुथरा_	JJ
+6	माहौल_	N_NN
+7	व_	CC_CCS
+8	उत्तम_	JJ
+9	आवासीय_	JJ
+10	सुविधा_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	में_	PSP
+3	ठहरकर_	V_VM
+4	सामूहिक_	JJ
+5	पर्यटन_	N_NN
+6	की_	PSP
+7	अनुभूति_	N_NN
+8	का_	PSP
+9	अनुभव_	N_NN
+10	किया_	V_VM
+11	जा_	V_VAUX
+12	सकता_	V_VAUX
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	के_	PSP
+3	पास_	N_NST
+4	द्वीपों_	N_NN
+5	तक_	PSP
+6	बोटिंग_	N_NN
+7	की_	V_VM
+8	जा_	V_VAUX
+9	सकती_	V_VAUX
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	क्षेत्र_	N_NN
+3	की_	PSP
+4	विशेषताएँ_	N_NN
+5	हैं_	V_VM
+6	-_	RD_PUNC
+7	विशाल_	JJ
+8	समुद्र_	N_NN
+9	तट_	N_NN
+10	एवं_	CC_CCD
+11	सागर_	N_NN
+12	-_	RD_SYM
+13	मुहाने_	N_NN
+14	।_	RD_PUNC
+
+
+1	समीपवर्ती_	JJ
+2	तेजस्विनी_	N_NNP
+3	नदी_	N_NN
+4	से_	PSP
+5	यात्रा_	N_NN
+6	करने_	V_VM
+7	का_	PSP
+8	अवसर_	N_NN
+9	भी_	RP_RPD
+10	ओयस्टर_	N_NNP
+11	ओपरा_	N_NNP
+12	प्रदान_	N_NN
+13	करता_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	परश्शिनिक्कडवु_	N_NNP
+2	,_	RD_PUNC
+3	NULL_	CC_CCD
+4	बेक्कल_	N_NNP
+5	किला_	N_NN
+6	आदि_	RP_RPD
+7	स्थान_	N_NN
+8	इसके_	PR_PRP
+9	करीब_	N_NST
+10	हैं_	V_VM
+11	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	से_	PSP
+3	निकटतम_	JJ
+4	बस_	N_NN
+5	अड्डा_	N_NN
+6	एवं_	CC_CCD
+7	रेलवे_	N_NN
+8	स्टेशन_	N_NN
+9	9_	QT_QTC
+10	कि.मी._	N_NN
+11	की_	PSP
+12	दूरी_	N_NN
+13	पर_	PSP
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	पडन्ना_	N_NNP
+2	से_	PSP
+3	निकटतम_	JJ
+4	एयरपोर्ट_	N_NN
+5	-_	RD_PUNC
+6	मंगलूर_	N_NNP
+7	,_	RD_PUNC
+8	120_	QT_QTC
+9	कि.मी._	N_NN
+10	NULL_	V_VM
+11	और_	CC_CCD
+12	करिप्पूर_	N_NNP
+13	अन्तर्राष्ट्रीय_	JJ
+14	हवाई_	JJ
+15	अड्डा_	N_NN
+16	,_	RD_PUNC
+17	180_	QT_QTC
+18	कि.मी._	N_NN
+19	की_	PSP
+20	दूरी_	N_NN
+21	पर_	PSP
+22	है_	V_VM
+23	।_	RD_PUNC
+
+
+1	समुद्रतल_	N_NN
+2	से_	PSP
+3	1890_	QT_QTC
+4	मीटर_	N_NN
+5	की_	PSP
+6	ऊँचाई_	N_NN
+7	पर_	PSP
+8	सह्याद्रि_	N_NNP
+9	की_	PSP
+10	चोटी_	N_NN
+11	पर_	PSP
+12	अगस्त्यारकूडम_	N_NNP
+13	स्थित_	JJ
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	इनके_	PR_PRP
+2	साथ_	N_NST
+3	-_	RD_SYM
+4	साथ_	N_NST
+5	जम्मू_	N_NNP
+6	के_	PSP
+7	अन्य_	JJ
+8	महत्वपूर्ण_	JJ
+9	मंदिरों_	N_NN
+10	में_	PSP
+11	जम्मू_	N_NNP
+12	के_	PSP
+13	आलीशान_	JJ
+14	स्थान_	N_NN
+15	गांधी_	N_NNP
+16	नगर_	N_NN
+17	के_	PSP
+18	इलाके_	N_NN
+19	में_	PSP
+20	लक्ष्मी_	N_NNP
+21	नारायण_	N_NNP
+22	मंदिर_	N_NN
+23	और_	CC_CCD
+24	पंज_	N_NNP
+25	मंदिर_	N_NN
+26	भी_	RP_RPD
+27	स्थित_	JJ
+28	हैं_	V_VM
+29	।_	RD_PUNC
+
+
+1	अमर_	N_NNP
+2	महल_	N_NN
+3	से_	PSP
+4	तो_	RP_RPD
+5	नज़र_	N_NN
+6	हटाना_	V_VM
+7	मुश्किल_	JJ
+8	हो_	V_VM
+9	जाता_	V_VAUX
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	वह_	DM_DMD
+2	भव्य_	JJ
+3	महल_	N_NN
+4	शानदार_	JJ
+5	फ्रांसीसी_	JJ
+6	कासिल_	N_NN
+7	की_	PSP
+8	याद_	N_NN
+9	दिलाता_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	अमर_	N_NNP
+2	महल_	N_NN
+3	की_	PSP
+4	ऊँची_	JJ
+5	मीनारें_	N_NN
+6	और_	CC_CCD
+7	ढलवाँ_	JJ
+8	छतें_	N_NN
+9	आकर्षित_	JJ
+10	करती_	V_VM
+11	हैं_	V_VAUX
+12	और_	CC_CCD
+13	सबका_	PR_PRP
+14	मन_	N_NN
+15	मोह_	V_VM
+16	लेती_	V_VAUX
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	अमर_	N_NNP
+2	महल_	N_NN
+3	को_	PSP
+4	अब_	PR_PRP
+5	संग्रहालय_	N_NN
+6	में_	PSP
+7	बदलकर_	V_VM
+8	पर्यटकों_	N_NN
+9	के_	PSP
+10	लिए_	PSP
+11	खोल_	V_VM
+12	दिया_	V_VAUX
+13	गया_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	अमर_	N_NNP
+2	महल_	N_NN
+3	में_	PSP
+4	प्राचीन_	JJ
+5	पुस्तकों_	N_NN
+6	और_	CC_CCD
+7	पेंटिंग्स_	N_NN
+8	का_	PSP
+9	अनूठा_	JJ
+10	और_	CC_CCD
+11	श्रेष्ठ_	JJ
+12	संग्रह_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	अमर_	N_NNP
+2	महल_	N_NN
+3	संग्रहालय_	N_NN
+4	में_	PSP
+5	नल_	N_NNP
+6	दमयंती_	N_NNP
+7	की_	PSP
+8	कथा_	N_NN
+9	की_	PSP
+10	समूची_	QT_QTF
+11	मिनिएचर_	JJ
+12	पेंटिंग_	N_NN
+13	श्रृंखला_	N_NN
+14	देखी_	V_VM
+15	जा_	V_VAUX
+16	सकती_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	शहर_	N_NN
+3	में_	PSP
+4	पुराने_	JJ
+5	बाज़ार_	N_NN
+6	और_	CC_CCD
+7	डिज़ाइनदार_	JJ
+8	बुटीक_	N_NN
+9	के_	PSP
+10	प्राचीन_	JJ
+11	और_	CC_CCD
+12	नवीन_	JJ
+13	स्वरूप_	N_NN
+14	का_	PSP
+15	एक_	QT_QTC
+16	अद्भुत_	JJ
+17	संगम_	N_NN
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	बाज़ारों_	N_NN
+2	की_	PSP
+3	रौनक_	N_NN
+4	में_	PSP
+5	घुलते_	V_VM
+6	मिलते_	V_VM
+7	आपको_	PR_PRP
+8	ये_	DM_DMD
+9	दोनों_	QT_QTO
+10	स्वरूप_	N_NN
+11	दिखाई_	V_VM
+12	देते_	V_VAUX
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	रघुनाथ_	N_NNP
+2	बाज़ार_	N_NN
+3	की_	PSP
+4	भीड़_	N_NN
+5	भरी_	V_VM
+6	गलियों_	N_NN
+7	में_	PSP
+8	सदियों_	N_NN
+9	से_	PSP
+10	पुस्तैनी_	JJ
+11	चली_	V_VM
+12	आ_	V_VAUX
+13	रही_	V_VAUX
+14	मेवे_	N_NN
+15	की_	PSP
+16	दुकानों_	N_NN
+17	के_	PSP
+18	बीचों_	N_NST
+19	-_	RD_SYM
+20	बीच_	N_NST
+21	आधुनिकता_	N_NN
+22	की_	PSP
+23	प्रतीक_	N_NN
+24	डिज़ाइनर_	JJ
+25	बुटीक_	N_NN
+26	पर_	PSP
+27	नए_	JJ
+28	से_	RP_RPD
+29	नए_	JJ
+30	फैशन_	N_NN
+31	के_	PSP
+32	कपड़े_	N_NN
+33	और_	CC_CCD
+34	चीज़ें_	N_NN
+35	आपको_	PR_PRP
+36	चौंका_	V_VM
+37	देंगी_	V_VAUX
+38	।_	RD_PUNC
+
+
+1	वीर_	N_NN
+2	मार्ग_	N_NN
+3	,_	RD_PUNC
+4	रघुनाथ_	N_NNP
+5	बाज़ार_	N_NN
+6	और_	CC_CCD
+7	हरी_	N_NNP
+8	मार्केट_	N_NN
+9	जम्मू_	N_NNP
+10	के_	PSP
+11	अन्य_	JJ
+12	बाजार_	N_NN
+13	हैं_	V_VM
+14	।_	RD_PUNC
+
+
+1	जो_	PR_PRL
+2	कश्मीरी_	JJ
+3	दस्तकारी_	N_NN
+4	,_	RD_PUNC
+5	पारम्परिक_	JJ
+6	डोगरा_	N_NNP
+7	जेवरों_	N_NN
+8	और_	CC_CCD
+9	अखरोट_	N_NN
+10	सहित_	PSP
+11	विभिन्न_	JJ
+12	प्रकार_	N_NN
+13	के_	PSP
+14	मेवों_	N_NN
+15	के_	PSP
+16	लिए_	PSP
+17	मशहूर_	JJ
+18	हैं_	V_VM
+19	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	बेहतरीन_	JJ
+3	किस्म_	N_NN
+4	के_	PSP
+5	बासमती_	N_NN
+6	चावल_	N_NN
+7	,_	RD_PUNC
+8	लम्बे_	JJ
+9	लाल_	JJ
+10	दाने_	N_NN
+11	वाले_	PSP
+12	राजमा_	N_NN
+13	,_	RD_PUNC
+14	सूखे_	JJ
+15	और_	CC_CCD
+16	अन्य_	JJ
+17	अलग_	JJ
+18	-_	RD_SYM
+19	अलग_	JJ
+20	किस्म_	N_NN
+21	के_	PSP
+22	आम_	N_NN
+23	पापड़_	N_NN
+24	,_	RD_PUNC
+25	अनार_	N_NN
+26	के_	PSP
+27	सुखाए_	V_VM
+28	गए_	V_VAUX
+29	बीजों_	N_NN
+30	का_	PSP
+31	अनारदाना_	N_NN
+32	और_	CC_CCD
+33	गाढ़े_	N_NN
+34	दूध_	N_NN
+35	से_	PSP
+36	बनी_	V_VM
+37	लज्जतदार_	JJ
+38	बर्फी_	N_NN
+39	के_	PSP
+40	लिए_	PSP
+41	भी_	RP_RPD
+42	मशहूर_	JJ
+43	है_	V_VM
+44	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	कैसे_	RB
+3	पहुँचा_	V_VM
+4	जाए_	V_VAUX
+5	।_	RD_PUNC
+
+
+1	हवाई_	JJ
+2	यात्रा_	N_NN
+3	:_	RD_PUNC
+
+
+1	इण्डियन_	JJ
+2	एयरलाइंस_	N_NN
+3	,_	RD_PUNC
+4	जम्मू_	N_NNP
+5	और_	CC_CCD
+6	श्रीनगर_	N_NNP
+7	/_	RD_SYM
+8	लेह_	N_NNP
+9	के_	PSP
+10	लिए_	PSP
+11	नियमित_	JJ
+12	उड़ानें_	N_NN
+13	चलाती_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	हवाई_	JJ
+3	अड्डा_	N_NN
+4	शहर_	N_NN
+5	के_	PSP
+6	मध्य_	N_NST
+7	से_	PSP
+8	आठ_	QT_QTC
+9	किलोमीटर_	N_NN
+10	की_	PSP
+11	दूरी_	N_NN
+12	पर_	PSP
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	-_	RD_SYM
+3	दिल्ली_	N_NNP
+4	और_	CC_CCD
+5	जम्मू_	N_NNP
+6	-_	RD_SYM
+7	श्रीनगर_	N_NNP
+8	के_	PSP
+9	बीच_	N_NST
+10	जेट_	N_NNP
+11	एयरवेज_	N_NN
+12	की_	PSP
+13	सेवाएँ_	N_NN
+14	भी_	RP_RPD
+15	हैं_	V_VM
+16	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	-_	RD_SYM
+3	कश्मीर_	N_NNP
+4	राज्य_	N_NN
+5	के_	PSP
+6	लिए_	PSP
+7	उत्तर_	N_NNP
+8	रेलवे_	N_NN
+9	का_	PSP
+10	मुख्य_	JJ
+11	और_	CC_CCD
+12	महत्वपूर्ण_	JJ
+13	रेलवे_	N_NN
+14	स्टेशन_	N_NN
+15	जम्मू_	N_NNP
+16	तवी_	N_NNP
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	आने_	V_VM
+3	-_	RD_SYM
+4	जाने_	V_VM
+5	वाली_	PSP
+6	मुख्य_	JJ
+7	रेलगाड़ियाँ_	N_NN
+8	हैं_	V_VM
+9	-_	RD_PUNC
+10	मालवा_	N_NNP
+11	एक्सप्रेस_	N_NN
+12	,_	RD_PUNC
+13	सुपरफास्ट_	N_NN
+14	,_	RD_PUNC
+15	जम्मू_	N_NNP
+16	मेल_	N_NNP
+17	,_	RD_PUNC
+18	जम्मू_	N_NNP
+19	एक्सप्रेस_	N_NN
+20	,_	RD_PUNC
+21	शालीमार_	N_NNP
+22	एक्सप्रेस_	N_NN
+23	,_	RD_PUNC
+24	सियालदाह_	N_NNP
+25	एक्सप्रेस_	N_NN
+26	,_	RD_PUNC
+27	झेलम_	N_NNP
+28	एक्सप्रेस_	N_NN
+29	,_	RD_PUNC
+30	हिमगिरी_	N_NNP
+31	एक्सप्रेस_	N_NN
+32	,_	RD_PUNC
+33	हिमसागर_	N_NNP
+34	एक्सप्रेस_	N_NN
+35	,_	RD_PUNC
+36	लोहित_	N_NNP
+37	एक्सप्रेस_	N_NN
+38	,_	RD_PUNC
+39	सर्वोदय_	N_NN
+40	एक्सप्रेस_	N_NN
+41	,_	RD_PUNC
+42	हापा_	N_NNP
+43	एक्सप्रेस_	N_NN
+44	,_	RD_PUNC
+45	नवयुग_	N_NN
+46	एक्सप्रेस_	N_NN
+47	,_	RD_PUNC
+48	गोरखपुर_	N_NNP
+49	एक्सप्रेस_	N_NN
+50	,_	RD_PUNC
+51	बरौनी_	N_NNP
+52	एक्सप्रेस_	N_NN
+53	,_	RD_PUNC
+54	मद्रास_	N_NNP
+55	एक्सप्रेस_	N_NN
+56	,_	RD_PUNC
+57	राजधानी_	N_NN
+58	एक्सप्रेस_	N_NN
+59	और_	CC_CCD
+60	फिरोजपुर_	N_NNP
+61	एक्सप्रेस_	N_NN
+62	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	राष्ट्रीय_	JJ
+3	राजमार्ग_	N_NN
+4	1_	QT_QTC
+5	-_	RD_SYM
+6	ए_	N_NNP
+7	पर_	PSP
+8	स्थित_	JJ
+9	है_	V_VM
+10	और_	CC_CCD
+11	देश_	N_NN
+12	के_	PSP
+13	सभी_	QT_QTF
+14	हिस्सों_	N_NN
+15	से_	PSP
+16	राष्ट्रीय_	JJ
+17	राजमार्ग_	N_NN
+18	से_	PSP
+19	जुड़ा_	V_VM
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	से_	PSP
+3	दिल्ली_	N_NNP
+4	,_	RD_PUNC
+5	अमृतसर_	N_NNP
+6	,_	RD_PUNC
+7	अम्बाला_	N_NNP
+8	,_	RD_PUNC
+9	चण्डीगढ़_	N_NNP
+10	,_	RD_PUNC
+11	लुधियाना_	N_NNP
+12	,_	RD_PUNC
+13	जालंधर_	N_NNP
+14	,_	RD_PUNC
+15	पठानकोट_	N_NNP
+16	,_	RD_PUNC
+17	शिमला_	N_NNP
+18	और_	CC_CCD
+19	मनाली_	N_NNP
+20	के_	PSP
+21	बीच_	N_NST
+22	इन_	DM_DMD
+23	सभी_	QT_QTF
+24	मार्गों_	N_NN
+25	पर_	PSP
+26	सामान्य_	JJ
+27	डीलक्स_	JJ
+28	और_	CC_CCD
+29	वीडियो_	N_NN
+30	बसें_	N_NN
+31	बराबर_	RB
+32	आती_	V_VM
+33	-_	RD_SYM
+34	जाती_	V_VM
+35	रहती_	V_VAUX
+36	हैं_	V_VAUX
+37	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	-_	RD_SYM
+3	कश्मीर_	N_NNP
+4	राज्य_	N_NN
+5	सड़क_	N_NN
+6	परिवहन_	N_NN
+7	निगम_	N_NN
+8	की_	PSP
+9	बसें_	N_NN
+10	जम्मू_	N_NNP
+11	को_	PSP
+12	उत्तरभारत_	N_NNP
+13	-_	RD_PUNC
+14	दिल्ली_	N_NNP
+15	,_	RD_PUNC
+16	हरियाणा_	N_NNP
+17	,_	RD_PUNC
+18	हिमाचल_	N_NNP
+19	प्रदेश_	N_NN
+20	,_	RD_PUNC
+21	पंजाब_	N_NNP
+22	और_	CC_CCD
+23	चण्डीगढ़_	N_NNP
+24	से_	PSP
+25	जोड़ती_	V_VM
+26	हैं_	V_VAUX
+27	।_	RD_PUNC
+
+
+1	सभी_	QT_QTF
+2	अंतर्राज्यीय_	JJ
+3	बसें_	N_NN
+4	रेलवे_	N_NN
+5	स्टेशन_	N_NN
+6	से_	PSP
+7	आती_	V_VM
+8	-_	RD_SYM
+9	जाती_	V_VM
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	श्रीनगर_	N_NNP
+2	के_	PSP
+3	लिए_	PSP
+4	सुपर_	JJ
+5	डीलक्स_	JJ
+6	,_	RD_PUNC
+7	डीलक्स_	JJ
+8	,_	RD_PUNC
+9	वीडियो_	N_NN
+10	कोच_	N_NN
+11	और_	CC_CCD
+12	ए_	N_NN
+13	-_	RD_SYM
+14	क्लास_	N_NN
+15	बसें_	N_NN
+16	रेलवे_	N_NN
+17	स्टेशन_	N_NN
+18	से_	PSP
+19	आती_	V_VM
+20	-_	RD_SYM
+21	जाती_	V_VM
+22	हैं_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	श्रीनगर_	N_NNP
+2	के_	PSP
+3	लिए_	PSP
+4	बी_	N_NN
+5	-_	RD_SYM
+6	क्लास_	N_NN
+7	बसें_	N_NN
+8	जनरल_	JJ
+9	बस_	N_NN
+10	स्टैण्ड_	N_NN
+11	से_	PSP
+12	चलती_	V_VM
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	-_	RD_SYM
+3	कश्मीर_	N_NNP
+4	एसआरटीसी_	N_NN
+5	यानी_	RP_RPD
+6	राज्य_	N_NN
+7	का_	PSP
+8	सड़क_	N_NN
+9	परिवहन_	N_NN
+10	का_	PSP
+11	जनरल_	JJ
+12	बस_	N_NN
+13	स्टैण्ड_	N_NN
+14	,_	RD_PUNC
+15	पर्यटक_	N_NN
+16	स्वागत_	N_NN
+17	केंद्र_	N_NN
+18	से_	PSP
+19	आधा_	QT_QTO
+20	किलोमीटर_	N_NN
+21	दूर_	N_NST
+22	है_	V_VM
+23	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	अलावा_	PSP
+3	कुछ_	QT_QTF
+4	ट्रैवल_	N_NN
+5	एजेंसियाँ_	N_NN
+6	भी_	RP_RPD
+7	मुख्य_	JJ
+8	रास्तों_	N_NN
+9	पर_	PSP
+10	डीलक्स_	JJ
+11	/_	RD_SYM
+12	वीडियो_	N_NN
+13	कोच_	N_NN
+14	चलाती_	V_VM
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	स्थानीय_	JJ
+2	रूप_	N_NN
+3	से_	PSP
+4	घूमने_	V_VM
+5	या_	CC_CCD
+6	किसी_	DM_DMI
+7	अन्य_	JJ
+8	पर्यटन_	N_NN
+9	स्थल_	N_NN
+10	तक_	PSP
+11	आने_	V_VM
+12	-_	RD_SYM
+13	जाने_	V_VM
+14	के_	PSP
+15	लिए_	PSP
+16	स्पेशल_	JJ
+17	टूरिस्ट_	N_NN
+18	टैक्सी_	N_NN
+19	एसोसिएशन_	N_NN
+20	,_	RD_PUNC
+21	पर्यटन_	N_NN
+22	स्वागत_	N_NN
+23	केंद्र_	N_NN
+24	,_	RD_PUNC
+25	NULL_	CC_CCD
+26	वीर_	N_NNP
+27	मार्ग_	N_NN
+28	से_	PSP
+29	फोन:246266_	N_NN
+30	पर_	PSP
+31	सम्पर्क_	N_NN
+32	करें_	V_VM
+33	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	में_	PSP
+3	निश्चित_	JJ
+4	रास्तों_	N_NN
+5	पर_	PSP
+6	आने_	V_VM
+7	-_	RD_SYM
+8	जाने_	V_VM
+9	के_	PSP
+10	लिए_	PSP
+11	मिनी_	JJ
+12	बसों_	N_NN
+13	का_	PSP
+14	सबसे_	RP_INTF
+15	अधिक_	QT_QTF
+16	इस्तेमाल_	N_NN
+17	होता_	V_VM
+18	है_	V_VAUX
+19	जो_	PR_PRL
+20	शहर_	N_NN
+21	के_	PSP
+22	लगभग_	RP_RPD
+23	सभी_	QT_QTF
+24	स्थानों_	N_NN
+25	पर_	PSP
+26	जाती_	V_VM
+27	हैं_	V_VAUX
+28	।_	RD_PUNC
+
+
+1	इन_	DM_DMD
+2	सबके_	PR_PRP
+3	अलावा_	PSP
+4	जम्मू_	N_NNP
+5	-_	RD_SYM
+6	कश्मीर_	N_NNP
+7	पर्यटक_	N_NN
+8	विकास_	N_NN
+9	निगम_	N_NN
+10	जेकेटीडीसी_	N_NNP
+11	,_	RD_PUNC
+12	टूरिस्ट_	N_NN
+13	रिसेप्शन_	N_NN
+14	सेंटर_	N_NN
+15	,_	RD_PUNC
+16	होटल_	N_NN
+17	ब्लॉक_	N_NN
+18	,_	RD_PUNC
+19	NULL_	CC_CCD
+20	वीर_	N_NNP
+21	मार्ग_	N_NN
+22	में_	PSP
+23	हर_	QT_QTF
+24	बजट_	N_NN
+25	में_	PSP
+26	ठहरने_	V_VM
+27	की_	PSP
+28	सुविधा_	N_NN
+29	उपलब्ध_	JJ
+30	कराता_	V_VM
+31	है_	V_VAUX
+32	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	एसी_	N_NN
+3	और_	CC_CCD
+4	नॉन_	RP_NEG
+5	एसी_	N_NN
+6	दोनों_	QT_QTO
+7	तरह_	N_NN
+8	के_	PSP
+9	कमरे_	N_NN
+10	उपलब्ध_	JJ
+11	हैं_	V_VM
+12	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	शहर_	N_NN
+3	में_	PSP
+4	कहीं_	PR_PRI
+5	भी_	RP_RPD
+6	आपको_	PR_PRP
+7	अच्छा_	JJ
+8	भोजन_	N_NN
+9	मिल_	V_VM
+10	जाएगा_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	सामान्य_	N_NN
+2	से_	PSP
+3	शानदार_	N_NN
+4	तक_	PSP
+5	हर_	QT_QTF
+6	तरह_	N_NN
+7	का_	PSP
+8	भोजन_	N_NN
+9	कराने_	V_VM
+10	वाले_	PSP
+11	रेस्त्राँ_	N_NN
+12	हैं_	V_VM
+13	।_	RD_PUNC
+
+
+1	चाहें_	V_VM
+2	तो_	RP_RPD
+3	सामान्य_	JJ
+4	उत्तर_	N_NNP
+5	भारतीय_	JJ
+6	खाना_	N_NN
+7	खाएँ_	V_VM
+8	या_	CC_CCD
+9	भरपूर_	QT_QTF
+10	लज्जतदार_	JJ
+11	कश्मीरी_	JJ
+12	व्यंजनों_	N_NN
+13	का_	PSP
+14	लुत्फ़_	N_NN
+15	उठाएँ_	V_VM
+16	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	में_	PSP
+3	जाने_	JJ
+4	-_	RD_SYM
+5	माने_	JJ
+6	प्रमुख_	JJ
+7	शराबघरों_	N_NN
+8	और_	CC_CCD
+9	शराब_	N_NN
+10	की_	PSP
+11	दुकानों_	N_NN
+12	पर_	PSP
+13	अच्छी_	JJ
+14	ब्रांड_	N_NN
+15	की_	PSP
+16	भारतीय_	JJ
+17	और_	CC_CCD
+18	विदेशी_	JJ
+19	शराब_	N_NN
+20	मिलती_	V_VM
+21	हैं_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	लेकिन_	CC_CCD
+2	राष्ट्रीय_	JJ
+3	छुट्टियों_	N_NN
+4	और_	CC_CCD
+5	राज्यस्तरीय_	JJ
+6	कुछ_	QT_QTF
+7	छुट्टियों_	N_NN
+8	के_	PSP
+9	दिन_	N_NN
+10	शराब_	N_NN
+11	नहीं_	RP_NEG
+12	मिलती_	V_VM
+13	यानी_	CC_CCD
+14	ड्राई_	JJ
+15	रहते_	V_VM
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	से_	PSP
+3	साढ़े_	QT_QTC
+4	तीन_	QT_QTC
+5	किलोमीटर_	N_NN
+6	दूर_	N_NST
+7	सर्कुलर_	JJ
+8	रोड_	N_NN
+9	पर_	PSP
+10	बने_	V_VM
+11	पीर_	N_NN
+12	खोह_	N_NN
+13	मंदिर_	N_NN
+14	में_	PSP
+15	एक_	QT_QTC
+16	गुफा_	N_NN
+17	के_	PSP
+18	अन्दर_	N_NST
+19	प्राकृतिक_	JJ
+20	रूप_	N_NN
+21	से_	PSP
+22	शिवलिंग_	N_NNP
+23	बना_	V_VM
+24	है_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	कितना_	PR_PRQ
+3	प्राचीन_	JJ
+4	है_	V_VM
+5	और_	CC_CCD
+6	कैसे_	RB
+7	बना_	V_VM
+8	,_	RD_PUNC
+9	यह_	PR_PRP
+10	कोई_	PR_PRI
+11	नहीं_	RP_NEG
+12	जानता_	V_VM
+13	।_	RD_PUNC
+
+
+1	ऐसी_	DM_DMD
+2	मान्यता_	N_NN
+3	है_	V_VM
+4	कि_	CC_CCS
+5	यह_	DM_DMD
+6	गुफा_	N_NN
+7	अन्दर_	N_NST
+8	ही_	RP_RPD
+9	अन्दर_	N_NST
+10	बहुत_	QT_QTF
+11	से_	RP_RPD
+12	अन्य_	JJ
+13	तीर्थ_	N_NN
+14	गुफाओं_	N_NN
+15	से_	PSP
+16	जा_	V_VM
+17	मिलती_	V_VAUX
+18	है_	V_VAUX
+19	और_	CC_CCD
+20	देश_	N_NN
+21	की_	PSP
+22	सीमा_	N_NN
+23	पार_	N_NN
+24	कर_	V_VM
+25	जाती_	V_VAUX
+26	है_	V_VAUX
+27	।_	RD_PUNC
+
+
+1	नए_	JJ
+2	सचिवालय_	N_NN
+3	के_	PSP
+4	पास_	N_NST
+5	ही_	RP_RPD
+6	शालीमार_	N_NNP
+7	रोड_	N_NN
+8	पर_	PSP
+9	रणविरेश्वर_	N_NNP
+10	शिव_	N_NNP
+11	मंदिर_	N_NN
+12	को_	PSP
+13	सन्_	N_NN
+14	1883_	N_NNP
+15	में_	PSP
+16	महाराजा_	N_NN
+17	रणवीर_	N_NNP
+18	सिंह_	N_NNP
+19	ने_	PSP
+20	बनवाया_	V_VM
+21	था_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	रणविरेश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	का_	PSP
+4	मुख्य_	JJ
+5	शिवलिंग_	N_NNP
+6	साढ़े_	QT_QTC
+7	सात_	QT_QTC
+8	फुट_	N_NN
+9	(_	RD_SYM
+10	7.5_	QT_QTC
+11	फुट_	N_NN
+12	)_	RD_SYM
+13	ऊँचा_	JJ
+14	है_	V_VM
+15	और_	CC_CCD
+16	उसके_	PR_PRP
+17	चारों_	QT_QTC
+18	तरफ_	N_NST
+19	से_	PSP
+20	15_	QT_QTC
+21	से_	PSP
+22	38_	QT_QTC
+23	सेंटीमीटर_	N_NN
+24	तक_	PSP
+25	के_	PSP
+26	आकार_	N_NN
+27	के_	PSP
+28	क्रिस्टल_	N_NN
+29	से_	PSP
+30	बने_	V_VM
+31	12_	QT_QTC
+32	शिवलिंग_	N_NNP
+33	हैं_	V_VM
+34	।_	RD_PUNC
+
+
+1	रणविरेश्वर_	N_NNP
+2	मंदिर_	N_NN
+3	के_	PSP
+4	गलियारों_	N_NN
+5	में_	PSP
+6	लगे_	V_VM
+7	पत्थरों_	N_NN
+8	के_	PSP
+9	स्लैबों_	N_NN
+10	पर_	PSP
+11	हज़ारों_	N_NN
+12	की_	PSP
+13	संख्या_	N_NN
+14	में_	PSP
+15	शिवलिंग_	N_NNP
+16	जड़े_	V_VM
+17	हुए_	V_VAUX
+18	हैं_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	के_	PSP
+3	बीचों_	N_NST
+4	-_	RD_SYM
+5	बीच_	N_NST
+6	स्थित_	JJ
+7	भगवान_	N_NN
+8	राम_	N_NNP
+9	का_	PSP
+10	रघुनाथ_	N_NNP
+11	मंदिर_	N_NN
+12	विभिन्न_	JJ
+13	हिन्दू_	JJ
+14	देवी_	N_NN
+15	-_	RD_SYM
+16	देवताओं_	N_NN
+17	के_	PSP
+18	मंदिरों_	N_NN
+19	से_	PSP
+20	घिरा_	V_VM
+21	हुआ_	V_VAUX
+22	है_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	उत्तर_	N_NNP
+2	भारत_	N_NNP
+3	के_	PSP
+4	इस_	DM_DMD
+5	अनूठे_	JJ
+6	राम_	N_NNP
+7	मंदिर_	N_NN
+8	का_	PSP
+9	निर्माण_	N_NN
+10	सन्_	N_NN
+11	1835_	N_NNP
+12	में_	PSP
+13	जम्मू_	N_NNP
+14	-_	RD_SYM
+15	कश्मीर_	N_NNP
+16	रियासत_	N_NN
+17	के_	PSP
+18	संस्थापक_	N_NN
+19	महाराजा_	N_NN
+20	गुलाब_	N_NNP
+21	सिंह_	N_NNP
+22	ने_	PSP
+23	शुरू_	N_NN
+24	करवाया_	V_VM
+25	था_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	से_	PSP
+3	दो_	QT_QTC
+4	किलोमीटर_	N_NN
+5	दूर_	N_NST
+6	रणवीर_	N_NNP
+7	नहर_	N_NN
+8	के_	PSP
+9	किनारे_	N_NN
+10	छोटा_	JJ
+11	सा_	RP_RPD
+12	बगीचा_	N_NN
+13	गर्मी_	N_NN
+14	में_	PSP
+15	पिकनिक_	N_NN
+16	मनाने_	V_VM
+17	वालों_	PSP
+18	में_	PSP
+19	मशहूर_	JJ
+20	है_	V_VM
+21	।_	RD_PUNC
+
+
+1	जम्मू_	N_NNP
+2	से_	PSP
+3	32_	QT_QTC
+4	किलोमीटर_	N_NN
+5	दूर_	N_NST
+6	अखनूर_	N_NNP
+7	में_	PSP
+8	चिनाब_	N_NNP
+9	नदी_	N_NN
+10	से_	PSP
+11	यह_	DM_DMD
+12	रणवीर_	N_NNP
+13	नहर_	N_NN
+14	निकलती_	V_VM
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	रणवीर_	N_NNP
+2	नहर_	N_NN
+3	का_	PSP
+4	पानी_	N_NN
+5	सालभर_	N_NN
+6	बर्फ_	N_NN
+7	जैसा_	PSP
+8	ठण्डा_	JJ
+9	रहता_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	रणवीर_	N_NNP
+2	नहर_	N_NN
+3	के_	PSP
+4	किनारे_	N_NN
+5	-_	RD_SYM
+6	किनारे_	N_NN
+7	घूमने_	V_VM
+8	का_	PSP
+9	मज़ा_	N_NN
+10	ही_	RP_RPD
+11	कुछ_	QT_QTF
+12	और_	QT_QTF
+13	है_	V_VM
+14	,_	RD_PUNC
+15	NULL_	CC_CCD
+16	आसपास_	N_NST
+17	के_	PSP
+18	शानदार_	JJ
+19	नज़ारे_	N_NN
+20	आपका_	PR_PRP
+21	मन_	N_NN
+22	मोह_	V_VM
+23	लेंगे_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	से_	PSP
+3	पाँच_	QT_QTC
+4	किलोमीटर_	N_NN
+5	दूर_	N_NST
+6	तवी_	N_NNP
+7	नदी_	N_NN
+8	के_	PSP
+9	बाएँ_	JJ
+10	किनारे_	N_NN
+11	पर_	PSP
+12	चट्टानी_	JJ
+13	धरती_	N_NN
+14	पर_	PSP
+15	खड़ा_	JJ
+16	बाहू_	N_NN
+17	गढ़_	N_NN
+18	शहर_	N_NN
+19	का_	PSP
+20	शायद_	RB
+21	सबसे_	QT_QTF
+22	पुराना_	JJ
+23	किला_	N_NN
+24	है_	V_VM
+25	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	के_	PSP
+3	चारों_	QT_QTC
+4	ओर_	N_NST
+5	कई_	QT_QTF
+6	खूबसूरत_	JJ
+7	घाटियाँ_	N_NN
+8	हैं_	V_VM
+9	।_	RD_PUNC
+
+
+1	घाटियों_	N_NN
+2	में_	PSP
+3	व्यास_	N_NNP
+4	नदी_	N_NN
+5	के_	PSP
+6	पार_	N_NN
+7	नगर_	N_NNP
+8	NULL_	V_VM
+9	और_	CC_CCD
+10	पार्वती_	N_NNP
+11	नदी_	N_NN
+12	के_	PSP
+13	पार_	N_NN
+14	कसोल_	N_NNP
+15	व_	CC_CCD
+16	मणिकर्ण_	N_NNP
+17	मुख्य_	JJ
+18	हैं_	V_VM
+19	।_	RD_PUNC
+
+
+1	इन_	DM_DMD
+2	घाटियों_	N_NN
+3	से_	PSP
+4	होकर_	V_VM
+5	मलाना_	N_NNP
+6	नामक_	JJ
+7	एक_	QT_QTC
+8	अनोखे_	JJ
+9	गाँव_	N_NN
+10	को_	PSP
+11	पैदल_	RB
+12	जाते_	V_VM
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	यह_	DM_DMD
+2	मलाना_	N_NNP
+3	गाँव_	N_NN
+4	अपनी_	PR_PRF
+5	प्राचीन_	JJ
+6	शासकीय_	JJ
+7	व्यवस्था_	N_NN
+8	के_	PSP
+9	कारण_	PSP
+10	दुनियाभर_	N_NN
+11	में_	PSP
+12	मशहूर_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	घाटी_	N_NN
+3	में_	PSP
+4	बस_	N_NN
+5	मार्ग_	N_NN
+6	पर_	PSP
+7	हर_	QT_QTF
+8	कहीं_	PR_PRP
+9	कुल्लू_	N_NNP
+10	शाल_	N_NN
+11	,_	RD_PUNC
+12	टोपी_	N_NN
+13	व_	CC_CCD
+14	दूसरे_	QT_QTO
+15	कपड़ों_	N_NN
+16	की_	PSP
+17	दुकानें_	N_NN
+18	सजी_	V_VM
+19	हुई_	V_VAUX
+20	मिलती_	V_VM
+21	हैं_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	ढालपुर_	N_NNP
+2	बाजार_	N_NN
+3	में_	PSP
+4	सूखे_	JJ
+5	मेवे_	N_NN
+6	भी_	RP_RPD
+7	खरीदे_	V_VM
+8	जा_	V_VAUX
+9	सकते_	V_VAUX
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	से_	PSP
+3	10_	QT_QTC
+4	किलोमीटर_	N_NN
+5	पहले_	N_NST
+6	भूंतर_	N_NNP
+7	हवाई_	JJ
+8	अड्डा_	N_NN
+9	स्थित_	JJ
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	यहीं_	PR_PRP
+2	व्यास_	N_NNP
+3	व_	CC_CCD
+4	पार्वती_	N_NNP
+5	नदी_	N_NN
+6	का_	PSP
+7	संगम_	N_NN
+8	स्थल_	N_NN
+9	भी_	RP_RPD
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	व्यास_	N_NNP
+2	के_	PSP
+3	पार_	N_NN
+4	पार्वती_	N_NNP
+5	नदी_	N_NN
+6	के_	PSP
+7	किनारे_	N_NN
+8	से_	PSP
+9	एक_	QT_QTC
+10	छिपी_	V_VM
+11	हुई_	V_VAUX
+12	घाटी_	N_NN
+13	का_	PSP
+14	सफर_	N_NN
+15	शुरू_	JJ
+16	होता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	भूंतर_	N_NNP
+2	से_	PSP
+3	कसोल_	N_NNP
+4	32_	QT_QTC
+5	NULL_	V_VM
+6	और_	CC_CCD
+7	मणिकर्ण_	N_NNP
+8	35_	QT_QTC
+9	किलोमीटर_	N_NN
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	कसोल_	N_NNP
+2	जहाँ_	PR_PRL
+3	कुदरती_	JJ
+4	नजारों_	N_NN
+5	से_	PSP
+6	भरा_	V_VM
+7	है_	V_VAUX
+8	,_	RD_PUNC
+9	वहीं_	PR_PRP
+10	मणिकर्ण_	N_NNP
+11	गरम_	JJ
+12	पानी_	N_NN
+13	के_	PSP
+14	चश्मों_	N_NN
+15	से_	PSP
+16	घिरा_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	कसोल_	N_NNP
+2	में_	PSP
+3	विदेशी_	JJ
+4	सैलानी_	N_NN
+5	ज्यादा_	QT_QTF
+6	NULL_	V_VM
+7	और_	CC_CCD
+8	मणिकर्ण_	N_NN
+9	में_	PSP
+10	केवल_	RP_RPD
+11	भारतीय_	JJ
+12	पर्यटक_	N_NN
+13	मिलते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	आबादी_	N_NN
+2	से_	PSP
+3	बाहर_	N_NST
+4	नदीनालों_	N_NN
+5	व_	CC_CCD
+6	देवदारों_	N_NN
+7	से_	PSP
+8	सजे_	V_VM
+9	पिकनिक_	N_NN
+10	स्थल_	N_NN
+11	हैं_	V_VM
+12	।_	RD_PUNC
+
+
+1	कुल्लूमनाली_	N_NNP
+2	मार्ग_	N_NN
+3	पर_	PSP
+4	पतली_	JJ
+5	कूहल_	N_NNP
+6	से_	PSP
+7	दाईं_	N_NN
+8	ओर_	N_NST
+9	व्यास_	N_NNP
+10	नदी_	N_NN
+11	के_	PSP
+12	पार_	N_NN
+13	नगर_	N_NNP
+14	में_	PSP
+15	विश्वप्रसिद्ध_	JJ
+16	चित्रकार_	N_NN
+17	निकोलस_	N_NNP
+18	रोरिख_	N_NNP
+19	का_	PSP
+20	रचना_	N_NN
+21	संसार_	N_NN
+22	एक_	QT_QTC
+23	आर्ट_	N_NN
+24	गैलरी_	N_NN
+25	में_	PSP
+26	संगृहीत_	JJ
+27	है_	V_VM
+28	।_	RD_PUNC
+
+
+1	नगर_	N_NN
+2	कैसल_	N_NNP
+3	में_	PSP
+4	संग्रहालय_	N_NN
+5	,_	RD_PUNC
+6	पौराणिक_	JJ
+7	जगतीपट_	N_NN
+8	और_	CC_CCD
+9	प्राचीन_	JJ
+10	काष्ठ_	N_NN
+11	एवं_	CC_CCD
+12	पाषाण_	N_NN
+13	से_	PSP
+14	बने_	V_VM
+15	मंदिर_	N_NN
+16	दर्शनीय_	JJ
+17	हैं_	V_VM
+18	।_	RD_PUNC
+
+
+1	कैसल_	N_NN
+2	यानी_	RP_RPD
+3	किले_	N_NN
+4	में_	PSP
+5	ही_	RP_RPD
+6	हिमाचल_	N_NNP
+7	प्रदेश_	N_NN
+8	पर्यटन_	N_NN
+9	निगम_	N_NN
+10	का_	PSP
+11	होटल_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	होटल_	N_NN
+2	से_	PSP
+3	व्यास_	N_NNP
+4	नदी_	N_NN
+5	का_	PSP
+6	विहंगम_	JJ
+7	दृश्य_	N_NN
+8	दिखाई_	V_VM
+9	देता_	V_VAUX
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	से_	PSP
+3	26_	QT_QTC
+4	किलोमीटर_	N_NN
+5	दूर_	N_NST
+6	नगर_	N_NNP
+7	प्राचीनकाल_	N_NN
+8	में_	PSP
+9	कुल्लू_	N_NNP
+10	की_	PSP
+11	राजधानी_	N_NN
+12	रहा_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	देवदार_	N_NN
+2	से_	PSP
+3	घिरे_	V_VM
+4	रास्तों_	N_NN
+5	से_	PSP
+6	सजा_	V_VM
+7	नगर_	N_NNP
+8	एकांतप्रेमी_	JJ
+9	कलाकारों_	N_NN
+10	को_	PSP
+11	ज्यादा_	QT_QTF
+12	लुभाता_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	में_	PSP
+3	रायसन_	N_NNP
+4	से_	PSP
+5	लेकर_	PSP
+6	डोभी_	N_NNP
+7	तक_	PSP
+8	के_	PSP
+9	नदी_	N_NN
+10	से_	PSP
+11	लगे_	V_VM
+12	खुले_	JJ
+13	रेस्तराँ_	N_NN
+14	हैं_	V_VM
+15	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	घाटी_	N_NN
+3	के_	PSP
+4	सबसे_	RP_INTF
+5	खुबसूरत_	JJ
+6	स्थान_	N_NN
+7	के_	PSP
+8	रूप_	PSP
+9	में_	PSP
+10	मनाली_	N_NNP
+11	विश्वप्रसिद्ध_	JJ
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	एक_	QT_QTC
+2	जमाना_	N_NN
+3	NULL_	PR_PRP
+4	था_	V_VM
+5	जब_	PR_PRL
+6	मनाली_	N_NNP
+7	में_	PSP
+8	गिनेचुने_	JJ
+9	घुमक्कड़_	N_NN
+10	ही_	RP_RPD
+11	पहुँचते_	V_VM
+12	थे_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	जवाहरलाल_	N_NNP
+2	नेहरू_	N_NNP
+3	ने_	PSP
+4	जब_	PR_PRL
+5	मनाली_	N_NNP
+6	को_	PSP
+7	स्विट्जरलैंड_	N_NNP
+8	से_	PSP
+9	ज्यादा_	QT_QTF
+10	सुंदर_	JJ
+11	और_	CC_CCD
+12	रोमांचक_	JJ
+13	घाटी_	N_NN
+14	कहा_	V_VM
+15	तो_	PR_PRP
+16	यहाँ_	PR_PRP
+17	दुनिया_	N_NN
+18	भर_	RP_RPD
+19	से_	PSP
+20	सैलानी_	N_NN
+21	आने_	V_VM
+22	लगे_	V_VAUX
+23	और_	CC_CCD
+24	यहाँ_	PR_PRP
+25	होटलों_	N_NN
+26	की_	PSP
+27	नगरी_	N_NN
+28	ही_	RP_RPD
+29	बस_	V_VM
+30	गई_	V_VAUX
+31	।_	RD_PUNC
+
+
+1	कुल्लू_	N_NNP
+2	घाटी_	N_NN
+3	में_	PSP
+4	अप्रैल_	N_NNP
+5	से_	PSP
+6	लेकर_	PSP
+7	जून_	N_NNP
+8	तक_	PSP
+9	तो_	RP_RPD
+10	बेहद_	RP_INTF
+11	प्यारा_	JJ
+12	मौसम_	N_NN
+13	रहता_	V_VM
+14	है_	V_VAUX
+15	,_	RD_PUNC
+16	मगर_	CC_CCS
+17	आज_	N_NN
+18	हर_	RP_RPD
+19	मौसम_	N_NN
+20	में_	PSP
+21	लोगों_	N_NN
+22	को_	PSP
+23	यहाँ_	PR_PRP
+24	छुट्टियाँ_	N_NN
+25	बिताते_	V_VM
+26	देखा_	V_VM
+27	जाता_	V_VAUX
+28	है_	V_VAUX
+29	।_	RD_PUNC
+
+
+1	माल_	N_NNP
+2	रोड_	N_NN
+3	से_	PSP
+4	लेकर_	PSP
+5	रोहतांग_	N_NNP
+6	की_	PSP
+7	चोटी_	N_NN
+8	तक_	PSP
+9	मनाली_	N_NNP
+10	समुद्रतल_	N_NN
+11	से_	PSP
+12	2,050_	QT_QTC
+13	मीटर_	N_NN
+14	से_	PSP
+15	लेकर_	PSP
+16	3,978_	QT_QTC
+17	मीटर_	N_NN
+18	तक_	PSP
+19	की_	PSP
+20	ऊँचाई_	N_NN
+21	में_	PSP
+22	फैला_	V_VM
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	व्यास_	N_NNP
+2	नदी_	N_NN
+3	के_	PSP
+4	निकट_	N_NST
+5	ही_	RP_RPD
+6	मनाली_	N_NNP
+7	नगर_	N_NN
+8	बसा_	V_VM
+9	है_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	बस_	N_NN
+2	अड्डे_	N_NN
+3	के_	PSP
+4	पास_	N_NST
+5	ही_	RP_RPD
+6	माल_	N_NN
+7	,_	RD_PUNC
+8	बाजार_	N_NN
+9	,_	RD_PUNC
+10	अधिकांश_	QT_QTF
+11	होटल_	N_NN
+12	और_	CC_CCD
+13	रेस्तराँ_	N_NN
+14	हैं_	V_VM
+15	।_	RD_PUNC
+
+
+1	रामबाग_	N_NNP
+2	यानी_	RP_RPD
+3	नेहरू_	N_NNP
+4	पार्क_	N_NN
+5	,_	RD_PUNC
+6	बौद्ध_	JJ
+7	गोंपा_	N_NN
+8	और_	CC_CCD
+9	वनविहार_	N_NN
+10	पास_	N_NST
+11	ही_	RP_RPD
+12	हैं_	V_VM
+13	।_	RD_PUNC
+
+
+1	माल_	N_NNP
+2	रोड_	N_NN
+3	मनाली_	N_NNP
+4	का_	PSP
+5	सबसे_	RP_INTF
+6	व्यस्त_	JJ
+7	व_	CC_CCD
+8	भीड़_	N_NN
+9	भरा_	V_VM
+10	इलाका_	N_NN
+11	है_	V_VM
+12	,_	RD_PUNC
+13	जिसमें_	PR_PRL
+14	आप_	PR_PRP
+15	पैदल_	RB
+16	भी_	RP_RPD
+17	1_	QT_QTC
+18	घंटे_	N_NN
+19	के_	PSP
+20	भीतर_	N_NST
+21	आराम_	N_NN
+22	से_	PSP
+23	घूम_	V_VM
+24	सकते_	V_VAUX
+25	हैं_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	नेहरू_	N_NNP
+2	पार्क_	N_NN
+3	या_	CC_CCD
+4	वनविहार_	N_NN
+5	में_	PSP
+6	घंटा_	N_NN
+7	भर_	RP_RPD
+8	भ्रमण_	N_NN
+9	व_	CC_CCD
+10	विश्राम_	N_NN
+11	अलग_	RB
+12	से_	PSP
+13	किया_	V_VM
+14	जा_	V_VAUX
+15	सकता_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	खरीदारी_	N_NN
+2	की_	PSP
+3	बेहतर_	JJ
+4	जगह_	N_NN
+5	माल_	N_NNP
+6	रोड_	N_NN
+7	ही_	RP_RPD
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	मनाली_	N_NNP
+2	के_	PSP
+3	ज्यादातर_	JJ
+4	दर्शनीय_	JJ
+5	स्थल_	N_NN
+6	ऊपरी_	JJ
+7	मनाली_	N_NNP
+8	में_	PSP
+9	हैं_	V_VM
+10	,_	RD_PUNC
+11	जिन्हें_	PR_PRL
+12	आप_	PR_PRP
+13	तिपहिया_	N_NN
+14	या_	CC_CCD
+15	टैक्सी_	N_NN
+16	से_	PSP
+17	जाकर_	V_VM
+18	देख_	V_VM
+19	सकते_	V_VAUX
+20	हैं_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	हिडिंबा_	N_NNP
+2	मंदिर_	N_NN
+3	,_	RD_PUNC
+4	लाग_	N_NN
+5	हट्स_	N_NN
+6	,_	RD_PUNC
+7	पुरानी_	JJ
+8	मनाली_	N_NNP
+9	और_	CC_CCD
+10	वहीं_	PR_PRP
+11	मनालसू_	N_NNP
+12	नदी_	N_NN
+13	के_	PSP
+14	किनारे_	N_NN
+15	क्लब_	N_NN
+16	हाउस_	N_NN
+17	क्षेत्र_	N_NN
+18	देखने_	V_VM
+19	व_	CC_CCD
+20	ठहरने_	V_VM
+21	योग्य_	JJ
+22	हैं_	V_VM
+23	।_	RD_PUNC
+
+
+1	व्यास_	N_NNP
+2	नदी_	N_NN
+3	के_	PSP
+4	पार_	N_NN
+5	पर्वतारोहण_	N_NN
+6	संस्थान_	N_NN
+7	,_	RD_PUNC
+8	जगतसुख_	N_NNP
+9	और_	CC_CCD
+10	नगर_	N_NN
+11	के_	PSP
+12	क्षेत्र_	N_NN
+13	घूमने_	V_VM
+14	योग्य_	PSP
+15	हैं_	V_VM
+16	।_	RD_PUNC
+
+
+1	व्यास_	N_NNP
+2	की_	PSP
+3	स्त्रोतदिशा_	N_NN
+4	में_	PSP
+5	मनाली_	N_NNP
+6	के_	PSP
+7	वास्तविक_	JJ
+8	सुंदर_	JJ
+9	इलाके_	N_NN
+10	हैं_	V_VM
+11	।_	RD_PUNC
+
+
+1	वशिष्ठ_	N_NNP
+2	गाँव_	N_NN
+3	में_	PSP
+4	गरम_	JJ
+5	पानी_	N_NN
+6	के_	PSP
+7	चश्मों_	N_NN
+8	में_	PSP
+9	नहाने_	V_VM
+10	के_	PSP
+11	बाद_	N_NST
+12	आप_	PR_PRP
+13	व्यास_	N_NNP
+14	नदी_	N_NN
+15	के_	PSP
+16	साथसाथ_	N_NST
+17	चलते_	V_VM
+18	हुए_	V_VAUX
+19	सोलंग_	N_NNP
+20	नाला_	N_NN
+21	पहुँचेंगे_	V_VM
+22	।_	RD_PUNC
+
+
+1	सोलंग_	N_NNP
+2	नाले_	N_NN
+3	में_	PSP
+4	हैंड_	N_NN
+5	ग्लाइडिंग_	N_NN
+6	जैसे_	PSP
+7	कई_	QT_QTF
+8	रोमांचक_	JJ
+9	खेल_	N_NN
+10	आयोजित_	JJ
+11	किए_	V_VM
+12	जाते_	V_VAUX
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	कोठी_	N_NNP
+2	,_	RD_PUNC
+3	गुलाबा_	N_NNP
+4	और_	CC_CCD
+5	मढ़ी_	N_NNP
+6	को_	PSP
+7	देखते_	V_VM
+8	हुए_	V_VAUX
+9	आप_	PR_PRP
+10	मनाली_	N_NNP
+11	से_	PSP
+12	50_	QT_QTC
+13	किलोमीटर_	N_NN
+14	दूर_	N_NST
+15	रोहतांग_	N_NNP
+16	पर्वत_	N_NN
+17	शिखर_	N_NN
+18	पर_	PSP
+19	जा_	V_VM
+20	पहुँचेंगे_	V_VAUX
+21	,_	RD_PUNC
+22	जो_	PR_PRL
+23	गर्मियों_	N_NN
+24	में_	PSP
+25	भी_	RP_RPD
+26	बर्फ़_	N_NN
+27	से_	PSP
+28	ढका_	V_VM
+29	रहता_	V_VAUX
+30	है_	V_VAUX
+31	।_	RD_PUNC
+
+
+1	गर्मियों_	N_NN
+2	में_	PSP
+3	यहाँ_	PR_PRP
+4	के_	PSP
+5	तंग_	JJ
+6	और_	CC_CCD
+7	खतरनाक_	JJ
+8	रास्तों_	N_NN
+9	पर_	PSP
+10	बेहद_	QT_QTF
+11	ट्रैफिक_	N_NN
+12	होता_	V_VM
+13	है_	V_VAUX
+14	और_	CC_CCD
+15	बहुत_	QT_QTF
+16	से_	RP_RPD
+17	सैलानियों_	N_NN
+18	को_	PSP
+19	बीच_	N_NST
+20	रास्ते_	N_NN
+21	से_	PSP
+22	लौटना_	V_VM
+23	पड़ता_	V_VAUX
+24	है_	V_VAUX
+25	।_	RD_PUNC
+
+
+1	जो_	DM_DMR
+2	लोग_	N_NN
+3	सुबह_	N_NN
+4	जल्दी_	RB
+5	वहाँ_	PR_PRP
+6	पहुँचते_	V_VM
+7	हैं_	V_VAUX
+8	,_	RD_PUNC
+9	उन्हें_	PR_PRP
+10	समय_	N_NN
+11	पर_	PSP
+12	लौटने_	V_VM
+13	में_	PSP
+14	कम_	QT_QTF
+15	कठिनाई_	N_NN
+16	होती_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	जुलाई_	N_NNP
+2	से_	PSP
+3	सितंबर_	N_NNP
+4	तक_	PSP
+5	रोहतांग_	N_NNP
+6	यात्रा_	N_NN
+7	आसान_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	रोहतांग_	N_NNP
+2	दिशा_	N_NN
+3	और_	CC_CCD
+4	रोहतांग_	N_NNP
+5	क्षेत्र_	N_NN
+6	हिमालय_	N_NNP
+7	के_	PSP
+8	वास्तविक_	JJ
+9	प्रेमियों_	N_NN
+10	की_	PSP
+11	जन्नत_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	घुमक्कड़ों_	N_NN
+2	को_	PSP
+3	रोहतांग_	N_NNP
+4	क्षेत्र_	N_NN
+5	में_	PSP
+6	अनोखा_	JJ
+7	सुकून_	N_NN
+8	हासिल_	JJ
+9	होता_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	रोहतांग_	N_NNP
+2	के_	PSP
+3	पास_	N_NST
+4	के_	PSP
+5	संसार_	N_NN
+6	की_	PSP
+7	तो_	RP_RPD
+8	बात_	N_NN
+9	ही_	RP_RPD
+10	क्या_	PR_PRQ
+11	है_	V_VM
+12	जो_	PR_PRL
+13	लाहुल_	N_NNP
+14	के_	PSP
+15	रास्ते_	N_NN
+16	लद्दाख_	N_NNP
+17	तक_	PSP
+18	फैला_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	किन्नौर_	N_NNP
+2	का_	PSP
+3	इलाका_	N_NN
+4	घाटियों_	N_NN
+5	से_	PSP
+6	भरा_	V_VM
+7	है_	V_VAUX
+8	।_	RD_PUNC
+
+
+1	घने_	JJ
+2	और_	CC_CCD
+3	ऊँचे_	JJ
+4	पर्वतों_	N_NN
+5	के_	PSP
+6	बीच_	N_NST
+7	स्थित_	JJ
+8	सांगला_	N_NNP
+9	घाटी_	N_NN
+10	,_	RD_PUNC
+11	भावा_	N_NNP
+12	घाटी_	N_NN
+13	,_	RD_PUNC
+14	कल्पा_	N_NNP
+15	घाटी_	N_NN
+16	,_	RD_PUNC
+17	मूरंग_	N_NNP
+18	घाटी_	N_NN
+19	और_	CC_CCD
+20	कुन्नूचारंग_	N_NNP
+21	घाटी_	N_NN
+22	पर्यटकों_	N_NN
+23	को_	PSP
+24	लुभाती_	V_VM
+25	है_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	किन्नौर_	N_NNP
+2	भीड़भाड़_	N_NN
+3	से_	PSP
+4	अलग_	JJ
+5	शांतिप्रिय_	JJ
+6	लोगों_	N_NN
+7	की_	PSP
+8	घाटी_	N_NN
+9	है_	V_VM
+10	,_	RD_PUNC
+11	जहाँ_	PR_PRL
+12	आज_	N_NN
+13	भी_	RP_RPD
+14	लोग_	N_NN
+15	घरों_	N_NN
+16	पर_	PSP
+17	ताला_	N_NN
+18	नहीं_	RP_NEG
+19	लगाते_	V_VM
+20	।_	RD_PUNC
+
+
+1	किसी_	DM_DMI
+2	युग_	N_NN
+3	में_	PSP
+4	यहाँ_	PR_PRP
+5	के_	PSP
+6	लोग_	N_NN
+7	किन्नर_	N_NNP
+8	कहलाते_	V_VM
+9	थे_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	किन्नर_	N_NNP
+2	अनेक_	QT_QTF
+3	कलाएँ_	N_NN
+4	जानते_	V_VM
+5	थे_	V_VAUX
+6	।_	RD_PUNC
+
+
+1	बाद_	N_NST
+2	में_	PSP
+3	जातिवाद_	N_NN
+4	ने_	PSP
+5	यहाँ_	PR_PRP
+6	2_	QT_QTC
+7	वर्ग_	N_NN
+8	बना_	V_VM
+9	दिए_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	रूमी_	JJ
+2	दरवाजे_	N_NN
+3	को_	PSP
+4	तुर्किश_	JJ
+5	गेटवे_	N_NN
+6	के_	PSP
+7	नाम_	N_NN
+8	से_	PSP
+9	भी_	RP_RPD
+10	जाना_	V_VM
+11	जाता_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	विशाल_	JJ
+2	रूमी_	JJ
+3	दरवाजे_	N_NN
+4	की_	PSP
+5	ऊँचाई_	N_NN
+6	60_	QT_QTC
+7	फुट_	N_NN
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	रूमी_	JJ
+2	दरवाजे_	N_NN
+3	के_	PSP
+4	निर्माण_	N_NN
+5	में_	PSP
+6	कहीं_	PR_PRP
+7	भी_	RP_RPD
+8	लकड़ी_	N_NN
+9	या_	CC_CCD
+10	लोहे_	N_NN
+11	का_	PSP
+12	इस्तेमाल_	N_NN
+13	नहीं_	RP_NEG
+14	किया_	V_VM
+15	गया_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	रूमी_	JJ
+2	दरवाजे_	N_NN
+3	से_	PSP
+4	कुछ_	QT_QTF
+5	कदमों_	N_NN
+6	की_	PSP
+7	दूरी_	N_NN
+8	पर_	PSP
+9	घड़ी_	N_NN
+10	मीनार_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	घड़ी_	N_NN
+2	मीनार_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	अंगरेजों_	N_NN
+6	ने_	PSP
+7	1881_	N_NNP
+8	में_	PSP
+9	करवाया_	V_VM
+10	था_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	67_	QT_QTC
+2	मीटर_	N_NN
+3	ऊँची_	JJ
+4	घड़ी_	N_NN
+5	मीनार_	N_NN
+6	पर_	PSP
+7	यूरोपियन_	JJ
+8	स्टाइल_	N_NN
+9	में_	PSP
+10	की_	V_VM
+11	गई_	V_VAUX
+12	नक्काशी_	N_NN
+13	इसे_	PR_PRP
+14	कुछ_	QT_QTF
+15	अलग_	JJ
+16	आकर्षण_	N_NN
+17	देती_	V_VM
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	घड़ी_	N_NN
+2	मीनार_	N_NN
+3	में_	PSP
+4	लगी_	V_VM
+5	घड़ी_	N_NN
+6	के_	PSP
+7	डायल_	N_NN
+8	12_	QT_QTC
+9	पंखुड़ियों_	N_NN
+10	वाले_	PSP
+11	फूल_	N_NN
+12	की_	PSP
+13	तरह_	PSP
+14	नजर_	N_NN
+15	आते_	V_VM
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	पेंडुलम_	N_NN
+2	लगभग_	RP_RPD
+3	14_	QT_QTC
+4	फुट_	N_NN
+5	लंबा_	JJ
+6	है_	V_VM
+7	।_	RD_PUNC
+
+
+1	घड़ी_	N_NN
+2	मीनार_	N_NN
+3	से_	PSP
+4	कुछ_	QT_QTF
+5	दूर_	N_NST
+6	आगे_	N_NST
+7	चल_	V_VM
+8	कर_	V_VAUX
+9	पिक्चर_	N_NN
+10	गैलरी_	N_NN
+11	है_	V_VM
+12	जिसमें_	PR_PRL
+13	अवध_	N_NNP
+14	के_	PSP
+15	नवाबों_	N_NN
+16	के_	PSP
+17	तैलचित्र_	N_NN
+18	लगे_	V_VM
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	अवध_	N_NNP
+2	के_	PSP
+3	नवाबों_	N_NN
+4	के_	PSP
+5	तैलचित्रों_	N_NN
+6	से_	PSP
+7	नवाबी_	JJ
+8	संस्कृति_	N_NN
+9	का_	PSP
+10	पता_	N_NN
+11	चलता_	V_VM
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	भवन_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	भी_	RP_RPD
+6	नवाब_	N_NN
+7	आसिफुद्दौला_	N_NNP
+8	ने_	PSP
+9	करवाया_	V_VM
+10	था_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	इमारत_	N_NN
+3	को_	PSP
+4	बनाने_	V_VM
+5	की_	PSP
+6	शुरुआत_	N_NN
+7	1780_	N_NNP
+8	में_	PSP
+9	हुई_	V_VM
+10	थी_	V_VAUX
+11	और_	CC_CCD
+12	1800_	QT_QT_QTC
+13	में_	PSP
+14	बनकर_	V_VM
+15	तैयार_	JJ
+16	हुई_	V_VM
+17	।_	RD_PUNC
+
+
+1	1857_	N_NNP
+2	में_	PSP
+3	आजादी_	N_NN
+4	की_	PSP
+5	लड़ाई_	N_NN
+6	के_	PSP
+7	बाद_	N_NST
+8	अंग्रेजों_	N_NN
+9	ने_	PSP
+10	इस_	PR_PRP
+11	पर_	PSP
+12	कब्जा_	N_NN
+13	कर_	V_VM
+14	लिया_	V_VAUX
+15	और_	CC_CCD
+16	इस_	PR_PRP
+17	में_	PSP
+18	अपना_	PR_PRF
+19	निवास_	N_NN
+20	बनाया_	V_VM
+21	तो_	PR_PRP
+22	इस_	PR_PRP
+23	का_	PSP
+24	नाम_	N_NN
+25	रेजीडेंसी_	N_NN
+26	पड़_	V_VM
+27	गया_	V_VAUX
+28	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	इमारत_	N_NN
+3	की_	PSP
+4	दीवारें_	N_NN
+5	आजादी_	N_NN
+6	की_	PSP
+7	लड़ाई_	N_NN
+8	की_	PSP
+9	गवाह_	N_NN
+10	हैं_	V_VM
+11	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	इमारत_	N_NN
+3	में_	PSP
+4	एक_	QT_QTC
+5	कब्रगाह_	N_NN
+6	है_	V_VM
+7	जिसमें_	PR_PRL
+8	गदर_	N_NN
+9	के_	PSP
+10	दौरान_	N_NST
+11	मारे_	V_VM
+12	गए_	V_VAUX
+13	लोगों_	N_NN
+14	को_	PSP
+15	दफनाया_	V_VM
+16	गया_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	सुबह_	N_NN
+2	9_	QT_QTC
+3	से_	PSP
+4	शाम_	N_NN
+5	साढ़े_	QT_QTC
+6	5_	QT_QTC
+7	बजे_	N_NN
+8	तक_	PSP
+9	यह_	PR_PRP
+10	पर्यटकों_	N_NN
+11	के_	PSP
+12	लिए_	PSP
+13	खुला_	V_VM
+14	रहता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	इमारत_	N_NN
+3	में_	PSP
+4	बना_	V_VM
+5	खूबसूरत_	JJ
+6	लॉन_	N_NN
+7	इस_	PR_PRP
+8	की_	PSP
+9	खूबसूरती_	N_NN
+10	को_	PSP
+11	और_	RB
+12	बढ़ा_	V_VM
+13	देता_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	शहीद_	N_NN
+2	स्मारक_	N_NN
+3	1857_	N_NNP
+4	में_	PSP
+5	शहीद_	JJ
+6	हुए_	V_VM
+7	वीरों_	N_NN
+8	की_	PSP
+9	याद_	N_NN
+10	में_	PSP
+11	गोमती_	N_NNP
+12	नदी_	N_NN
+13	के_	PSP
+14	किनारे_	N_NN
+15	बनाया_	V_VM
+16	गया_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	रेजीडेंसी_	N_NN
+2	इमारत_	N_NN
+3	में_	PSP
+4	नौका_	N_NN
+5	विहार_	N_NN
+6	का_	PSP
+7	भी_	RP_RPD
+8	मजा_	N_NN
+9	लिया_	V_VM
+10	जा_	V_VAUX
+11	सकता_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	जामा_	N_NN
+2	मस्जिद_	N_NN
+3	4950_	QT_QTC
+4	वर्ग_	N_NN
+5	मीटर_	N_NN
+6	के_	PSP
+7	विशाल_	JJ
+8	विस्तार_	N_NN
+9	में_	PSP
+10	फैली_	V_VM
+11	है_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	जामा_	N_NN
+2	मस्जिद_	N_NN
+3	के_	PSP
+4	15_	QT_QTC
+5	धनुषाकार_	JJ
+6	गुंबद_	N_NN
+7	आने_	V_VM
+8	वाले_	PSP
+9	सैलानियों_	N_NN
+10	को_	PSP
+11	हैरान_	JJ
+12	कर_	V_VM
+13	देते_	V_VAUX
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	जामा_	N_NN
+2	मस्जिद_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	अहमदशाह_	N_NNP
+6	के_	PSP
+7	शासनकाल_	N_NN
+8	के_	PSP
+9	दौरान_	N_NST
+10	शुरू_	N_NN
+11	हुआ_	V_VM
+12	और_	CC_CCD
+13	उसकी_	PR_PRP
+14	बेगम_	N_NN
+15	ने_	PSP
+16	पूरा_	JJ
+17	कराया_	V_VM
+18	।_	RD_PUNC
+
+
+1	जामा_	N_NN
+2	मस्जिद_	N_NN
+3	इमारत_	N_NN
+4	में_	PSP
+5	260_	QT_QTC
+6	खंभे_	N_NN
+7	हैं_	V_VM
+8	।_	RD_PUNC
+
+
+1	ऐतिहासिक_	JJ
+2	शहर_	N_NN
+3	इलाहाबाद_	N_NNP
+4	को_	PSP
+5	शिक्षा_	N_NN
+6	और_	CC_CCD
+7	साहित्य_	N_NN
+8	की_	PSP
+9	राजधानी_	N_NN
+10	कहें_	V_VM
+11	तो_	CC_CCS
+12	यह_	PR_PRP
+13	अतिशयोक्ति_	N_NN
+14	न_	RP_NEG
+15	होगी_	V_VM
+16	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	शहर_	N_NN
+3	से_	PSP
+4	नेहरू_	N_NNP
+5	खानदान_	N_NN
+6	का_	PSP
+7	नाम_	N_NN
+8	जुड़ा_	V_VM
+9	है_	V_VAUX
+10	जिसने_	PR_PRL
+11	देश_	N_NN
+12	को_	PSP
+13	3_	QT_QTC
+14	प्रधानमंत्री_	N_NN
+15	दिए_	V_VM
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	शहर_	N_NN
+3	का_	PSP
+4	मशहूर_	JJ
+5	चीनी_	JJ
+6	यात्री_	N_NN
+7	ह्वेनसांग_	N_NNP
+8	ने_	PSP
+9	अपने_	PR_PRP
+10	यात्रा_	N_NN
+11	वृतांत_	N_NN
+12	में_	PSP
+13	जिक्र_	N_NN
+14	किया_	V_VM
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	को_	PSP
+3	पहले_	N_NST
+4	प्रयाग_	N_NNP
+5	नाम_	N_NN
+6	से_	PSP
+7	जाना_	V_VM
+8	जाता_	V_VAUX
+9	था_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	समूचे_	JJ
+2	उत्तर_	N_NNP
+3	प्रदेश_	N_NN
+4	से_	PSP
+5	ही_	RP_RPD
+6	नहीं_	RP_NEG
+7	NULL_	V_VM
+8	बल्कि_	CC_CCD
+9	देशभर_	N_NN
+10	से_	PSP
+11	छात्र_	N_NN
+12	पढ़ने_	V_VM
+13	के_	PSP
+14	लिए_	PSP
+15	यहाँ_	PR_PRP
+16	आते_	V_VM
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	में_	PSP
+3	इलाहाबाद_	N_NNP
+4	विश्वविध्यालय_	N_NN
+5	के_	PSP
+6	अलावा_	PSP
+7	मोतीलाल_	N_NNP
+8	नेहरू_	N_NNP
+9	रीजनल_	JJ
+10	इंजीनियरिंग_	N_NN
+11	कालिज_	N_NN
+12	,_	RD_PUNC
+13	इंडियन_	JJ
+14	इंस्टीट्यूट_	N_NN
+15	आफ_	PSP
+16	रूरल_	JJ
+17	टैक्नोलॉजी_	N_NN
+18	और_	CC_CCD
+19	राजर्षि_	N_NN
+20	पुरुषोत्तमदास_	N_NNP
+21	टंडन_	N_NNP
+22	मुक्त_	JJ
+23	विश्वविध्यालय_	N_NN
+24	शिक्षा_	N_NN
+25	के_	PSP
+26	बड़े_	JJ
+27	संस्थान_	N_NN
+28	हैं_	V_VM
+29	।_	RD_PUNC
+
+
+1	शाह_	N_NNP
+2	आलम_	N_NNP
+3	और_	CC_CCD
+4	क्लाइव_	N_NNP
+5	लायड_	N_NNP
+6	के_	PSP
+7	बीच_	N_NST
+8	हुई_	V_VM
+9	ऐतिहासिक_	JJ
+10	संधि_	N_NN
+11	के_	PSP
+12	लिए_	PSP
+13	भी_	RP_RPD
+14	यह_	DM_DMD
+15	शहर_	N_NN
+16	जाना_	V_VM
+17	जाता_	V_VAUX
+18	है_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	संगम_	N_NN
+2	इलाहाबाद_	N_NNP
+3	के_	PSP
+4	आकर्षण_	N_NN
+5	का_	PSP
+6	एक_	QT_QTC
+7	प्रमुख_	JJ
+8	केन्द्र_	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	किले_	N_NN
+3	का_	PSP
+4	निर्माण_	N_NN
+5	अकबर_	N_NNP
+6	ने_	PSP
+7	1583_	N_NNP
+8	में_	PSP
+9	यमुना_	N_NNP
+10	के_	PSP
+11	तट_	N_NN
+12	पर_	PSP
+13	करवाया_	V_VM
+14	था_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	के_	PSP
+3	किले_	N_NN
+4	की_	PSP
+5	खासियत_	N_NN
+6	इस_	PR_PRP
+7	की_	PSP
+8	संरचना_	N_NN
+9	और_	CC_CCD
+10	शिल्पकारी_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NN
+2	के_	PSP
+3	विशाल_	JJ
+4	और_	CC_CCD
+5	भव्य_	JJ
+6	किले_	N_NN
+7	में_	PSP
+8	3_	QT_QTC
+9	गैलरियाँ_	N_NN
+10	हैं_	V_VM
+11	जो_	PR_PRL
+12	ऊँची_	JJ
+13	मीनारों_	N_NN
+14	के_	PSP
+15	सहारे_	PSP
+16	टिकी_	V_VM
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	पर_	PSP
+3	सरस्वती_	N_NNP
+4	कूप_	N_NN
+5	,_	RD_PUNC
+6	अशोक_	N_NNP
+7	स्तंभ_	N_NN
+8	और_	CC_CCD
+9	जोधाबाई_	N_NNP
+10	का_	PSP
+11	रंगमहल_	N_NN
+12	भी_	RP_RPD
+13	देखा_	V_VM
+14	जा_	V_VAUX
+15	सकता_	V_VAUX
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	किले_	N_NN
+2	के_	PSP
+3	सामने_	N_NST
+4	जो_	DM_DMR
+5	अशोक_	N_NNP
+6	स्तंभ_	N_NN
+7	बना_	V_VM
+8	है_	V_VAUX
+9	उस_	PR_PRP
+10	के_	PSP
+11	बारे_	PSP
+12	में_	PSP
+13	कहा_	V_VM
+14	जाता_	V_VAUX
+15	है_	V_VAUX
+16	कि_	CC_CCS
+17	लार्ड_	N_NN
+18	कर्जन_	N_NNP
+19	द्वारा_	PSP
+20	कहीं_	PR_PRP
+21	और_	N_NN
+22	से_	PSP
+23	लाकर_	V_VM
+24	इसको_	PR_PRP
+25	यहाँ_	PR_PRP
+26	पर_	PSP
+27	स्थापित_	JJ
+28	किया_	V_VM
+29	गया_	V_VAUX
+30	था_	V_VAUX
+31	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	रेलवे_	N_NN
+3	स्टेशन_	N_NN
+4	से_	PSP
+5	कुछ_	QT_QTF
+6	कदमों_	N_NN
+7	की_	PSP
+8	दूरी_	N_NN
+9	पर_	PSP
+10	खुसरो_	N_NNP
+11	बाग_	N_NN
+12	स्थित_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	खुसरो_	N_NNP
+2	बाग_	N_NN
+3	को_	PSP
+4	जहाँगीर_	N_NNP
+5	के_	PSP
+6	पुत्र_	N_NN
+7	अमीर_	N_NNP
+8	खुसरो_	N_NNP
+9	ने_	PSP
+10	बनवाया_	V_VM
+11	था_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	लकड़ी_	N_NN
+2	के_	PSP
+3	विशाल_	JJ
+4	दरवाजों_	N_NN
+5	वाला_	PSP
+6	खुसरो_	N_NNP
+7	बाग_	N_NN
+8	पत्थरों_	N_NN
+9	की_	PSP
+10	दीवारों_	N_NN
+11	से_	PSP
+12	घिरा_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	खुसरो_	N_NNP
+2	बाग_	N_NN
+3	मुगलकालीन_	JJ
+4	कला_	N_NN
+5	का_	PSP
+6	एक_	QT_QTC
+7	जीवंत_	JJ
+8	उदाहरण_	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	खुसरो_	N_NNP
+2	बाग_	N_NN
+3	में_	PSP
+4	अमीर_	N_NNP
+5	खुसरो_	N_NNP
+6	व_	CC_CCD
+7	उसकी_	PR_PRP
+8	बहन_	N_NN
+9	सुलतानुन्निसा_	N_NNP
+10	की_	PSP
+11	कब्रों_	N_NN
+12	पर_	PSP
+13	बना_	V_VM
+14	एक_	QT_QTC
+15	मकबरा_	N_NN
+16	भी_	RP_RPD
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	संग्रहालय_	N_NN
+3	कमला_	N_NNP
+4	नेहरू_	N_NNP
+5	रोड_	N_NN
+6	पर_	PSP
+7	चंद्रशेखर_	N_NNP
+8	आजाद_	N_NNP
+9	पार्क_	N_NN
+10	के_	PSP
+11	पास_	N_NST
+12	स्थित_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	संग्रहालय_	N_NN
+3	कच्ची_	JJ
+4	मिट्टी_	N_NN
+5	की_	PSP
+6	अद्भुत_	JJ
+7	मूर्तियों_	N_NN
+8	और_	CC_CCD
+9	शिल्प_	N_NN
+10	के_	PSP
+11	विविध_	JJ
+12	नमूनों_	N_NN
+13	,_	RD_PUNC
+14	निकोलस_	N_NNP
+15	रोरिच_	N_NNP
+16	की_	PSP
+17	पेंटिंग्स_	N_NN
+18	,_	RD_PUNC
+19	NULL_	CC_CCD
+20	राजस्थानी_	JJ
+21	लघुचित्रों_	N_NN
+22	की_	PSP
+23	वजह_	PSP
+24	से_	PSP
+25	पर्यटकों_	N_NN
+26	के_	PSP
+27	आकर्षण_	N_NN
+28	का_	PSP
+29	केन्द्र_	N_NN
+30	है_	V_VM
+31	।_	RD_PUNC
+
+
+1	कौशांबी_	N_NNP
+2	की_	PSP
+3	खुदाई_	N_NN
+4	में_	PSP
+5	मिली_	V_VM
+6	ऐतिहासिक_	JJ
+7	वस्तुओं_	N_NN
+8	को_	PSP
+9	भी_	RP_RPD
+10	इलाहाबाद_	N_NNP
+11	संग्रहालय_	N_NN
+12	में_	PSP
+13	रखा_	V_VM
+14	गया_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	ऐतिहासिक_	JJ
+2	जानकारी_	N_NN
+3	हासिल_	JJ
+4	करने_	V_VM
+5	के_	PSP
+6	लिए_	PSP
+7	छात्र_	N_NN
+8	इलाहाबाद_	N_NNP
+9	संग्रहालय_	N_NN
+10	में_	PSP
+11	आते_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	संग्रहालय_	N_NN
+3	में_	PSP
+4	8_	QT_QTC
+5	गैलरियाँ_	N_NN
+6	हैं_	V_VM
+7	।_	RD_PUNC
+
+
+1	इलाहाबाद_	N_NNP
+2	संग्रहालय_	N_NN
+3	रविवार_	N_NNP
+4	को_	PSP
+5	छोड़कर_	V_VM
+6	हर_	QT_QTF
+7	दिन_	N_NN
+8	सुबह_	N_NN
+9	10_	QT_QTC
+10	से_	PSP
+11	शाम_	N_NN
+12	5_	QT_QTC
+13	बजे_	N_NN
+14	तक_	PSP
+15	खुला_	V_VM
+16	रहता_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	विज्ञान_	N_NN
+2	से_	PSP
+3	संबंधित_	JJ
+4	रहस्यमय_	JJ
+5	संसार_	N_NN
+6	को_	PSP
+7	जानने_	V_VM
+8	के_	PSP
+9	लिए_	PSP
+10	जवाहर_	N_NNP
+11	प्लेनीटोरियम_	N_NN
+12	एक_	QT_QTC
+13	उपयुक्त_	JJ
+14	स्थान_	N_NN
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	जवाहर_	N_NNP
+2	प्लेनीटोरियम_	N_NN
+3	में_	PSP
+4	आप_	PR_PRP
+5	ग्रहों_	N_NN
+6	और_	CC_CCD
+7	नक्षत्रों_	N_NN
+8	से_	PSP
+9	संबंधित_	JJ
+10	अद्भुत_	JJ
+11	खगोलीय_	JJ
+12	जानकारियों_	N_NN
+13	से_	PSP
+14	रूबरू_	RB
+15	होंगे_	V_VM
+16	।_	RD_PUNC
+
+
+1	3_	QT_QTC
+2	नदियों_	N_NN
+3	के_	PSP
+4	संगम_	N_NN
+5	तट_	N_NN
+6	पर_	PSP
+7	ज्यादातर_	QT_QTF
+8	लोग_	N_NN
+9	स्नान_	N_NN
+10	करने_	V_VM
+11	आते_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	नेशनल_	JJ
+3	पार्क_	N_NN
+4	में_	PSP
+5	दृश्यावलोकन_	N_NN
+6	के_	PSP
+7	लिए_	PSP
+8	चार_	QT_QTC
+9	ऊँचे_	JJ
+10	टॉवर_	N_NN
+11	बनाए_	V_VM
+12	गए_	V_VAUX
+13	हैं_	V_VAUX
+14	जिनकी_	PR_PRL
+15	ऊँचाई_	N_NN
+16	200_	QT_QTC
+17	फीट_	N_NN
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	पटना_	N_NNP
+2	-_	RD_SYM
+3	राँची_	N_NNP
+4	रोड_	N_NN
+5	पर_	PSP
+6	हजारीबाग_	N_NNP
+7	से_	PSP
+8	22_	QT_QTC
+9	कि.मी._	N_NN
+10	उत्तर_	N_NNP
+11	की_	PSP
+12	ओर_	N_NST
+13	घने_	JJ
+14	जंगल_	N_NN
+15	के_	PSP
+16	मध्य_	N_NST
+17	186.25_	QT_QTC
+18	वर्ग_	N_NN
+19	कि.मी._	N_NN
+20	में_	PSP
+21	इस_	DM_DMD
+22	पार्क_	N_NN
+23	को_	PSP
+24	रेखाकिंत_	JJ
+25	किया_	V_VM
+26	गया_	V_VAUX
+27	है_	V_VAUX
+28	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	पार्क_	N_NN
+3	की_	PSP
+4	सघनता_	N_NN
+5	पर्यटकों_	N_NN
+6	को_	PSP
+7	बरबस_	RB
+8	अपनी_	PR_PRF
+9	ओर_	N_NST
+10	आकर्षित_	JJ
+11	करती_	V_VM
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	-_	RD_SYM
+3	पटना_	N_NNP
+4	मार्ग_	N_NN
+5	में_	PSP
+6	सालपर्णी_	N_NNP
+7	स्थित_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	ऊँची_	JJ
+2	-_	RD_SYM
+3	ऊँची_	JJ
+4	घाटियों_	N_NN
+5	को_	PSP
+6	अपनी_	PR_PRF
+7	गोद_	N_NN
+8	में_	PSP
+9	संजोये_	V_VM
+10	सालपर्णी_	N_NNP
+11	का_	PSP
+12	वन_	N_NN
+13	हिल_	N_NN
+14	स्टेशन_	N_NN
+15	से_	PSP
+16	कम_	QT_QTF
+17	नहीं_	RP_NEG
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	एनएच_	N_NNP
+2	से_	PSP
+3	तीन_	QT_QTC
+4	कि.मी._	N_NN
+5	अंदर_	N_NST
+6	सालपर्ण_	N_NN
+7	विश्रामगार_	N_NN
+8	व_	CC_CCD
+9	वाच_	N_NN
+10	टावर_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	तालाब_	N_NN
+2	में_	PSP
+3	बोटिंग_	N_NN
+4	की_	PSP
+5	सुविधा_	N_NN
+6	भी_	RP_RPD
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	बड़कागाँव_	N_NNP
+2	प्रखंड_	N_NN
+3	मुख्यालय_	N_NN
+4	से_	PSP
+5	12_	QT_QTC
+6	कि.मी._	N_NN
+7	की_	PSP
+8	दूरी_	N_NN
+9	पर_	PSP
+10	बरसोपानी_	N_NNP
+11	की_	PSP
+12	गुफा_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	पर्यटक_	N_NN
+2	गुफा_	N_NN
+3	में_	PSP
+4	जाकर_	V_VM
+5	ताली_	N_NN
+6	बजायेंगे_	V_VM
+7	तो_	CC_CCS
+8	गुफा_	N_NN
+9	के_	PSP
+10	गुंबद_	N_NN
+11	से_	PSP
+12	पानी_	N_NN
+13	टपकने_	V_VM
+14	लगता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	जोर_	RB
+2	से_	PSP
+3	आवाज_	N_NN
+4	लगाने_	V_VM
+5	पर_	PSP
+6	भी_	RP_RPD
+7	यह_	DM_DMD
+8	नजारा_	N_NN
+9	देखा_	V_VM
+10	जा_	V_VAUX
+11	सकता_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	इस्को_	N_NNP
+2	गुफा_	N_NN
+3	बड़कागाँव_	N_NNP
+4	प्रखंड_	N_NN
+5	चौक_	N_NN
+6	से_	PSP
+7	22_	QT_QTC
+8	कि.मी._	N_NN
+9	की_	PSP
+10	दूरी_	N_NN
+11	पर_	PSP
+12	स्थित_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	शहर_	N_NN
+2	के_	PSP
+3	समीप_	N_NST
+4	ही_	RP_RPD
+5	अवस्थित_	JJ
+6	केनारीहिल_	N_NNP
+7	में_	PSP
+8	एक_	QT_QTC
+9	सुव्यवस्थित_	JJ
+10	पार्क_	N_NN
+11	और_	CC_CCD
+12	छोटे_	JJ
+13	-_	RD_SYM
+14	छोटे_	JJ
+15	तालाब_	N_NN
+16	हैं_	V_VM
+17	।_	RD_PUNC
+
+
+1	केनारीहिल_	N_NNP
+2	में_	PSP
+3	एक_	QT_QTC
+4	ऑबजरवेशन_	N_NN
+5	(_	RD_SYM
+6	अवलोकन_	N_NN
+7	)_	RD_SYM
+8	टावर_	N_NN
+9	भी_	RP_RPD
+10	है_	V_VM
+11	,_	RD_PUNC
+12	जहाँ_	PR_PRL
+13	से_	PSP
+14	पर्यटक_	N_NN
+15	शहर_	N_NN
+16	के_	PSP
+17	मनोहारी_	JJ
+18	दृश्य_	N_NN
+19	एवं_	CC_CCD
+20	वादियों_	N_NN
+21	का_	PSP
+22	अवलोकन_	N_NN
+23	कर_	V_VM
+24	सकते_	V_VAUX
+25	हैं_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	खूबसूरत_	JJ
+2	कोनार_	N_NNP
+3	डैम_	N_NN
+4	हजारीबाग_	N_NNP
+5	से_	PSP
+6	51_	QT_QTC
+7	कि.मी._	N_NN
+8	तथा_	CC_CCD
+9	विशुनगढ़_	N_NNP
+10	से_	PSP
+11	9_	QT_QTC
+12	कि.मी._	N_NN
+13	दूरी_	N_NN
+14	पर_	PSP
+15	स्थित_	JJ
+16	है_	V_VM
+17	।_	RD_PUNC
+
+
+1	दामोदर_	N_NNP
+2	घाटी_	N_NN
+3	निगम_	N_NN
+4	द्वारा_	PSP
+5	प्रथम_	QT_QTO
+6	चरण_	N_NN
+7	में_	PSP
+8	निर्मित_	JJ
+9	कोनार_	N_NNP
+10	डैम_	N_NN
+11	बहुउद्देशीय_	JJ
+12	डैम_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	कोनार_	N_NNP
+2	डैम_	N_NN
+3	कोनार_	N_NNP
+4	नदी_	N_NN
+5	पर_	PSP
+6	बनाया_	V_VM
+7	गया_	V_VAUX
+8	है_	V_VAUX
+9	जो_	PR_PRL
+10	885_	QT_QTC
+11	मीटर_	N_NN
+12	लंबा_	JJ
+13	और_	CC_CCD
+14	48_	QT_QTC
+15	मीटर_	N_NN
+16	ऊँचा_	JJ
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	कोनार_	N_NNP
+2	डैम_	N_NN
+3	-_	RD_PUNC
+
+
+1	1955_	N_NNP
+2	में_	PSP
+3	बनकर_	V_VM
+4	यह_	PR_PRP
+5	तैयार_	JJ
+6	हुआ_	V_VM
+7	था_	V_VAUX
+8	।_	RD_PUNC
+
+
+1	कोनार_	N_NNP
+2	डैम_	N_NN
+3	के_	PSP
+4	जलाशय_	N_NN
+5	से_	PSP
+6	40_	QT_QTC
+7	हजार_	QT_QTC
+8	हेक्टेयर_	N_NN
+9	क्षेत्र_	N_NN
+10	की_	PSP
+11	सिंचाई_	N_NN
+12	की_	V_VM
+13	जाती_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	कोनार_	N_NNP
+2	डैम_	N_NN
+3	से_	PSP
+4	4_	QT_QTC
+5	मेगावाट_	N_NN
+6	विद्युत_	N_NN
+7	का_	PSP
+8	उत्पादन_	N_NN
+9	होता_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	कोनार_	N_NNP
+2	डैम_	N_NN
+3	के_	PSP
+4	पास_	N_NST
+5	अय्यर_	N_NNP
+6	बाँध_	N_NN
+7	भी_	RP_RPD
+8	है_	V_VM
+9	जहाँ_	PR_PRL
+10	से_	PSP
+11	2.25_	QT_QTC
+12	मेगावाट_	N_NN
+13	बिजली_	N_NN
+14	का_	PSP
+15	उत्पादन_	N_NN
+16	होता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	बनासो_	N_NNP
+2	भी_	RP_RPD
+3	इस_	DM_DMD
+4	जिले_	N_NN
+5	के_	PSP
+6	तथा_	CC_CCD
+7	आसपास_	N_NST
+8	के_	PSP
+9	क्षेत्रों_	N_NN
+10	का_	PSP
+11	प्रसिद्ध_	JJ
+12	तीर्थस्थल_	N_NN
+13	माना_	V_VM
+14	जाता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	बनासो_	N_NNP
+2	में_	PSP
+3	माँ_	N_NN
+4	भगवती_	N_NNP
+5	का_	PSP
+6	मंदिर_	N_NN
+7	है_	V_VM
+8	,_	RD_PUNC
+9	जिसे_	PR_PRL
+10	महामाया_	N_NNP
+11	मंदिर_	N_NN
+12	कहा_	V_VM
+13	जाता_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	NULL_	N_NN
+2	प्रचलित_	JJ
+3	है_	V_VM
+4	कि_	CC_CCS
+5	महामाया_	N_NNP
+6	मंदिर_	N_NN
+7	का_	PSP
+8	निर्माण_	N_NN
+9	शिव_	N_NNP
+10	के_	PSP
+11	अखंड_	JJ
+12	भक्त_	N_NN
+13	बाणासुर_	N_NNP
+14	ने_	PSP
+15	किया_	V_VM
+16	था_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	महामाया_	N_NNP
+2	मंदिर_	N_NN
+3	में_	PSP
+4	लोग_	N_NN
+5	इच्छित_	JJ
+6	मनोकामना_	N_NN
+7	की_	PSP
+8	पूर्ति_	N_NN
+9	के_	PSP
+10	लिए_	PSP
+11	मन्नतें_	N_NN
+12	माँगते_	V_VM
+13	हैं_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	शहर_	N_NN
+3	से_	PSP
+4	38_	QT_QTC
+5	कि.मी._	N_NN
+6	दक्षिण_	N_NNP
+7	-_	RD_SYM
+8	पश्चिम_	N_NNP
+9	में_	PSP
+10	स्थित_	JJ
+11	सूरजकुंड_	N_NNP
+12	एक_	QT_QTC
+13	प्रसिद्ध_	JJ
+14	गर्मजल_	N_NN
+15	का_	PSP
+16	झरना_	N_NN
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	झरने_	N_NN
+2	के_	PSP
+3	पानी_	N_NN
+4	का_	PSP
+5	तापमान_	N_NN
+6	190_	QT_QTC
+7	डिग्री_	N_NN
+8	फारेनहाइट_	N_NN
+9	रहता_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	चर्म_	N_NN
+2	रोगी_	N_NN
+3	हजारों_	QT_QTC
+4	की_	PSP
+5	संख्या_	N_NN
+6	में_	PSP
+7	यहाँ_	PR_PRP
+8	आते_	V_VM
+9	रहते_	V_VAUX
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	का_	PSP
+3	सतपहाड़_	N_NNP
+4	ऐसे_	DM_DMD
+5	स्थलों_	N_NN
+6	में_	PSP
+7	से_	PSP
+8	एक_	QT_QTC
+9	है_	V_VM
+10	,_	RD_PUNC
+11	जहाँ_	PR_PRL
+12	चट्टानों_	N_NN
+13	पर_	PSP
+14	की_	V_VM
+15	गई_	V_VAUX
+16	पेटिंग_	N_NN
+17	विश्व_	N_NN
+18	में_	PSP
+19	अपना_	PR_PRF
+20	स्थान_	N_NN
+21	रखती_	V_VM
+22	है_	V_VAUX
+23	।_	RD_PUNC
+
+
+1	सतपहाड़_	N_NNP
+2	में_	PSP
+3	बहुत_	QT_QTF
+4	से_	RP_RPD
+5	माइकोलिथ_	N_NN
+6	तथा_	CC_CCD
+7	रंगे_	V_VM
+8	हुए_	V_VAUX
+9	पत्थर_	N_NN
+10	पाये_	V_VM
+11	गये_	V_VAUX
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	इस्को_	N_NNP
+2	गाँव_	N_NN
+3	के_	PSP
+4	निकट_	N_NST
+5	सती_	N_NNP
+6	हिल्स_	N_NN
+7	की_	PSP
+8	खोज_	N_NN
+9	की_	V_VM
+10	गयी_	V_VAUX
+11	है_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	इतिहासकारों_	N_NN
+2	का_	PSP
+3	कहना_	V_VM
+4	है_	V_VM
+5	कि_	CC_CCS
+6	सती_	N_NNP
+7	हिल्स_	N_NN
+8	की_	PSP
+9	यह_	DM_DMD
+10	गुफा_	N_NN
+11	काफी_	QT_QTF
+12	विशाल_	JJ
+13	रही_	V_VM
+14	होगी_	V_VAUX
+15	और_	CC_CCD
+16	इसमें_	PR_PRP
+17	करीब_	RP_RPD
+18	200_	QT_QTC
+19	लोग_	N_NN
+20	एक_	QT_QTC
+21	साथ_	N_NST
+22	आसानी_	N_NN
+23	से_	PSP
+24	बैठ_	V_VM
+25	सकते_	V_VAUX
+26	हैं_	V_VAUX
+27	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	गुफा_	N_NN
+3	के_	PSP
+4	किनारे_	N_NN
+5	एक_	QT_QTC
+6	नाला_	N_NN
+7	गुजरता_	V_VM
+8	है_	V_VAUX
+9	,_	RD_PUNC
+10	जिसमें_	PR_PRL
+11	साल_	N_NN
+12	भर_	RP_RPD
+13	पानी_	N_NN
+14	बहता_	V_VM
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	इस्को_	N_NNP
+2	गाँव_	N_NN
+3	हजारीबाग_	N_NNP
+4	से_	PSP
+5	45_	QT_QTC
+6	किलोमीटर_	N_NN
+7	दूरी_	N_NN
+8	पर_	PSP
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	इस्को_	N_NNP
+2	गाँव_	N_NN
+3	बड़कागाँव_	N_NNP
+4	प्रखण्ड_	N_NN
+5	में_	PSP
+6	है_	V_VM
+7	।_	RD_PUNC
+
+
+1	पुरातत्ववेत्ताओं_	N_NN
+2	के_	PSP
+3	अनुसार_	PSP
+4	इस्को_	N_NNP
+5	गाँव_	N_NN
+6	की_	PSP
+7	चट्टानों_	N_NN
+8	पर_	PSP
+9	पायी_	V_VM
+10	गई_	V_VAUX
+11	पेंटिंग्स_	N_NN
+12	मध्यकालीन_	JJ
+13	युग_	N_NN
+14	की_	PSP
+15	हैं_	V_VM
+16	।_	RD_PUNC
+
+
+1	इस्को_	N_NNP
+2	गाँव_	N_NN
+3	में_	PSP
+4	यह_	DM_DMD
+5	बात_	N_NN
+6	भी_	RP_RPD
+7	प्रमाणित_	JJ
+8	की_	V_VM
+9	जा_	V_VAUX
+10	चुकी_	V_VAUX
+11	है_	V_VAUX
+12	कि_	CC_CCS
+13	हिमयुग_	N_NNP
+14	में_	PSP
+15	मानव_	N_NN
+16	अत्यधिक_	RP_INTF
+17	गहरी_	JJ
+18	गुफाओं_	N_NN
+19	में_	PSP
+20	रहते_	V_VM
+21	थे_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	झील_	N_NN
+3	शहर_	N_NN
+4	के_	PSP
+5	बीचोंबीच_	N_NST
+6	में_	PSP
+7	स्थित_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	झील_	N_NN
+3	के_	PSP
+4	किनारे_	N_NN
+5	पर्यटकों_	N_NN
+6	के_	PSP
+7	बैठने_	V_VM
+8	के_	PSP
+9	लिए_	PSP
+10	सीढ़ी_	N_NN
+11	बनायी_	V_VM
+12	गयी_	V_VAUX
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	झील_	N_NN
+3	के_	PSP
+4	चारों_	QT_QTC
+5	तरफ_	N_NST
+6	पेड़_	N_NN
+7	लगे_	V_VM
+8	हुए_	V_VAUX
+9	हैं_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	झील_	N_NN
+3	में_	PSP
+4	बोटिंग_	N_NN
+5	की_	PSP
+6	व्यवस्था_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	हजारीबाग_	N_NNP
+2	के_	PSP
+3	पास_	N_NST
+4	ही_	RP_RPD
+5	में_	PSP
+6	स्वर्ण_	N_NN
+7	जयंती_	N_NN
+8	कैफेटेरिया_	N_NN
+9	पार्क_	N_NN
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	स्वर्ण_	N_NN
+2	जयंती_	N_NN
+3	कैफेटेरिया_	N_NN
+4	पार्क_	N_NN
+5	में_	PSP
+6	पर्यटक_	N_NN
+7	स्वादिष्ट_	JJ
+8	भोजन_	N_NN
+9	के_	PSP
+10	अलावा_	PSP
+11	झूला_	N_NN
+12	और_	CC_CCD
+13	टॉय_	N_NN
+14	ट्रेन_	N_NN
+15	का_	PSP
+16	आनंद_	N_NN
+17	उठा_	V_VM
+18	सकते_	V_VAUX
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	बड़कागाँव_	N_NNP
+2	(_	RD_SYM
+3	हजारीबाग_	N_NNP
+4	)_	RD_SYM
+5	से_	PSP
+6	महज_	RP_RPD
+7	6_	QT_QTC
+8	कि.मी._	N_NN
+9	की_	PSP
+10	दूरी_	N_NN
+11	पर_	PSP
+12	मेगालीथ_	N_NN
+13	के_	PSP
+14	बेजोड़_	JJ
+15	नमूने_	N_NN
+16	आज_	N_NN
+17	भी_	RP_RPD
+18	बिखरे_	V_VM
+19	पड़े_	V_VAUX
+20	हैं_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	मेगालीथ_	N_NN
+2	के_	PSP
+3	बेजोड़_	JJ
+4	नमूनों_	N_NN
+5	में_	PSP
+6	कई_	QT_QTF
+7	सूक्ष्म_	JJ
+8	उपकरण_	N_NN
+9	तथा_	CC_CCD
+10	माइक्रोलिथिक_	JJ
+11	औजार_	N_NN
+12	आदि_	RP_RPD
+13	शामिल_	JJ
+14	हैं_	V_VM
+15	।_	RD_PUNC
+
+
+1	मेगालिथ_	N_NN
+2	के_	PSP
+3	अद्‌भुत_	JJ
+4	नमूनों_	N_NN
+5	का_	PSP
+6	यह_	DM_DMD
+7	स्थान_	N_NN
+8	इक्वीनोक्स_	N_NNP
+9	प्वाइंटर_	N_NNP
+10	के_	PSP
+11	रूप_	PSP
+12	में_	PSP
+13	जाना_	V_VM
+14	जाता_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	मान्यता_	N_NN
+2	है_	V_VM
+3	कि_	CC_CCS
+4	आदिमानव_	N_NN
+5	यहाँ_	PR_PRP
+6	से_	PSP
+7	सूर्योदय_	N_NN
+8	के_	PSP
+9	दृश्यों_	N_NN
+10	को_	PSP
+11	निहारा_	V_VM
+12	करता_	V_VAUX
+13	होगा_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	रामगढ़_	N_NNP
+2	जिले_	N_NN
+3	के_	PSP
+4	प्रमुख_	JJ
+5	पर्यटन_	N_NN
+6	स्थल_	N_NN
+7	-_	RD_PUNC
+
+
+1	नव_	JJ
+2	सृजित_	JJ
+3	जिला_	N_NN
+4	मुख्यालय_	N_NN
+5	रामगढ़_	N_NNP
+6	एक_	QT_QTC
+7	छावनी_	N_NN
+8	शहर_	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	रामगढ़_	N_NNP
+2	छावनी_	N_NN
+3	से_	PSP
+4	बाहर_	N_NST
+5	नागरिक_	N_NN
+6	क्षेत्र_	N_NN
+7	रामगढ़_	N_NNP
+8	शहर_	N_NN
+9	के_	PSP
+10	रूप_	PSP
+11	में_	PSP
+12	जाना_	V_VM
+13	जाता_	V_VAUX
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	झारखण्ड_	N_NNP
+2	की_	PSP
+3	राजधानी_	N_NN
+4	राँची_	N_NNP
+5	से_	PSP
+6	सटे_	V_VM
+7	उत्तर_	N_NNP
+8	दिशा_	N_NN
+9	में_	PSP
+10	रामगढ़_	N_NNP
+11	शहर_	N_NN
+12	अवस्थित_	JJ
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	वहाँ_	PR_PRP
+2	गंगेश्वर_	N_NNP
+3	नामक_	JJ
+4	लिंग_	N_NN
+5	गंगा_	N_NNP
+6	के_	PSP
+7	द्वारा_	PSP
+8	पूजित_	JJ
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	महत्ता_	N_NN
+2	बोधगया_	N_NNP
+3	की_	PSP
+4	-_	RD_PUNC
+
+
+1	सिद्धार्थ_	N_NNP
+2	के_	PSP
+3	बुद्धत्व_	N_NN
+4	प्राप्ति_	N_NN
+5	और_	CC_CCD
+6	बौद्ध_	JJ
+7	मत_	N_NN
+8	के_	PSP
+9	प्रसार_	N_NN
+10	को_	PSP
+11	2550_	QT_QTC
+12	वर्ष_	N_NN
+13	हो_	V_VM
+14	चुके_	V_VAUX
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	इतना_	QT_QTF
+2	ही_	RP_RPD
+3	प्राचीन_	JJ
+4	है_	V_VM
+5	बोधगया_	N_NNP
+6	का_	PSP
+7	इतिहास_	N_NN
+8	जो_	PR_PRL
+9	युगों_	N_NN
+10	से_	PSP
+11	एक_	QT_QTC
+12	महत्वपूर्ण_	JJ
+13	दर्शन_	N_NN
+14	स्थली_	N_NN
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	भारत_	N_NNP
+2	के_	PSP
+3	पवित्रतम_	JJ
+4	बौद्धस्थलों_	N_NN
+5	में_	PSP
+6	बोधगया_	N_NNP
+7	,_	RD_PUNC
+8	प्रशमित_	JJ
+9	,_	RD_PUNC
+10	शांत_	JJ
+11	एवं_	CC_CCD
+12	नैसर्गिक_	JJ
+13	सौंदर्य_	N_NN
+14	से_	PSP
+15	ओत_	JJ
+16	-_	RD_SYM
+17	प्रोत_	JJ
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	राज्य_	N_NN
+3	का_	PSP
+4	यह_	PR_PRP
+5	प्रमुख_	JJ
+6	पूज्य_	JJ
+7	तीर्थस्थल_	N_NN
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	राजसी_	JJ
+2	जीवन_	N_NN
+3	को_	PSP
+4	त्याग_	V_VM
+5	कर_	V_VAUX
+6	वर्षों_	N_NN
+7	तक_	PSP
+8	परम_	JJ
+9	सत्य_	N_NN
+10	की_	PSP
+11	खोज_	N_NN
+12	करते_	V_VM
+13	रहने_	V_VAUX
+14	के_	PSP
+15	बाद_	N_NST
+16	इसी_	DM_DMD
+17	स्थान_	N_NN
+18	पर_	PSP
+19	सिद्धार्थ_	N_NNP
+20	भगवान_	N_NN
+21	बुद्ध_	N_NNP
+22	बने_	V_VM
+23	।_	RD_PUNC
+
+
+1	जिस_	DM_DMR
+2	पीपल_	N_NNP
+3	के_	PSP
+4	वृक्ष_	N_NN
+5	के_	PSP
+6	नीचे_	N_NST
+7	राजकुमार_	N_NN
+8	सिद्धार्थ_	N_NNP
+9	को_	PSP
+10	जीवन_	N_NN
+11	में_	PSP
+12	परम_	JJ
+13	संबोधि_	N_NN
+14	से_	PSP
+15	साक्षात्कार_	N_NN
+16	हुआ_	V_VM
+17	,_	RD_PUNC
+18	वह_	DM_DMD
+19	वृक्ष_	N_NN
+20	आज_	N_NN
+21	भी_	RP_RPD
+22	यहाँ_	PR_PRP
+23	के_	PSP
+24	वातावरण_	N_NN
+25	को_	PSP
+26	पवित्र_	JJ
+27	कर_	V_VM
+28	रहा_	V_VAUX
+29	है_	V_VAUX
+30	।_	RD_PUNC
+
+
+1	NULL_	PR_PRP
+2	उल्लेखनीय_	JJ
+3	है_	V_VM
+4	कि_	CC_CCS
+5	वर्ष_	N_NN
+6	2006_	QT_QTC
+7	-_	RD_SYM
+8	7_	QT_QTC
+9	को_	PSP
+10	महात्मा_	N_NN
+11	बुद्ध_	N_NNP
+12	के_	PSP
+13	महापरिनिर्वाण_	N_NN
+14	के_	PSP
+15	2550_	QT_QTC
+16	वर्ष_	N_NN
+17	के_	PSP
+18	रूप_	PSP
+19	में_	PSP
+20	मनाया_	V_VM
+21	जा_	V_VAUX
+22	रहा_	V_VAUX
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	का_	PSP
+3	प्राचीन_	JJ
+4	इतिहास_	N_NN
+5	अत्यंत_	RP_INTF
+6	गौरवपूर्ण_	JJ
+7	एवं_	CC_CCD
+8	प्रासंगिक_	JJ
+9	रहा_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	राज्य_	N_NN
+3	के_	PSP
+4	अनेक_	QT_QTF
+5	नगर_	N_NN
+6	ऐसे_	PR_PRP
+7	हैं_	V_VM
+8	,_	RD_PUNC
+9	जहाँ_	PR_PRL
+10	भारत_	N_NNP
+11	की_	PSP
+12	आध्यात्मिक_	JJ
+13	एवं_	CC_CCD
+14	धार्मिक_	JJ
+15	मान्यताओं_	N_NN
+16	का_	PSP
+17	जन्म_	N_NN
+18	हुआ_	V_VM
+19	।_	RD_PUNC
+
+
+1	इसी_	DM_DMD
+2	प्रदेश_	N_NN
+3	की_	PSP
+4	मिट्टी_	N_NN
+5	में_	PSP
+6	दुनिया_	N_NN
+7	भर_	RP_RPD
+8	को_	PSP
+9	दिशा_	N_NN
+10	देने_	V_VM
+11	वाले_	PSP
+12	महान_	JJ
+13	प्रज्ञापुरुषों_	N_NN
+14	ने_	PSP
+15	जन्म_	N_NN
+16	लिया_	V_VM
+17	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	प्रांत_	N_NN
+3	की_	PSP
+4	पृष्ठभूमि_	N_NN
+5	अत्यंत_	RP_INTF
+6	पौराणिक_	JJ
+7	है_	V_VM
+8	,_	RD_PUNC
+9	जिसका_	PR_PRL
+10	उल्लेख_	N_NN
+11	पुराणों_	N_NN
+12	एवं_	CC_CCD
+13	वेदों_	N_NN
+14	में_	PSP
+15	भी_	RP_RPD
+16	मिलता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	NULL_	PR_PRP
+2	उल्लेखनीय_	JJ
+3	है_	V_VM
+4	कि_	CC_CCS
+5	लाइट_	N_NN
+6	ऑफ_	PSP
+7	एशिया_	N_NNP
+8	कहे_	V_VM
+9	जाने_	V_VAUX
+10	वाले_	PSP
+11	भगवान_	N_NN
+12	बुद्ध_	N_NNP
+13	और_	CC_CCD
+14	जैन_	N_NNP
+15	तीर्थकारों_	N_NN
+16	की_	PSP
+17	कर्म_	N_NN
+18	भूमि_	N_NN
+19	भी_	RP_RPD
+20	बिहार_	N_NNP
+21	प्रदेश_	N_NN
+22	था_	V_VM
+23	।_	RD_PUNC
+
+
+1	ईसवीं_	N_NN
+2	काल_	N_NN
+3	के_	PSP
+4	पहले_	N_NST
+5	यहाँ_	PR_PRP
+6	के_	PSP
+7	महान_	JJ
+8	राजाओं_	N_NN
+9	में_	PSP
+10	बिम्बिसार_	N_NNP
+11	,_	RD_PUNC
+12	चन्द्रगुप्त_	N_NNP
+13	मौर्य_	N_NNP
+14	और_	CC_CCD
+15	अशोक_	N_NNP
+16	महान_	N_NN
+17	प्रमुख_	JJ
+18	हैं_	V_VM
+19	।_	RD_PUNC
+
+
+1	सम्राट_	N_NN
+2	अशोक_	N_NNP
+3	के_	PSP
+4	कालखंड_	N_NN
+5	में_	PSP
+6	मगध_	N_NNP
+7	और_	CC_CCD
+8	उसकी_	PR_PRP
+9	राजधानी_	N_NN
+10	पाटलीपुत्र_	N_NNP
+11	की_	PSP
+12	ख्याति_	N_NN
+13	दुनिया_	N_NN
+14	भर_	RP_RPD
+15	में_	PSP
+16	व्याप्त_	JJ
+17	थी_	V_VM
+18	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	का_	PSP
+3	वास्तविक_	JJ
+4	नाम_	N_NN
+5	विहार_	N_NNP
+6	था_	V_VM
+7	जो_	PR_PRL
+8	अपभ्रंश_	N_NN
+9	होकर_	V_VM
+10	बिहार_	N_NNP
+11	बन_	V_VM
+12	गया_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	का_	PSP
+3	तात्पर्य_	N_NN
+4	बौद्ध_	JJ
+5	भिक्षुओं_	N_NN
+6	के_	PSP
+7	भ्रमण_	N_NN
+8	से_	PSP
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	NULL_	PR_PRP
+2	स्पष्ट_	JJ
+3	है_	V_VM
+4	कि_	CC_CCS
+5	भगवान_	N_NN
+6	बुद्ध_	N_NNP
+7	के_	PSP
+8	शिष्य_	N_NN
+9	बौद्ध_	JJ
+10	भिक्षु_	N_NN
+11	घूम_	V_VM
+12	-_	RD_SYM
+13	घूमकर_	V_VM
+14	इस_	DM_DMD
+15	पूरे_	JJ
+16	क्षेत्र_	N_NN
+17	में_	PSP
+18	बुद्ध_	N_NNP
+19	की_	PSP
+20	शिक्षाओं_	N_NN
+21	का_	PSP
+22	प्रचार_	N_NN
+23	-_	RD_SYM
+24	प्रसार_	N_NN
+25	करते_	V_VM
+26	थे_	V_VAUX
+27	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	पर_	PSP
+3	प्रचुर_	QT_QTF
+4	संख्या_	N_NN
+5	में_	PSP
+6	बौद्ध_	JJ
+7	मठ_	N_NN
+8	होने_	V_VM
+9	से_	PSP
+10	आज_	N_NN
+11	भी_	RP_RPD
+12	इस_	DM_DMD
+13	स्थान_	N_NN
+14	को_	PSP
+15	अंतर्राष्ट्रीय_	JJ
+16	आध्यात्मिक_	JJ
+17	एवं_	CC_CCD
+18	धार्मिक_	JJ
+19	स्थल_	N_NN
+20	की_	PSP
+21	मान्यता_	N_NN
+22	प्राप्त_	JJ
+23	है_	V_VM
+24	।_	RD_PUNC
+
+
+1	पाटलिपुत्र_	N_NNP
+2	ईसा_	N_NNP
+3	के_	PSP
+4	जन्म_	N_NN
+5	से_	PSP
+6	वर्षों_	N_NN
+7	पूर्व_	N_NST
+8	भी_	RP_RPD
+9	ज्ञान_	N_NN
+10	और_	CC_CCD
+11	ललित_	JJ
+12	कलाओं_	N_NN
+13	का_	PSP
+14	एक_	QT_QTC
+15	अत्यंत_	RP_INTF
+16	समृद्ध_	JJ
+17	और_	CC_CCD
+18	उद्यात्त_	JJ
+19	केन्द्र_	N_NN
+20	रहा_	V_VM
+21	है_	V_VAUX
+22	।_	RD_PUNC
+
+
+1	दुनिया_	N_NN
+2	की_	PSP
+3	पहली_	QT_QTO
+4	यूनिवर्सिटी_	N_NN
+5	(_	RD_SYM
+6	नालंदा_	N_NNP
+7	विश्वविद्यालय_	N_NN
+8	)_	RD_SYM
+9	बिहार_	N_NNP
+10	प्रांत_	N_NN
+11	में_	PSP
+12	स्थित_	JJ
+13	थी_	V_VM
+14	।_	RD_PUNC
+
+
+1	यह_	DM_DMD
+2	भूमि_	N_NN
+3	अंतर्राष्ट्रीय_	JJ
+4	अध्ययनों_	N_NN
+5	की_	PSP
+6	केन्द्र_	N_NN
+7	बिन्दु_	N_NN
+8	रही_	V_VM
+9	है_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	बोधगया_	N_NNP
+2	में_	PSP
+3	जन_	N_NN
+4	-_	RD_SYM
+5	विश्वास_	N_NN
+6	है_	V_VM
+7	कि_	CC_CCS
+8	बुद्ध_	N_NNP
+9	के_	PSP
+10	जन्मदिन_	N_NN
+11	पर_	PSP
+12	मूल_	JJ
+13	बोधि_	N_NNP
+14	वृक्ष_	N_NN
+15	उग_	V_VM
+16	आता_	V_VAUX
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	वनाच्छादित_	JJ
+2	एकांत_	N_NN
+3	में_	PSP
+4	यह_	DM_DMD
+5	सुरम्य_	JJ
+6	स्थल_	N_NN
+7	निरंजना_	N_NNP
+8	नदी_	N_NN
+9	(_	RD_SYM
+10	फाल्गू_	N_NNP
+11	)_	RD_SYM
+12	के_	PSP
+13	तट_	N_NN
+14	पर_	PSP
+15	गया_	N_NNP
+16	से_	PSP
+17	13_	QT_QTC
+18	किलोमीटर_	N_NN
+19	की_	PSP
+20	दूरी_	N_NN
+21	पर_	PSP
+22	स्थित_	JJ
+23	है_	V_VM
+24	।_	RD_PUNC
+
+
+1	वर्तमान_	N_NN
+2	में_	PSP
+3	जो_	DM_DMR
+4	बोधि_	N_NNP
+5	वृक्ष_	N_NN
+6	अस्तित्व_	N_NN
+7	में_	PSP
+8	है_	V_VM
+9	,_	RD_PUNC
+10	वह_	PR_PRP
+11	भगवान_	N_NN
+12	बुद्ध_	N_NNP
+13	के_	PSP
+14	कालखंड_	N_NN
+15	के_	PSP
+16	वृक्ष_	N_NN
+17	की_	PSP
+18	पाँचवी_	QT_QTO
+19	पीढ़ी_	N_NN
+20	का_	PSP
+21	NULL_	N_NN
+22	है_	V_VM
+23	।_	RD_PUNC
+
+
+1	बोधगया_	N_NNP
+2	में_	PSP
+3	स्थित_	JJ
+4	महाबोधि_	N_NNP
+5	मंदिर_	N_NN
+6	असंख्य_	JJ
+7	श्रद्धालुओं_	N_NN
+8	की_	PSP
+9	भावनाओं_	N_NN
+10	एवं_	CC_CCD
+11	धार्मिक_	JJ
+12	मान्यताओं_	N_NN
+13	का_	PSP
+14	केन्द्र_	N_NN
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	बोधि_	N_NNP
+3	वृक्ष_	N_NN
+4	से_	PSP
+5	पूर्व_	N_NNP
+6	में_	PSP
+7	स्थित_	JJ
+8	है_	V_VM
+9	,_	RD_PUNC
+10	जिसका_	PR_PRL
+11	भूतल_	N_NN
+12	48_	QT_QTC
+13	वर्ग_	N_NN
+14	फुट_	N_NN
+15	का_	PSP
+16	NULL_	N_NN
+17	है_	V_VM
+18	।_	RD_PUNC
+
+
+1	महाबोधि_	N_NNP
+2	मंदिर_	N_NN
+3	की_	PSP
+4	ऊँचाई_	N_NN
+5	170_	QT_QTC
+6	फुट_	N_NN
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	महाबोधि_	N_NNP
+2	मंदिर_	N_NN
+3	के_	PSP
+4	शीर्ष_	N_NN
+5	पर_	PSP
+6	छज्जे_	N_NN
+7	बनाये_	V_VM
+8	गये_	V_VAUX
+9	हैं_	V_VAUX
+10	,_	RD_PUNC
+11	जो_	PR_PRL
+12	धर्म_	N_NN
+13	की_	PSP
+14	संप्रभुता_	N_NN
+15	के_	PSP
+16	द्योतक_	JJ
+17	हैं_	V_VM
+18	।_	RD_PUNC
+
+
+1	मंदिर_	N_NN
+2	के_	PSP
+3	अंदर_	N_NST
+4	मुख्य_	JJ
+5	पवित्र_	JJ
+6	स्थल_	N_NN
+7	है_	V_VM
+8	,_	RD_PUNC
+9	जहाँ_	PR_PRL
+10	एक_	QT_QTC
+11	चबूतरे_	N_NN
+12	पर_	PSP
+13	बुद्ध_	N_NNP
+14	की_	PSP
+15	विशाल_	JJ
+16	प्रतिमा_	N_NN
+17	प्रतिष्ठापित_	JJ
+18	की_	V_VM
+19	गई_	V_VAUX
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	महाबोधि_	N_NNP
+2	मंदिर_	N_NN
+3	का_	PSP
+4	क्षेत्र_	N_NN
+5	विभिन्न_	JJ
+6	प्रकार_	N_NN
+7	के_	PSP
+8	स्तूपों_	N_NN
+9	से_	PSP
+10	आच्छादित_	JJ
+11	है_	V_VM
+12	।_	RD_PUNC
+
+
+1	इन_	DM_DMD
+2	स्तूपों_	N_NN
+3	में_	PSP
+4	से_	PSP
+5	अनेक_	QT_QTF
+6	स्तूप_	N_NN
+7	मनौतियाँ_	N_NN
+8	पूरी_	JJ
+9	करने_	V_VM
+10	के_	PSP
+11	लिये_	PSP
+12	प्रसिद्ध_	JJ
+13	हैं_	V_VM
+14	।_	RD_PUNC
+
+
+1	जबकि_	CC_CCS
+2	कुछ_	QT_QTF
+3	स्तूप_	N_NN
+4	बुद्ध_	N_NNP
+5	की_	PSP
+6	स्मृति_	N_NN
+7	में_	PSP
+8	तो_	RP_RPD
+9	कुछ_	QT_QTF
+10	स्थल_	N_NN
+11	की_	PSP
+12	सौंदर्य_	N_NN
+13	वृद्धि_	N_NN
+14	करने_	V_VM
+15	के_	PSP
+16	लिये_	PSP
+17	बनाये_	V_VM
+18	गये_	V_VAUX
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	बोधगया_	N_NNP
+2	में_	PSP
+3	विश्व_	N_NN
+4	भर_	RP_RPD
+5	में_	PSP
+6	बौद्ध_	N_NNP
+7	धर्म_	N_NN
+8	को_	PSP
+9	मानने_	V_VM
+10	वाले_	PSP
+11	देशों_	N_NN
+12	के_	PSP
+13	मंदिर_	N_NN
+14	हैं_	V_VM
+15	।_	RD_PUNC
+
+
+1	लगभग_	RP_RPD
+2	2,500_	QT_QTC
+3	वर्षों_	N_NN
+4	की_	PSP
+5	अनवरत_	JJ
+6	काल_	N_NN
+7	यात्रा_	N_NN
+8	में_	PSP
+9	विविध_	JJ
+10	स्वरूपों_	N_NN
+11	,_	RD_PUNC
+12	भावों_	N_NN
+13	,_	RD_PUNC
+14	एवं_	CC_CCD
+15	आकारों_	N_NN
+16	में_	PSP
+17	निर्मित_	JJ
+18	ये_	DM_DMD
+19	स्तूप_	N_NN
+20	भारतीय_	JJ
+21	स्थापत्य_	N_NN
+22	एवं_	CC_CCD
+23	सौंदर्य_	N_NN
+24	के_	PSP
+25	परिचायक_	N_NN
+26	हैं_	V_VM
+27	।_	RD_PUNC
+
+
+1	बोधि_	N_NNP
+2	मंदिर_	N_NN
+3	में_	PSP
+4	रतनागर_	N_NNP
+5	नामक_	JJ
+6	स्थान_	N_NN
+7	पर_	PSP
+8	बुद्ध_	N_NNP
+9	ने_	PSP
+10	एक_	QT_QTC
+11	सप्ताह_	N_NN
+12	तक_	PSP
+13	निवास_	N_NN
+14	किया_	V_VM
+15	।_	RD_PUNC
+
+
+1	NULL_	N_NN
+2	मान्यता_	N_NN
+3	है_	V_VM
+4	कि_	CC_CCS
+5	यहाँ_	PR_PRP
+6	बुद्ध_	N_NNP
+7	की_	PSP
+8	देह_	N_NN
+9	पर_	PSP
+10	पाँच_	QT_QTC
+11	रंग_	N_NN
+12	खिल_	V_VM
+13	उठे_	V_VAUX
+14	थे_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	जबकि_	CC_CCS
+2	कमलताल_	N_NNP
+3	नामक_	JJ
+4	स्थान_	N_NN
+5	पर_	PSP
+6	बुद्ध_	N_NNP
+7	ने_	PSP
+8	एक_	QT_QTC
+9	सप्ताह_	N_NN
+10	तक_	PSP
+11	प्रवास_	N_NN
+12	किया_	V_VM
+13	।_	RD_PUNC
+
+
+1	कुल_	QT_QTF
+2	मिलाकर_	V_VM
+3	बोध_	N_NNP
+4	गया_	N_NNP
+5	दुनिया_	N_NN
+6	भर_	RP_RPD
+7	में_	PSP
+8	विस्तारित_	JJ
+9	बौद्ध_	JJ
+10	धर्मावलंबियों_	N_NN
+11	के_	PSP
+12	लिये_	PSP
+13	परम_	JJ
+14	श्रद्धा_	N_NN
+15	एवं_	CC_CCD
+16	महामान्यता_	N_NN
+17	का_	PSP
+18	केन्द्र_	N_NN
+19	है_	V_VM
+20	,_	RD_PUNC
+21	जहाँ_	PR_PRL
+22	एक_	QT_QTC
+23	बार_	N_NN
+24	पहुँचने_	V_VM
+25	भर_	RP_RPD
+26	से_	PSP
+27	श्रद्धालु_	N_NN
+28	अपने_	PR_PRF
+29	जीवन_	N_NN
+30	को_	PSP
+31	परिपूर्ण_	JJ
+32	अनुभव_	N_NN
+33	करता_	V_VM
+34	है_	V_VAUX
+35	।_	RD_PUNC
+
+
+1	बोधगया_	N_NNP
+2	से_	PSP
+3	112_	QT_QTC
+4	किलोमीटर_	N_NN
+5	की_	PSP
+6	दूरी_	N_NN
+7	पर_	PSP
+8	स्थित_	JJ
+9	पटना_	N_NNP
+10	एयरपोर्ट_	N_NN
+11	यहाँ_	PR_PRP
+12	से_	PSP
+13	निकटतम_	JJ
+14	हवाईअड्डा_	N_NN
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	निकटतम_	JJ
+2	रेलवे_	N_NN
+3	स्टेशन_	N_NN
+4	गया_	N_NNP
+5	है_	V_VM
+6	,_	RD_PUNC
+7	जिसकी_	PR_PRL
+8	दूरी_	N_NN
+9	यहाँ_	PR_PRP
+10	से_	PSP
+11	16_	QT_QTC
+12	किलोमीटर_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	गया_	N_NNP
+2	से_	PSP
+3	बोध_	N_NNP
+4	गया_	N_NNP
+5	तक_	PSP
+6	राष्ट्रीय_	JJ
+7	राजमार्ग_	N_NN
+8	है_	V_VM
+9	,_	RD_PUNC
+10	जो_	PR_PRL
+11	दिल्ली_	N_NNP
+12	-_	RD_PUNC
+13	कोलकाता_	N_NNP
+14	को_	PSP
+15	जोड़ता_	V_VM
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	बिहार_	N_NNP
+2	राज्य_	N_NN
+3	पर्यटन_	N_NN
+4	विकास_	N_NN
+5	निगम_	N_NN
+6	द्वारा_	PSP
+7	बोधगया_	N_NNP
+8	के_	PSP
+9	लिये_	PSP
+10	प्रतिदिन_	N_NN
+11	डीलक्स_	JJ
+12	बसें_	N_NN
+13	संचालित_	JJ
+14	की_	V_VM
+15	जाती_	V_VAUX
+16	हैं_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	बैद्यनाथ_	N_NNP
+2	धाम_	N_NN
+3	:_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	देवगढ़_	N_NNP
+3	में_	PSP
+4	स्थित_	JJ
+5	है_	V_VM
+6	,_	RD_PUNC
+7	जिसकी_	PR_PRL
+8	दूरी_	N_NN
+9	पटना_	N_NNP
+10	से_	PSP
+11	29_	QT_QTC
+12	किलोमीटर_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	भगवान_	N_NN
+3	शिव_	N_NNP
+4	का_	PSP
+5	प्राचीन_	JJ
+6	मंदिर_	N_NN
+7	है_	V_VM
+8	,_	RD_PUNC
+9	जिसकी_	PR_PRL
+10	अत्यंत_	JJ
+11	मान्यता_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	पावापुरी_	N_NNP
+2	:_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	जैन_	N_NNP
+3	धर्म_	N_NN
+4	के_	PSP
+5	24_	QT_QTC
+6	वें_	RP_RPD
+7	तीर्थकार_	N_NN
+8	भगवान_	N_NN
+9	महावीर_	N_NNP
+10	की_	PSP
+11	निर्वाण_	N_NN
+12	स्थली_	N_NN
+13	है_	V_VM
+14	।_	RD_PUNC
+
+
+1	जो_	PR_PRL
+2	पटना_	N_NNP
+3	से_	PSP
+4	90_	QT_QTC
+5	किलोमीटर_	N_NN
+6	की_	PSP
+7	दूरी_	N_NN
+8	पर_	PSP
+9	स्थित_	JJ
+10	है_	V_VM
+11	।_	RD_PUNC
+
+
+1	जैन_	N_NN
+2	धर्मावलंबियों_	N_NN
+3	के_	PSP
+4	लिये_	PSP
+5	यह_	PR_PRP
+6	एक_	QT_QTC
+7	पावन_	JJ
+8	तीर्थ_	N_NN
+9	है_	V_VM
+10	,_	RD_PUNC
+11	जहाँ_	PR_PRL
+12	की_	PSP
+13	यात्रा_	N_NN
+14	अपना_	PR_PRF
+15	एक_	QT_QTC
+16	विशेष_	JJ
+17	महत्व_	N_NN
+18	रखती_	V_VM
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	सीतामढ़ी_	N_NNP
+2	:_	RD_PUNC
+
+
+1	यहीं_	PR_PRP
+2	के_	PSP
+3	जानकीकुंड_	N_NNP
+4	नामक_	JJ
+5	स्थान_	N_NN
+6	पर_	PSP
+7	भगवान_	N_NN
+8	श्री_	N_NN
+9	राम_	N_NNP
+10	के_	PSP
+11	श्वसुर_	N_NN
+12	राजा_	N_NN
+13	जनक_	N_NNP
+14	को_	PSP
+15	नवजात_	JJ
+16	सीता_	N_NNP
+17	मिली_	V_VM
+18	थीं_	V_VAUX
+19	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	नदी_	N_NN
+3	में_	PSP
+4	गोलाकार_	JJ
+5	पत्थरों_	N_NN
+6	के_	PSP
+7	टुकडे_	N_NN
+8	भरे_	V_VM
+9	पड़े_	V__VAUX
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	तिरुवनन्तपुरम_	N_NNP
+2	से_	PSP
+3	50_	QT_QTC
+4	कि.मी._	N_NN
+5	दूरी_	N_NN
+6	पर_	PSP
+7	स्थित_	JJ
+8	कल्लार_	N_NNP
+9	पर्यटकों_	N_NN
+10	और_	CC_CCD
+11	यात्रियों_	N_NN
+12	का_	PSP
+13	प्रिय_	JJ
+14	मनोरंजन_	N_NN
+15	स्थल_	N_NN
+16	है_	V_VM
+17	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	का_	PSP
+3	मुख्य_	JJ
+4	आकर्षण_	N_NN
+5	है_	V_VM
+6	पास_	N_NST
+7	के_	PSP
+8	वनान्तर_	N_NNP
+9	की_	PSP
+10	गोल्डन_	JJ
+11	वैली_	N_NN
+12	(_	RD_SYM
+13	सुवर्ण_	JJ
+14	उपत्यका_	N_NNP
+15	)_	RD_SYM
+16	और_	CC_CCD
+17	मीनमुट्टि_	N_NNP
+18	जलप्रपात_	N_NN
+19	।_	RD_PUNC
+
+
+1	गोल्डन_	JJ
+2	वैली_	N_NN
+3	प्रधान_	JJ
+4	सड़क_	N_NN
+5	के_	PSP
+6	बहुत_	QT_QTF
+7	निकट_	N_NST
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	यहाँ_	PR_PRP
+2	कल्लार_	N_NNP
+3	के_	PSP
+4	साफ_	JJ
+5	ठंडे_	JJ
+6	पानी_	N_NN
+7	में_	PSP
+8	स्नान_	N_NN
+9	करने_	V_VM
+10	की_	PSP
+11	सुविधा_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	पत्थर_	N_NN
+2	पर_	PSP
+3	होकर_	V_VM
+4	बहती_	V_VM
+5	कल्लार_	N_NNP
+6	गोल्डन_	JJ
+7	वैली_	N_NN
+8	में_	PSP
+9	अनेक_	QT_QTF
+10	छोटी_	JJ
+11	-_	RD_SYM
+12	छोटी_	JJ
+13	जलराशियाँ_	N_NN
+14	बनती_	V_VM
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	पुल_	N_NN
+3	के_	PSP
+4	किनारे_	N_NN
+5	से_	PSP
+6	दाईं_	JJ
+7	तरफ_	N_NST
+8	के_	PSP
+9	छोटे_	JJ
+10	पथ_	N_NN
+11	से_	PSP
+12	चलते_	V_VM
+13	चले_	V_VM
+14	जाएँ_	V_VAUX
+15	तो_	CC_CCS
+16	आप_	PR_PRP
+17	मीनमुट्टि_	N_NNP
+18	पहुँचेंगे_	V_VM
+19	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	यात्रा_	N_NN
+3	में_	PSP
+4	कई_	QT_QTF
+5	तितलियाँ_	N_NN
+6	तथा_	CC_CCD
+7	चिड़ियाँ_	N_NN
+8	दिखाई_	V_VM
+9	देंगी_	V_VAUX
+10	।_	RD_PUNC
+
+
+1	मीनमुट्टि_	N_NNP
+2	के_	PSP
+3	जंगल_	N_NN
+4	में_	PSP
+5	बरसात_	N_NN
+6	में_	PSP
+7	खुजली_	N_NN
+8	पैदा_	JJ
+9	करने_	V_VM
+10	वाले_	PSP
+11	कीड़े_	N_NN
+12	मकौड़े_	N_NN
+13	होते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	वनसंरक्षण_	N_NN
+3	समिति_	N_NN
+4	की_	PSP
+5	ओर_	N_NST
+6	से_	PSP
+7	वन_	N_NN
+8	-_	RD_SYM
+9	भ्रमण_	N_NN
+10	के_	PSP
+11	लिए_	PSP
+12	गाइड_	N_NN
+13	नियुक्त_	JJ
+14	किए_	V_VM
+15	हैं_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	क्षेत्र_	N_NN
+2	के_	PSP
+3	निवासियों_	N_NN
+4	तथा_	CC_CCD
+5	वन_	N_NN
+6	विभाग_	N_NN
+7	ने_	PSP
+8	मिलकर_	V_VM
+9	वन_	N_NN
+10	संरक्षण_	N_NN
+11	समिति_	N_NN
+12	का_	PSP
+13	गठन_	N_NN
+14	किया_	V_VM
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	के_	PSP
+3	पर्यटकों_	N_NN
+4	के_	PSP
+5	लिए_	PSP
+6	जिला_	N_NN
+7	टूरिज़्म_	N_NN
+8	प्रोमोशन_	N_NN
+9	काउंसिल_	N_NN
+10	ने_	PSP
+11	सुविधाएँ_	N_NN
+12	उपलब्ध_	JJ
+13	कराई_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	में_	PSP
+3	विश्राम_	N_NN
+4	तथा_	CC_CCD
+5	आतिथ्य_	N_NN
+6	-_	RD_SYM
+7	सत्कार_	N_NN
+8	की_	PSP
+9	व्यवस्था_	N_NN
+10	भी_	RP_RPD
+11	की_	V_VM
+12	गई_	V_VAUX
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	में_	PSP
+3	भोजन_	N_NN
+4	कक्ष_	N_NN
+5	,_	RD_PUNC
+6	शौचालय_	N_NN
+7	,_	RD_PUNC
+8	चेंजिंग_	N_NN
+9	रूम_	N_NN
+10	,_	RD_PUNC
+11	वन_	N_NN
+12	संसाधन_	N_NN
+13	विक्रय_	N_NN
+14	केन्द्र_	N_NN
+15	,_	RD_PUNC
+16	टेलिफोन_	N_NN
+17	बूथ_	N_NN
+18	,_	RD_PUNC
+19	NULL_	CC_CCD
+20	पार्किंग_	N_NN
+21	स्थान_	N_NN
+22	आदि_	RP_RPD
+23	की_	PSP
+24	सुविधा_	N_NN
+25	उपलब्ध_	JJ
+26	हैं_	V_VM
+27	।_	RD_PUNC
+
+
+1	कल्लार_	N_NNP
+2	से_	PSP
+3	निकटतम_	JJ
+4	रेलवे_	N_NN
+5	स्टेशन_	N_NN
+6	तिरुवनन्तपुरम_	N_NNP
+7	61_	QT_QTC
+8	कि.मी._	N_NN
+9	की_	PSP
+10	दूरी_	N_NN
+11	पर_	PSP
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
+1	तिरुवनन्तपुरम_	N_NNP
+2	अन्तर्राष्ट्रीय_	JJ
+3	हवाई_	JJ
+4	अड्डा_	N_NN
+5	से_	PSP
+6	कल्लार_	N_NNP
+7	67_	QT_QTC
+8	कि.मी._	N_NN
+9	है_	V_VM
+10	।_	RD_PUNC
+
+
+1	यदि_	CC_CCS
+2	आपने_	PR_PRP
+3	अब_	PR_PRP
+4	तक_	PSP
+5	पैदल_	JJ
+6	या_	CC_CCD
+7	वाहन_	N_NN
+8	में_	PSP
+9	वन_	N_NN
+10	सौन्दर्य_	N_NN
+11	का_	PSP
+12	मज़ा_	N_NN
+13	चखा_	V_VM
+14	हो_	V_VAUX
+15	तो_	CC_CCS
+16	हाथी_	N_NN
+17	पर_	PSP
+18	सवार_	JJ
+19	होकर_	V_VM
+20	वन_	N_NN
+21	भ्रमण_	N_NN
+22	की_	PSP
+23	सुविधा_	N_NN
+24	मिलने_	V_VM
+25	पर_	PSP
+26	क्या_	RB
+27	आप_	PR_PRP
+28	उसका_	PR_PRP
+29	आनंद_	N_NN
+30	नहीं_	RP_NEG
+31	उठाएँगे_	V_VM
+32	?_	RD_PUNC
+
+
+1	वन्यपशु_	N_NN
+2	विभाग_	N_NN
+3	तथा_	CC_CCD
+4	कोट्टूर_	N_NNP
+5	इक्को_	N_NN
+6	डेवलेपमेंट_	N_NN
+7	समिति_	N_NN
+8	के_	PSP
+9	संयुक्त_	JJ
+10	तत्वावधान_	N_NN
+11	में_	PSP
+12	काप्पुकाट्टु_	N_NNP
+13	में_	PSP
+14	इसकी_	PR_PRP
+15	सुविधा_	N_NN
+16	प्रदान_	N_NN
+17	की_	V_VM
+18	गई_	V_VAUX
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	तिरुवनन्तपुरम_	N_NNP
+2	से_	PSP
+3	18_	QT_QTC
+4	कि.मी._	N_NN
+5	की_	PSP
+6	दूरी_	N_NN
+7	पर_	PSP
+8	स्थित_	JJ
+9	काट्टाक्कडा_	N_NNP
+10	के_	PSP
+11	पास_	N_NST
+12	स्थित_	JJ
+13	है_	V_VM
+14	काप्पुकाडु_	N_NNP
+15	।_	RD_PUNC
+
+
+1	हाथी_	N_NN
+2	की_	PSP
+3	सवारी_	N_NN
+4	बोट_	N_NN
+5	लैंडिंग_	N_NN
+6	प्वाइंट_	N_NN
+7	से_	PSP
+8	शुरू_	JJ
+9	होती_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	अगस्त्य_	N_NNP
+2	वन_	N_NN
+3	क्षेत्र_	N_NN
+4	में_	PSP
+5	आयोजित_	JJ
+6	आधे_	QT_QTF
+7	घंटे_	N_NN
+8	का_	PSP
+9	यह_	DM_DMD
+10	भ्रमण_	N_NN
+11	सैलानियों_	N_NN
+12	और_	CC_CCD
+13	प्रकृति_	N_NN
+14	प्रेमियों_	N_NN
+15	के_	PSP
+16	लिए_	PSP
+17	चिरस्मरणीय_	JJ
+18	अनुभव_	N_NN
+19	साबित_	JJ
+20	होगा_	V_VM
+21	।_	RD_PUNC
+
+
+1	काप्पुकाडु_	N_NNP
+2	से_	PSP
+3	शुरू_	JJ
+4	होने_	V_VM
+5	वाला_	PSP
+6	यह_	DM_DMD
+7	भ्रमण_	N_NN
+8	घने_	JJ
+9	जंगल_	N_NN
+10	से_	PSP
+11	होकर_	V_VM
+12	गुजरता_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	सैलानी_	N_NN
+2	इरावुपारा_	N_NNP
+3	होते_	V_VM
+4	हुए_	V_VAUX
+5	काप्पुकाडु_	N_NNP
+6	में_	PSP
+7	वापस_	JJ
+8	पहुँच_	V_VM
+9	सकते_	V_VAUX
+10	हैं_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	काप्पुकाडु_	N_NNP
+2	ट्राइबल_	JJ
+3	इक्को_	N_NN
+4	डेवलेपमेंट_	N_NN
+5	कमेटी_	N_NN
+6	ने_	PSP
+7	प्रस्तुत_	JJ
+8	भ्रमण_	N_NN
+9	की_	PSP
+10	व्यवस्था_	N_NN
+11	की_	V_VM
+12	है_	V_VAUX
+13	जिसका_	PR_PRL
+14	किराया_	N_NN
+15	मात्र_	RP_RPD
+16	रु._	N_NN
+17	100_	QT_QTC
+18	हैं_	V_VM
+19	।_	RD_PUNC
+
+
+1	पालोड_	N_NNP
+2	के_	PSP
+3	पास_	N_NST
+4	इडिंजार_	N_NNP
+5	में_	PSP
+6	वनान्तर_	N_NN
+7	में_	PSP
+8	कालक्कयम_	N_NNP
+9	जलप्रपात_	N_NN
+10	अपनी_	PR_PRF
+11	छवि_	N_NN
+12	बिखेरता_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	कालक्कयम_	N_NNP
+2	जलप्रपात_	N_NN
+3	साहसी_	JJ
+4	पर्यटकों_	N_NN
+5	तथा_	CC_CCD
+6	प्रकृति_	N_NN
+7	प्रेमियों_	N_NN
+8	को_	PSP
+9	अपनी_	PR_PRF
+10	ओर_	N_NST
+11	आकृष्ट_	JJ
+12	करता_	V_VM
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	पालोड_	N_NNP
+2	तिरुवनन्तपुरम_	N_NNP
+3	से_	PSP
+4	35_	QT_QTC
+5	कि.मी._	N_NN
+6	दूर_	N_NST
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	पालोड_	N_NNP
+2	से_	PSP
+3	पेरिंगम्मला_	N_NNP
+4	पहुँच_	V_VM
+5	सकते_	V_VAUX
+6	हैं_	V_VAUX
+7	।_	RD_PUNC
+
+
+1	पेरिंगम्मला_	N_NNP
+2	से_	PSP
+3	इडिंजार_	N_NNP
+4	के_	PSP
+5	रास्ते_	N_NN
+6	आगे_	N_NST
+7	जायें_	V_VM
+8	तो_	CC_CCS
+9	12_	QT_QTC
+10	कि.मी._	N_NN
+11	के_	PSP
+12	बाद_	N_NST
+13	कुरिश्शडी_	N_NNP
+14	पहुँच_	V_VM
+15	जाएँगे_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	पालोड_	N_NNP
+2	में_	PSP
+3	ही_	RP_RPD
+4	कालक्कयम_	N_NNP
+5	जलप्रपात_	N_NN
+6	दिखता_	V_VM
+7	है_	V_VAUX
+8	।_	RD_PUNC
+
+
+1	कालक्कयम_	N_NNP
+2	जलप्रपात_	N_NN
+3	और_	CC_CCD
+4	चारों_	QT_QTC
+5	ओर_	N_NST
+6	की_	PSP
+7	प्रकृति_	N_NN
+8	नयनाभिराम_	JJ
+9	दृश्य_	N_NN
+10	से_	PSP
+11	मन_	N_NN
+12	को_	PSP
+13	लुभाती_	V_VM
+14	है_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	जलप्रपात_	N_NN
+2	मंकयम_	N_NNP
+3	झरने_	N_NN
+4	का_	PSP
+5	भाग_	N_NN
+6	है_	V_VM
+7	जो_	PR_PRL
+8	अगस्त्यकुंड_	N_NNP
+9	से_	PSP
+10	निकलता_	V_VM
+11	है_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	कालक्कयम_	N_NNP
+2	जलप्रपात_	N_NN
+3	के_	PSP
+4	आगे_	N_NST
+5	एक_	QT_QTC
+6	जलराशि_	N_NN
+7	बनी_	V_VM
+8	है_	V_VAUX
+9	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	जलराशि_	N_NN
+3	में_	PSP
+4	चिकने_	JJ
+5	पत्थर_	N_NN
+6	अधिक_	QT_QTF
+7	मात्रा_	N_NN
+8	में_	PSP
+9	हैं_	V_VM
+10	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	जलराशि_	N_NN
+3	में_	PSP
+4	जाने_	V_VM
+5	वाले_	PSP
+6	को_	PSP
+7	बहुत_	QT_QTF
+8	सावधानी_	N_NN
+9	से_	PSP
+10	जाना_	V_VM
+11	चाहिए_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	वनमार्ग_	N_NN
+2	से_	PSP
+3	पर्यटकों_	N_NN
+4	के_	PSP
+5	लिए_	PSP
+6	आयोजित_	JJ
+7	भ्रमण_	N_NN
+8	यात्रा_	N_NN
+9	पशु_	N_NN
+10	और_	CC_CCD
+11	वनस्पति_	N_NN
+12	सम्पदा_	N_NN
+13	का_	PSP
+14	साक्षात्कार_	N_NN
+15	करवाती_	V_VM
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	आधुनिक_	JJ
+2	भारतीय_	JJ
+3	चित्रकला_	N_NN
+4	के_	PSP
+5	जनक_	N_NN
+6	राजा_	N_NN
+7	रवि_	N_NNP
+8	वर्मा_	N_NNP
+9	का_	PSP
+10	जन्म_	N_NN
+11	किलिमानूर_	N_NNP
+12	राजमहल_	N_NN
+13	में_	PSP
+14	हुआ_	V_VM
+15	था_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	यह_	PR_PRP
+2	भी_	RP_RPD
+3	उल्लेखनीय_	JJ
+4	है_	V_VM
+5	कि_	CC_CCS
+6	रवि_	N_NNP
+7	वर्मा_	N_NNP
+8	के_	PSP
+9	अलावा_	PSP
+10	उनकी_	PR_PRP
+11	बहिन_	N_NN
+12	और_	CC_CCD
+13	मामा_	N_NN
+14	भी_	RP_RPD
+15	कुशल_	JJ
+16	चित्रकार_	N_NN
+17	थे_	V_VM
+18	।_	RD_PUNC
+
+
+1	किलिमानूर_	N_NNP
+2	राजमहल_	N_NN
+3	में_	PSP
+4	जन्मे_	JJ
+5	रवि_	N_NNP
+6	वर्मा_	N_NNP
+7	के_	PSP
+8	प्रथम_	QT_QTO
+9	गुरु_	N_NN
+10	उनके_	PR_PRP
+11	अपने_	PR_PRF
+12	मामा_	N_NN
+13	राज_	N_NNP
+14	वर्मा_	N_NNP
+15	थे_	V_VM
+16	।_	RD_PUNC
+
+
+1	राजमहल_	N_NN
+2	में_	PSP
+3	रहकर_	V_VM
+4	राजा_	N_NN
+5	रवि_	N_NNP
+6	वर्मा_	N_NNP
+7	ने_	PSP
+8	पश्चिमी_	JJ
+9	चित्रकला_	N_NN
+10	तकनीकों_	N_NN
+11	,_	RD_PUNC
+12	विशेषतः_	RB
+13	तैलचित्र_	N_NNP
+14	कला_	N_NN
+15	का_	PSP
+16	परिचय_	N_NN
+17	पाया_	V_VM
+18	।_	RD_PUNC
+
+
+1	बाद_	N_NST
+2	में_	PSP
+3	राजा_	N_NN
+4	रवि_	N_NNP
+5	वर्मा_	N_NNP
+6	विश्वप्रसिद्ध_	JJ
+7	हो_	V_VM
+8	गए_	V_VAUX
+9	।_	RD_PUNC
+
+
+1	राजा_	N_NN
+2	रवि_	N_NNP
+3	वर्मा_	N_NNP
+4	कई_	QT_QTF
+5	वर्ष_	N_NN
+6	मुम्बई_	N_NNP
+7	और_	CC_CCD
+8	बड़ौदा_	N_NNP
+9	में_	PSP
+10	रहे_	V_VM
+11	।_	RD_PUNC
+
+
+1	तिरुवनन्तपुरम_	N_NNP
+2	से_	PSP
+3	39_	QT_QTC
+4	कि.मी._	N_NN
+5	दूर_	N_NST
+6	स्थित_	JJ
+7	किलिमानूर_	N_NNP
+8	राजमहल_	N_NN
+9	15_	QT_QTC
+10	एकड़_	N_NN
+11	भूमि_	N_NN
+12	में_	PSP
+13	फैला_	V_VM
+14	हुआ_	V_VAUX
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	किलिमानूर_	N_NNP
+2	राजमहल_	N_NN
+3	में_	PSP
+4	छोटे_	JJ
+5	-_	RD_SYM
+6	बड़े_	JJ
+7	भवन_	N_NN
+8	,_	RD_PUNC
+9	तालाब_	N_NN
+10	,_	RD_PUNC
+11	कुएँ_	N_NN
+12	,_	RD_PUNC
+13	NULL_	CC_CCD
+14	काव_	N_NN
+15	सब_	PR_PRP
+16	निर्मित_	JJ
+17	किए_	V_VM
+18	गए_	V_VAUX
+19	हैं_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	रविवर्मा_	N_NNP
+2	चित्र_	N_NN
+3	का_	PSP
+4	सबसे_	RP_INTF
+5	बड़ा_	JJ
+6	निजी_	JJ
+7	संग्रहालय_	N_NN
+8	आज_	N_NN
+9	भी_	RP_RPD
+10	बडौदा_	N_NNP
+11	राजपरिवार_	N_NN
+12	के_	PSP
+13	पास_	N_NST
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	दो_	QT_QTC
+2	वर्ष_	N_NN
+3	के_	PSP
+4	बडौदा_	N_NNP
+5	जीवन_	N_NN
+6	में_	PSP
+7	उन्होंने_	PR_PRP
+8	पुराण_	N_NN
+9	संबन्धी_	JJ
+10	14_	QT_QTC
+11	चित्र_	N_NN
+12	बनाए_	V_VM
+13	।_	RD_PUNC
+
+
+1	भारत_	N_NNP
+2	के_	PSP
+3	राजा_	N_NN
+4	एवं_	CC_CCD
+5	ब्रिटिश_	JJ
+6	शासक_	N_NN
+7	सभी_	PR_PRP
+8	रविवर्मा_	N_NNP
+9	से_	PSP
+10	चित्र_	N_NN
+11	बनवाने_	V_VM
+12	के_	PSP
+13	लिए_	PSP
+14	अत्यंत_	RP_INTF
+15	लालायित_	JJ
+16	रहते_	V_VM
+17	थे_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	राजमहल_	N_NNP
+2	का_	PSP
+3	प्रवेश_	N_NN
+4	द्वार_	N_NN
+5	राजा_	N_NN
+6	रवि_	N_NNP
+7	वर्मा_	N_NNP
+8	की_	PSP
+9	चित्रशाला_	N_NN
+10	(_	RD_SYM
+11	आर्ट_	N_NN
+12	गैलरी_	N_NN
+13	)_	RD_SYM
+14	की_	PSP
+15	ओर_	N_NST
+16	खुलता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	राजमहल_	N_NN
+2	के_	PSP
+3	प्रवेश_	N_NN
+4	द्वार_	N_NN
+5	पर_	PSP
+6	बैठकर_	V_VM
+7	राजा_	N_NN
+8	रवि_	N_NNP
+9	वर्मा_	N_NNP
+10	चित्र_	N_NN
+11	रचना_	N_NN
+12	करते_	V_VM
+13	थे_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	यहीं_	PR_PRP
+2	स्टुडियो_	N_NN
+3	में_	PSP
+4	उनकी_	PR_PRP
+5	रचनाओं_	N_NN
+6	की_	PSP
+7	प्रतियाँ_	N_NN
+8	सुरक्षित_	JJ
+9	रखी_	V_VM
+10	गई_	V_VAUX
+11	हैं_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	आमेर_	N_NNP
+2	का_	PSP
+3	प्रसिद्ध_	JJ
+4	दुर्ग_	N_NN
+5	आज_	N_NN
+6	भी_	RP_RPD
+7	ऐतिहासिक_	JJ
+8	फिल्मों_	N_NN
+9	के_	PSP
+10	निर्माताओं_	N_NN
+11	को_	PSP
+12	शूटिंग_	N_NN
+13	के_	PSP
+14	लिए_	PSP
+15	आमंत्रित_	JJ
+16	करता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	दुर्ग_	N_NN
+2	का_	PSP
+3	मुख्य_	JJ
+4	द्वार_	N_NN
+5	गणेश_	N_NNP
+6	पोल_	N_NN
+7	कहलाता_	V_VM
+8	है_	V_VAUX
+9	।_	RD_PUNC
+
+
+1	मुख्य_	JJ
+2	द्वार_	N_NN
+3	की_	PSP
+4	नक्काशी_	N_NN
+5	अत्यन्त_	RP_INTF
+6	आकर्षक_	JJ
+7	है_	V_VM
+8	।_	RD_PUNC
+
+
+1	आमेर_	N_NNP
+2	में_	PSP
+3	ही_	RP_RPD
+4	है_	V_VM
+5	चालीस_	QT_QTC
+6	खम्बों_	N_NN
+7	वाला_	PSP
+8	वह_	DM_DMD
+9	शीश_	N_NN
+10	महल_	N_NN
+11	,_	RD_PUNC
+12	जहाँ_	PR_PRL
+13	माचिस_	N_NN
+14	की_	PSP
+15	तीली_	N_NN
+16	जलाने_	V_VM
+17	पर_	PSP
+18	सारे_	QT_QTF
+19	महल_	N_NN
+20	में_	PSP
+21	दीपावलियाँ_	N_NN
+22	आलोकित_	JJ
+23	हो_	V_VM
+24	उठती_	V_VAUX
+25	है_	V_VAUX
+26	।_	RD_PUNC
+
+
+1	हाथी_	N_NN
+2	की_	PSP
+3	सवारी_	N_NN
+4	यहाँ_	PR_PRP
+5	का_	PSP
+6	विशेष_	JJ
+7	आकर्षण_	N_NN
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	जो_	PR_PRL
+2	देशी_	JJ
+3	सैलानियों_	N_NN
+4	से_	PSP
+5	अधिक_	QT_QTF
+6	विदेशी_	JJ
+7	पर्यटकों_	N_NN
+8	के_	PSP
+9	लिए_	PSP
+10	कौतूहल_	N_NN
+11	और_	CC_CCD
+12	आनंद_	N_NN
+13	का_	PSP
+14	विषय_	N_NN
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	सतपुड़ा_	N_NNP
+2	-_	RD_PUNC
+
+
+1	मैकल_	N_NNP
+2	और_	CC_CCD
+3	विंध्य_	N_NNP
+4	पर्वत_	N_NN
+5	शृंखला_	N_NN
+6	के_	PSP
+7	संधि_	N_NN
+8	स्थल_	N_NN
+9	पर_	PSP
+10	सुरम्य_	JJ
+11	नील_	JJ
+12	वादियों_	N_NN
+13	में_	PSP
+14	बसा_	V_VM
+15	अमरकंटक_	N_NNP
+16	ग्रीष्मकाल_	N_NNP
+17	के_	PSP
+18	लिए_	PSP
+19	अनुपम_	JJ
+20	पर्यटन_	N_NN
+21	स्थल_	N_NN
+22	है_	V_VM
+23	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	को_	PSP
+3	प्रकृति_	N_NN
+4	और_	CC_CCD
+5	पौराणिकता_	N_NN
+6	ने_	PSP
+7	विविध_	JJ
+8	संपदा_	N_NN
+9	की_	PSP
+10	धरोहर_	N_NN
+11	बख्शी_	V_VM
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	चारों_	QT_QTC
+2	ओर_	N_NST
+3	हरियाली_	N_NN
+4	,_	RD_PUNC
+5	दूधधारा_	N_NNP
+6	और_	CC_CCD
+7	कपिलधारा_	N_NNP
+8	के_	PSP
+9	झरनों_	N_NN
+10	का_	PSP
+11	मनोरम_	JJ
+12	दृश्य_	N_NN
+13	,_	RD_PUNC
+14	सोननदी_	N_NNP
+15	की_	PSP
+16	कलकल_	N_NN
+17	करती_	V_VM
+18	धारा_	N_NN
+19	,_	RD_PUNC
+20	नर्मदा_	N_NNP
+21	कुंड_	N_NN
+22	की_	PSP
+23	पवित्रता_	N_NN
+24	,_	RD_PUNC
+25	NULL_	CC_CCD
+26	पहाड़ियों_	N_NN
+27	की_	PSP
+28	हरी_	JJ
+29	-_	RD_PUNC
+30	भरी_	RD_ECH
+31	उँचाइयाँ_	N_NN
+32	हैं_	V_VM
+33	।_	RD_PUNC
+
+
+1	"_	RD_PUNC
+2	अमरकंटक_	N_NNP
+3	,_	RD_PUNC
+4	सोन_	N_NNP
+5	और_	CC_CCD
+6	नर्मदा_	N_NNP
+7	नदी_	N_NN
+8	की_	PSP
+9	उद्गम_	N_NN
+10	स्थली_	N_NN
+11	है_	V_VM
+12	।_	RD_PUNC
+13	"_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	20_	QT_QTC
+3	'_	RD_SYM
+4	उत्तरी_	JJ
+5	अक्षांश_	N_NN
+6	और_	CC_CCD
+7	80_	QT_QTC
+8	'_	RD_SYM
+9	पूर्वी_	JJ
+10	देशांश_	N_NN
+11	के_	PSP
+12	बीच_	N_NST
+13	स्थित_	JJ
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	नदी_	N_NN
+3	1312_	QT_QTC
+4	कि.मी._	N_NN
+5	चलकर_	V_VM
+6	गुजरात_	N_NNP
+7	में_	PSP
+8	21_	QT_QTC
+9	'_	RD_SYM
+10	उत्तरी_	JJ
+11	अक्षांश_	N_NN
+12	और_	CC_CCD
+13	72_	QT_QTC
+14	'_	RD_SYM
+15	पूर्वी_	JJ
+16	देशांश_	N_NN
+17	के_	PSP
+18	बीच_	N_NST
+19	स्थित_	JJ
+20	खंभात_	N_NNP
+21	की_	PSP
+22	खाड़ी_	N_NN
+23	के_	PSP
+24	निकट_	N_NST
+25	गिरती_	V_VM
+26	है_	V_VAUX
+27	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	नदी_	N_NN
+3	1077_	QT_QTC
+4	कि.मी._	N_NN
+5	मध्यप्रदेश_	N_NNP
+6	के_	PSP
+7	शहडोल_	N_NNP
+8	,_	RD_PUNC
+9	मंडला_	N_NNP
+10	,_	RD_PUNC
+11	जबलपुर_	N_NNP
+12	,_	RD_PUNC
+13	नरसिंहपुर_	N_NNP
+14	,_	RD_PUNC
+15	होशंगाबाद_	N_NNP
+16	,_	RD_PUNC
+17	खंडवा_	N_NNP
+18	और_	CC_CCD
+19	खरगौन_	N_NNP
+20	जिले_	N_NN
+21	में_	PSP
+22	बहती_	V_VM
+23	है_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	इसके_	PR_PRP
+2	बाद_	N_NST
+3	नर्मदा_	N_NNP
+4	नदी_	N_NN
+5	74_	QT_QTC
+6	कि.मी._	N_NN
+7	महाराष्ट्र_	N_NNP
+8	को_	PSP
+9	स्पर्श_	N_NN
+10	करती_	V_VM
+11	हुई_	V_VAUX
+12	बहती_	V_VM
+13	है_	V_VAUX
+14	,_	RD_PUNC
+15	जिसमें_	PR_PRL
+16	34_	QT_QTC
+17	कि.मी._	N_NN
+18	तक_	PSP
+19	मध्यप्रदेश_	N_NNP
+20	और_	CC_CCD
+21	40_	QT_QTC
+22	कि.मी._	N_NN
+23	तक_	PSP
+24	गुजरात_	N_NNP
+25	के_	PSP
+26	साथ_	N_NST
+27	महाराष्ट्र_	N_NNP
+28	की_	PSP
+29	सीमाएँ_	N_NN
+30	बनाती_	V_VM
+31	हैं_	V_VAUX
+32	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	नदी_	N_NN
+3	खंभात_	N_NNP
+4	की_	PSP
+5	खाड़ी_	N_NN
+6	में_	PSP
+7	गिरने_	V_VM
+8	के_	PSP
+9	पहले_	N_NST
+10	लगभग_	RP_RPD
+11	161_	QT_QTC
+12	कि.मी._	N_NN
+13	गुजरात_	N_NNP
+14	में_	PSP
+15	बहती_	V_VM
+16	है_	V_VAUX
+17	।_	RD_PUNC
+
+
+1	इस_	DM_DMD
+2	प्रकार_	N_NN
+3	नर्मदा_	N_NNP
+4	नदी_	N_NN
+5	के_	PSP
+6	प्रवाह_	N_NN
+7	पथ_	N_NN
+8	में_	PSP
+9	मध्यप्रदेश_	N_NNP
+10	,_	RD_PUNC
+11	महाराष्ट्र_	N_NNP
+12	,_	RD_PUNC
+13	और_	CC_CCD
+14	गुजरात_	N_NNP
+15	राज्य_	N_NN
+16	पड़ता_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	का_	PSP
+3	कुल_	JJ
+4	जल_	N_NN
+5	संग्रहण_	N_NN
+6	क्षेत्र_	N_NN
+7	98799_	QT_QTC
+8	वर्ग_	N_NN
+9	कि.मी._	N_NN
+10	है_	V_VM
+11	जिसमें_	PR_PRL
+12	80.02_	QT_QTC
+13	प्रतिशत_	N_NN
+14	मध्यप्रदेश_	N_NNP
+15	में_	PSP
+16	,_	RD_PUNC
+17	3.31_	QT_QTC
+18	प्रतिशत_	N_NN
+19	महाराष्ट्र_	N_NNP
+20	में_	PSP
+21	और_	CC_CCD
+22	8.67_	QT_QTC
+23	प्रतिशत_	N_NN
+24	क्षेत्र_	N_NN
+25	गुजरात_	N_NNP
+26	में_	PSP
+27	है_	V_VM
+28	।_	RD_PUNC
+
+
+1	नदी_	N_NN
+2	के_	PSP
+3	कछार_	N_NN
+4	में_	PSP
+5	160_	QT_QTC
+6	लाख_	QT_QTC
+7	एकड़_	N_NN
+8	भूमि_	N_NN
+9	सिंचित_	JJ
+10	होती_	V_VM
+11	है_	V_VAUX
+12	जिसमें_	PR_PRL
+13	144_	QT_QTC
+14	लाख_	QT_QTC
+15	एकड़_	N_NN
+16	अकेले_	JJ
+17	मध्यप्रदेश_	N_NNP
+18	में_	PSP
+19	है_	V_VM
+20	,_	RD_PUNC
+21	NULL_	CC_CCD
+22	शेष_	JJ
+23	महाराष्ट्र_	N_NNP
+24	और_	CC_CCD
+25	गुजरात_	N_NNP
+26	में_	PSP
+27	है_	V_VM
+28	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	की_	PSP
+3	अरण्य_	N_NN
+4	स्थली_	N_NN
+5	में_	PSP
+6	प्रमुख_	JJ
+7	रूप_	N_NN
+8	से_	PSP
+9	नर्मदा_	N_NNP
+10	और_	CC_CCD
+11	सोन_	N_NNP
+12	नदी_	N_NN
+13	के_	PSP
+14	उद्गम_	N_NN
+15	के_	PSP
+16	आसपास_	N_NST
+17	एक_	QT_QTC
+18	भी_	RP_RPD
+19	बाँस_	N_NN
+20	का_	PSP
+21	पेड़_	N_NN
+22	नहीं_	RP_NEG
+23	है_	V_VM
+24	।_	RD_PUNC
+
+
+1	यही_	PR_PRP
+2	नहीं_	RP_NEG
+3	NULL_	V_VM
+4	NULL_	CC_CCD
+5	अमरकंटक_	N_NNP
+6	की_	PSP
+7	अरण्य_	N_NN
+8	स्थली_	N_NN
+9	में_	PSP
+10	प्रमुख_	JJ
+11	नर्मदा_	N_NNP
+12	कुंड_	N_NN
+13	का_	PSP
+14	पानी_	N_NN
+15	पीने_	V_VM
+16	लायक_	PSP
+17	भी_	RP_RPD
+18	नहीं_	RP_NEG
+19	है_	V_VM
+20	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	कुंड_	N_NN
+3	का_	PSP
+4	पानी_	N_NN
+5	इतना_	QT_QTF
+6	प्रदूषित_	JJ
+7	है_	V_VM
+8	कि_	CC_CCS
+9	आचमन_	N_NN
+10	तक_	PSP
+11	करने_	V_VM
+12	की_	PSP
+13	इच्छा_	N_NN
+14	नहीं_	RP_NEG
+15	होती_	V_VM
+16	।_	RD__PUNC
+
+
+1	इसके_	PR_PRP
+2	विपरीत_	PSP
+3	सोन_	N_NNP
+4	नदी_	N_NN
+5	के_	PSP
+6	उद्गम_	N_NN
+7	का_	PSP
+8	पानी_	N_NN
+9	स्वच्छ_	JJ
+10	और_	CC_CCD
+11	ग्रहण_	N_NN
+12	करने_	V_VM
+13	योग्य_	PSP
+14	है_	V_VM
+15	।_	RD_PUNC
+
+
+1	नर्मदा_	N_NNP
+2	कुंड_	N_NN
+3	को_	PSP
+4	मनुष्य_	N_NN
+5	की_	PSP
+6	कृत्रिमता_	N_NN
+7	ने_	PSP
+8	आधुनिक_	JJ
+9	बनाकर_	V_VM
+10	सीमित_	JJ
+11	कर_	V_VM
+12	दिया_	V_VAUX
+13	है_	V_VAUX
+14	।_	RD_PUNC
+
+
+1	सोन_	N_NNP
+2	नदी_	N_NN
+3	की_	PSP
+4	उद्गम_	N_NN
+5	स्थली_	N_NN
+6	सोन_	N_NNP
+7	-_	RD_PUNC
+8	मुड़ा_	N_NNP
+9	अभी_	PR_PRP
+10	भी_	RP_RPD
+11	प्रकृति_	N_NN
+12	की_	PSP
+13	रमणीयता_	N_NN
+14	और_	CC_CCD
+15	सहजता_	N_NN
+16	से_	PSP
+17	अलंकृत_	JJ
+18	है_	V_VM
+19	।_	RD_PUNC
+
+
+1	समुद्र_	N_NN
+2	से_	PSP
+3	3600_	QT_QTC
+4	फुट_	N_NN
+5	की_	PSP
+6	ऊँचाई_	N_NN
+7	पर_	PSP
+8	स्थित_	JJ
+9	अमरकंटक_	N_NNP
+10	प्राचीन_	JJ
+11	काल_	N_NN
+12	से_	PSP
+13	ही_	RP_RPD
+14	ऋषि_	N_NN
+15	मुनियों_	N_NN
+16	की_	PSP
+17	तपस्थली_	N_NN
+18	,_	RD_PUNC
+19	लक्ष्मी_	N_NNP
+20	जी_	RP_RPD
+21	की_	PSP
+22	शरण_	N_NN
+23	स्थली_	N_NN
+24	और_	CC_CCD
+25	उमा_	N_NNP
+26	महेश्वर_	N_NNP
+27	के_	PSP
+28	विहार_	N_NN
+29	स्थल_	N_NN
+30	के_	PSP
+31	रूप_	PSP
+32	में_	PSP
+33	प्रसिद्ध_	JJ
+34	है_	V_VM
+35	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	के_	PSP
+3	पुजारी_	N_NN
+4	जी_	RP_RPD
+5	ने_	PSP
+6	हमें_	PR_PRP
+7	बताया_	V_VM
+8	कि_	CC_CCS
+9	यहाँ_	PR_PRP
+10	आज_	N_NN
+11	भी_	RP_RPD
+12	शंकर_	N_NNP
+13	जी_	RP_RPD
+14	के_	PSP
+15	डमरू_	N_NN
+16	की_	PSP
+17	आवाज़_	N_NN
+18	सुनाई_	V_VM
+19	देती_	V_VAUX
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	स्वामी_	N_NN
+2	रामकृष्ण_	N_NNP
+3	परमहंस_	N_NNP
+4	आश्रम_	N_NN
+5	के_	PSP
+6	प्रभारी_	N_NN
+7	जी_	RP_RPD
+8	ने_	PSP
+9	बताया_	V_VM
+10	कि_	CC_CCS
+11	अमरकंटक_	N_NNP
+12	का_	PSP
+13	वातावरण_	N_NN
+14	स्वस्थ_	JJ
+15	है_	V_VM
+16	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+
+
+1	साधना_	N_NN
+2	के_	PSP
+3	लिए_	PSP
+4	यह_	PR_PRP
+5	बहुत_	QT_QTF
+6	ही_	RP_RPD
+7	उपयुक्त_	JJ
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	में_	PSP
+3	ब्रह्मा_	N_NNP
+4	के_	PSP
+5	कण_	N_NN
+6	विद्यमान_	JJ
+7	हैं_	V_VM
+8	जो_	PR_PRL
+9	मन_	N_NN
+10	को_	PSP
+11	शांति_	N_NN
+12	प्रदान_	N_NN
+13	करते_	V_VM
+14	हैं_	V_VAUX
+15	।_	RD_PUNC
+
+
+1	बहुत_	QT_QTF
+2	कम_	JJ
+3	लोगों_	N_NN
+4	को_	PSP
+5	NULL_	PR_PRP
+6	मालूम_	JJ
+7	होगा_	V_VM
+8	कि_	CC_CCS
+9	अमरकंटक_	N_NNP
+10	में_	PSP
+11	नर्मदा_	N_NNP
+12	और_	CC_CCD
+13	सोन_	N_NNP
+14	नदी_	N_NN
+15	के_	PSP
+16	अलावा_	PSP
+17	अन्य_	JJ
+18	किसी_	DM_DMI
+19	नदी_	N_NN
+20	का_	PSP
+21	भी_	RP_RPD
+22	उद्गम_	N_NN
+23	है_	V_VM
+24	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	से_	PSP
+3	तीसरी_	QT_QTO
+4	'_	RD_PUNC
+5	निकली_	V_VM
+6	है_	V_VAUX
+7	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	में_	PSP
+3	नर्मदा_	N_NNP
+4	कुंड_	N_NN
+5	से_	PSP
+6	6_	QT_QTC
+7	कि.मी._	N_NN
+8	की_	PSP
+9	दूरी_	N_NN
+10	पर_	PSP
+11	कपिलधारा_	N_NNP
+12	में_	PSP
+13	नर्मदा_	N_NNP
+14	150_	QT_QTC
+15	फीट_	N_NN
+16	नीचे_	N_NST
+17	गिरकर_	V_VM
+18	प्रपात_	N_NN
+19	बनाती_	V_VM
+20	है_	V_VAUX
+21	।_	RD_PUNC
+
+
+1	प्रपात_	N_NN
+2	से_	PSP
+3	थोड़ी_	QT_QTF
+4	दूर_	N_NST
+5	पर_	PSP
+6	नर्मदा_	N_NNP
+7	दूध_	N_NN
+8	की_	PSP
+9	धारा_	N_NN
+10	बनाकर_	V_VM
+11	10_	QT_QTC
+12	फीट_	N_NN
+13	नीचे_	N_NST
+14	गिरती_	V_VM
+15	है_	V_VAUX
+16	।_	RD_PUNC
+
+
+1	उसी_	DM_DMD
+2	तर्ज़_	N_NN
+3	में_	PSP
+4	सोन_	N_NNP
+5	नदी_	N_NN
+6	300_	QT_QTC
+7	फीट_	N_NN
+8	नीचे_	N_NST
+9	गिरती_	V_VM
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	अमरकंटक_	N_NNP
+2	के_	PSP
+3	गर्भ_	N_NN
+4	में_	PSP
+5	बाक्साइट_	N_NNP
+6	है_	V_VM
+7	जिसे_	PR_PRL
+8	निकालकर_	V_VM
+9	बाल्को_	N_NNP
+10	भेजा_	V_VM
+11	जाता_	V_VAUX
+12	है_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	खानों_	N_NN
+2	के_	PSP
+3	विस्फोट_	N_NN
+4	अमरकंटक_	N_NNP
+5	के_	PSP
+6	वातावरण_	N_NN
+7	में_	PSP
+8	कंपकपी_	N_NN
+9	पैदा_	JJ
+10	कर_	V_VM
+11	देते_	V_VAUX
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	"_	RD_PUNC
+2	वंशगुल्म_	N_NNP
+3	''_	RD_PUNC
+4	के_	PSP
+5	नाम_	N_NN
+6	से_	PSP
+7	प्रसिद्ध_	JJ
+8	अमरकंटक_	N_NNP
+9	आज_	N_NN
+10	बाँस_	N_NN
+11	के_	PSP
+12	कटीले_	JJ
+13	पेड़ों_	N_NN
+14	से_	PSP
+15	वंचित_	JJ
+16	होता_	V_VM
+17	जा_	V_VAUX
+18	रहा_	V_VAUX
+19	है_	V_VAUX
+20	।_	RD_PUNC
+
+
+1	अक्षय_	N_NNP
+2	तृतीया_	N_NN
+3	का_	PSP
+4	दिन_	N_NN
+5	उत्तरकाशी_	N_NNP
+6	के_	PSP
+7	लिए_	PSP
+8	विशेष_	JJ
+9	महत्व_	N_NN
+10	रखता_	V_VM
+11	है_	V_VAUX
+12	।_	RD_PUNC
+
+
+1	अक्षय_	N_NNP
+2	तृतीया_	N_NN
+3	को_	PSP
+4	प्रत्येक_	QT_QTF
+5	वर्ष_	N_NN
+6	उत्तराखण्ड_	N_NNP
+7	के_	PSP
+8	चार_	N_NN
+9	में_	PSP
+10	से_	PSP
+11	दो_	QT_QTC
+12	धाम_	N_NN
+13	गंगोत्री_	N_NNP
+14	और_	CC_CCD
+15	यमनोत्री_	N_NNP
+16	के_	PSP
+17	पट_	N_NN
+18	यात्रियों_	N_NN
+19	के_	PSP
+20	लिए_	PSP
+21	खुल_	V_VM
+22	जाते_	V_VAUX
+23	हैं_	V_VAUX
+24	।_	RD_PUNC
+
+
+1	इसी_	PR_PRP
+2	के_	PSP
+3	साथ_	N_NST
+4	चारधाम_	N_NN
+5	यात्रा_	N_NN
+6	का_	PSP
+7	शुभारंभ_	N_NN
+8	हो_	V_VM
+9	जाता_	V_VAUX
+10	है_	V_VAUX
+11	।_	RD_PUNC
+
+
+1	अक्षय_	N_NNP
+2	तृतीया_	N_NN
+3	को_	PSP
+4	गंगाजी_	N_NNP
+5	डोली_	N_NN
+6	में_	PSP
+7	सवार_	JJ
+8	होकर_	V_VM
+9	अपने_	PR_PRF
+10	शीतकाल_	N_NNP
+11	के_	PSP
+12	निवास_	N_NN
+13	मुखिमठ_	N_NNP
+14	से_	PSP
+15	गंगोत्री_	N_NNP
+16	स्थित_	JJ
+17	गंगा_	N_NNP
+18	मंदिर_	N_NN
+19	पहुँचकर_	V_VM
+20	वहाँ_	PR_PRP
+21	अपना_	PR_PRF
+22	ग्रीष्मकालीन_	JJ
+23	निवास_	N_NN
+24	स्थापित_	JJ
+25	कर_	V_VM
+26	लेती_	V_VAUX
+27	हैं_	V_VAUX
+28	।_	RD_PUNC
+
+
+1	मुखिमठ_	N_NNP
+2	को_	PSP
+3	आम_	JJ
+4	भाषा_	N_NN
+5	में_	PSP
+6	लोग_	N_NN
+7	मुखबा_	N_NNP
+8	के_	PSP
+9	नाम_	N_NN
+10	से_	PSP
+11	जानते_	V_VM
+12	हैं_	V_VAUX
+13	।_	RD_PUNC
+
+
+1	ऐसी_	DM_DMD
+2	मान्यता_	N_NN
+3	है_	V_VM
+4	कि_	CC_CCS
+5	मुखबा_	N_NNP
+6	गंगाजी_	N_NNP
+7	का_	PSP
+8	मायका_	N_NN
+9	है_	V_VM
+10	जहाँ_	PR_PRL
+11	वह_	PR_PRP
+12	साल_	N_NN
+13	के_	PSP
+14	छह_	QT_QTC
+15	माह_	N_NN
+16	रहती_	V_VM
+17	हैं_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	अक्षय_	N_NNP
+2	तृतीया_	N_NN
+3	से_	PSP
+4	एक_	QT_QTC
+5	दिन_	N_NN
+6	पहले_	N_NST
+7	गंगाजी_	N_NNP
+8	की_	PSP
+9	डोली_	N_NN
+10	मुखबा_	N_NNP
+11	से_	PSP
+12	गंगोत्री_	N_NNP
+13	के_	PSP
+14	लिए_	PSP
+15	प्रस्थान_	N_NN
+16	करती_	V_VM
+17	है_	V_VAUX
+18	।_	RD_PUNC
+
+
+1	मुखबा_	N_NNP
+2	अत्यंत_	RP_INTF
+3	ही_	RP_RPD
+4	सुंदर_	JJ
+5	गाँव_	N_NN
+6	है_	V_VM
+7	।_	RD_PUNC
+
+
+1	मुखबा_	N_NNP
+2	में_	PSP
+3	अधिकतर_	QT_QTF
+4	भवन_	N_NN
+5	लकड़ी_	N_NN
+6	से_	PSP
+7	निर्मित_	JJ
+8	हैं_	V_VM
+9	।_	RD_PUNC
+
+
+1	मुखबा_	N_NNP
+2	क्षेत्र_	N_NN
+3	अपनी_	PR_PRF
+4	काष्ठ_	N_NN
+5	कला_	N_NN
+6	के_	PSP
+7	लिए_	PSP
+8	प्रसिद्ध_	JJ
+9	है_	V_VM
+10	।_	RD__PUNC
+
+
+1	काष्ठ_	N_NN
+2	कला_	N_NN
+3	के_	PSP
+4	उत्कृष्ट_	JJ
+5	नमूने_	N_NN
+6	मुखबा_	N_NNP
+7	के_	PSP
+8	भवनों_	N_NN
+9	पर_	PSP
+10	स्थित_	JJ
+11	हैं_	V_VM
+12	।_	RD_PUNC
+
+
+1	भवनों_	N_NN
+2	पर_	PSP
+3	की_	V_VM
+4	गई_	V_VAUX
+5	नक्काशी_	N_NN
+6	देखने_	V_VM
+7	लायक_	PSP
+8	है_	V_VM
+9	।_	RD_PUNC
+
+
+1	हमारा_	PR_PRP
+2	अगला_	JJ
+3	पड़ाव_	N_NN
+4	कोपांग_	N_NNP
+5	था_	V_VM
+6	जहाँ_	PR_PRL
+7	सेना_	N_NN
+8	का_	PSP
+9	कैंप_	N_NN
+10	और_	CC_CCD
+11	मंदिर_	N_NN
+12	है_	V_VM
+13	।_	RD_PUNC
+
+
