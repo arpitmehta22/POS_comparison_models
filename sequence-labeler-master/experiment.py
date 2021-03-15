@@ -36,8 +36,13 @@ def read_input_files(file_paths, max_sentence_length=-1):
                     assert(len(line_parts) >= 2)
                     assert(len(line_parts) == line_length or line_length == None)
                     line_length = len(line_parts)
+
+                    line_parts = line_parts[1:]
                     print(line_parts)
-                    sentence.append(line_parts[-2:])
+                    line_parts[0] = line_parts[0].split()
+                    line_parts[1] = line_parts[1].split()
+                    print(line_parts)
+                    sentence.append(line_parts)
                 elif len(line) == 0 and len(sentence) > 0:
                     if max_sentence_length <= 0 or len(sentence) <= max_sentence_length:
                         sentences.append(sentence)
@@ -189,7 +194,6 @@ def run_experiment(config_path):
     print("parameter_count: " + str(labeler.get_parameter_count()))
     print("parameter_count_without_word_embeddings: " +
           str(labeler.get_parameter_count_without_word_embeddings()))
-    print(data_train)
 
     if data_train != None:
         model_selector = config["model_selector"].split(":")[0]
