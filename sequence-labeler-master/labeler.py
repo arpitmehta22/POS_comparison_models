@@ -59,7 +59,7 @@ class SequenceLabeler(object):
             [word for word in word_counter if word_counter[word] == 1])
 
         label_counter = collections.Counter()
-        for sentence in data_train:  # this one only based on training data
+        for sentence in data_source:  # this one only based on training data
             for word in sentence:
                 label_counter[word[-1]] += 1
         self.label2id = collections.OrderedDict()
