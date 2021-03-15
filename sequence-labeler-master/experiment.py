@@ -32,11 +32,11 @@ def read_input_files(file_paths, max_sentence_length=-1):
                 if len(line) > 0:
 
                     line_parts = line.split()
-                    if line_parts[0][0] == '#':
-                        continue
+
                     assert(len(line_parts) >= 2)
                     assert(len(line_parts) == line_length or line_length == None)
                     line_length = len(line_parts)
+                    print(line_length)
                     sentence.append(line_parts)
                 elif len(line) == 0 and len(sentence) > 0:
                     if max_sentence_length <= 0 or len(sentence) <= max_sentence_length:
