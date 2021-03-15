@@ -39,7 +39,6 @@ def read_input_files(file_paths, max_sentence_length=-1):
 
                     line_parts = line_parts[1:]
                     line_parts[0] = line_parts[0][:-1]
-                    print(line_parts[0])
 
                     sentence.append(line_parts)
                 elif len(line) == 0 and len(sentence) > 0:
