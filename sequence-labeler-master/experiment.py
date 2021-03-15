@@ -38,10 +38,7 @@ def read_input_files(file_paths, max_sentence_length=-1):
                     line_length = len(line_parts)
 
                     line_parts = line_parts[1:]
-                    print(line_parts)
-                    line_parts[0] = line_parts[0].split()
-                    line_parts[1] = line_parts[1].split()
-                    print(line_parts)
+
                     sentence.append(line_parts)
                 elif len(line) == 0 and len(sentence) > 0:
                     if max_sentence_length <= 0 or len(sentence) <= max_sentence_length:
