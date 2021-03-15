@@ -189,6 +189,7 @@ def run_experiment(config_path):
     print("parameter_count: " + str(labeler.get_parameter_count()))
     print("parameter_count_without_word_embeddings: " +
           str(labeler.get_parameter_count_without_word_embeddings()))
+    print(data_train)
 
     if data_train != None:
         model_selector = config["model_selector"].split(":")[0]
