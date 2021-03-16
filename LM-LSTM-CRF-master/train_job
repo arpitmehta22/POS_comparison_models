@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH -N 1 
+#SBATCH --ntasks-per-node=10
+#SBATCH --job-name=LM_LSTM
+#SBATCH --error=job.%J.error
+#SBATCH --output=job.%J.out
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:1
+cd /home/arpitmehta.cse18.iitbhu/NLP2/POS_comparison_models/LM-LSTM-CRF-master
+module load conda-python/3.7 cuda/10.1
+
+python train_wc.py --train_file ./data/train_dis.conllu --dev_file ./data/test_dis.conllu --test_file ./data/test_dis.conllu --caseless --fine_tune --high_way --co_train --rand_embedding
+
+
